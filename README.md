@@ -20,3 +20,36 @@ Responsabilidad Compartida: Introducir el cambio climático como cuestión primo
 Compromiso: Reforzar los compromisos para financiar la acción climática en los países del Sur Global y garantizar un amplio compromiso hacia un futuro resiliente al clima y neutro en carbono.
 
 
+
+# EN ESTE REPOSITORIO SE ENCONTRARÁ TODA LA INFORMACIÓN RELEVANTE PARA EL PROYECTO A REALIZAR
+
+Se desarrollará un sistema eficaz con el que se podra detectar señales de posibles fenomenos geograficos.
+[![ODS-13.png](https://i.postimg.cc/445VDWCZ/ODS-13.png)](https://postimg.cc/kD228FXh)
+
+[![grupo.jpg](https://i.postimg.cc/vZL4nBQy/grupo.jpg)](https://postimg.cc/G4t3wb8g)
+
+**INTEGRANTES:** 
+**- Mar Flor Gutierrez Huaman** / Analista de datos
+Me encargare de analizar e interpretar los resultados utilizando técnicas y herramientas estadísticas. Asimismo, redactaré informes con soporte de fuentes confiables.
+
+[![Mar.jpg](https://i.postimg.cc/0jVrMJ8H/Mar.jpg)](https://postimg.cc/wRs9nMRh)
+
+**-Noemi Salomina Arquiño Cerna** / Administradora de ramas
+Me enfocare en mantener la estructura de ramas del repositorio, asegurándose de que se creen, integren y eliminen según las políticas establecidas por el proyecto.
+
+[![Noemi.jpg](https://i.postimg.cc/PxTdhrm3/Noemi.jpg)](https://postimg.cc/mcXvy4pC)
+
+**- Fiorella Ingrid Flores Mescco** / Investigadora
+ Como investigadora, mi misión será explorar nuevas ideas, cuestionar lo establecido y contribuir al avance del conocimiento en el campo asignado. Prepararme para sumergirme en la investigación, analizar datos y formular hipótesis.
+ 
+ [![fio.jpg](https://i.postimg.cc/bYTCJNhX/fio.jpg)](https://postimg.cc/QVFkYDCS)
+
+**- Heiser Jeferson Rojas Burgos** / Desarrollador de Software
+Me encargaré de la supervisión y elaboración de los archivos subidos al repositorio y el manejo del mismo.
+
+[![jeferson.jpg](https://i.postimg.cc/B6hKrzdz/jeferson.jpg)](https://postimg.cc/TLD1mt2j)
+
+
+
+
+
