@@ -19,4 +19,4 @@ Responsabilidad Compartida: Introducir el cambio climático como cuestión primo
 
 Compromiso: Reforzar los compromisos para financiar la acción climática en los países del Sur Global y garantizar un amplio compromiso hacia un futuro resiliente al clima y neutro en carbono.
 
-Sobre Nosotros
+
