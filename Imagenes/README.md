@@ -1,3 +1,2 @@
-# aqui se subiran fotos  de los integrantes havinedo los diversos trabajos
-
+## La carpeta "Imágenes" es el lugar donde puedes almacenar todas las imágenes y gráficos relevantes para el proyecto. Esto puede incluir diagramas, capturas de pantalla, logotipos, ilustraciones y cualquier otro elemento visual que sea útil para comprender o presentar el proyecto de manera efectiva.
 
