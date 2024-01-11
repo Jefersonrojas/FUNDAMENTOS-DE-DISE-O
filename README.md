@@ -24,7 +24,7 @@ Compromiso: Reforzar los compromisos para financiar la acción climática en los
 # EN ESTE REPOSITORIO SE ENCONTRARÁ TODA LA INFORMACIÓN RELEVANTE PARA EL PROYECTO A REALIZAR
 
 Se desarrollará un sistema eficaz con el que se podra detectar señales de posibles fenomenos geograficos.
-[![ODS-13.png](https://i.postimg.cc/445VDWCZ/ODS-13.png)](https://postimg.cc/kD228FXh)
+[![ODS-13.png](https://i.postimg.cc/445VDWCZ/ODS-13.png)](https://postimg.cc/kD
 
 
 
