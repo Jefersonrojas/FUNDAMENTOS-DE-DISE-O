@@ -1,2 +1,2 @@
-# INTEGRANTES
+# informacion
 
