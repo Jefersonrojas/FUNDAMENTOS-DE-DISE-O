@@ -33,6 +33,7 @@ En Perú se centra en la agricultura y ganadería, que son fundamentales para la
 Implementar un proyecto de energía renovable en la comunidad del centro del Perú para reducir las emisiones de gases de efecto invernadero, aumentando la resiliencia ante el cambio climático y promoviendo el uso de tecnologias limpias para la generacion de mejores cosechas en el Perú. 
 
 #### 5.Misión y Visión
+
 |           |Concepto |
 | --------- | -----:|
 | Misión    | Implementar un prototipo tecnológico e innovador que contribuya a los agricultores del centro del Perú a mejorar sus cosechas y que loos efectos del clima no los  perjudique |
