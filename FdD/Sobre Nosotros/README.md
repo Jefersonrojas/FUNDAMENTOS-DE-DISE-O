@@ -33,6 +33,9 @@
 <p align="center">
   <img src="https://i.postimg.cc/FRK7N3dz/mi-i.jpg)](https://postimg.cc/f36wv3vQ)" alt="FOTO ODS 7" width="500px" />
 </p>
+
+ ## - Coordinadora de diseño y modelado 3D
+ 
  Encargada del diseño y el modelamiento del prototipo en 3D a emplear.
 
  
