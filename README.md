@@ -24,8 +24,8 @@ En los últimos años, se registro una disminución del recurso hídrico el cual
 
 
 
-### PROYECTO DE INVESTIGACION ODS 13  "ACCION POR EL CLIMA"
-1. [Introduction](#INTRODUCCIÓN)
+### PROYECTO DE INVESTIGACION ODS 13  "ACCIÓN POR EL CLIMA"
+1. [Introducción](#INTRODUCCIÓN)
 2. [ODS 13](#ods-13-accion-por-el-clima)
 2. [Sobre Nosotros](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/tree/main/FdD/entregables/Sobre%20Nosotros#qui%C3%A9nes-somos)
 3. [Objetivo](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/README.md#4objetivo)
