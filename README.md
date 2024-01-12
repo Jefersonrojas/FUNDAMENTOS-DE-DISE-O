@@ -13,7 +13,7 @@ https://saludconlupa.com/noticias/sequias-en-peru-estamos-ante-uno-de-los-efecto
   <img src="https://saludconlupa.com/media/images/000389818W.width-1920.jpg" alt="FOTO ODS 7" width="600px" />
 </p>
 
-> (S/f). Saludconlupa.com. Recuperado el 12 de enero de 2024, de https://saludconlupa.com/media/images/000389818W.2e16d0ba.fill-1800x945.jpg
+                > (S/f). Saludconlupa.com. Recuperado el 12 de enero de 2024
 
 
 
