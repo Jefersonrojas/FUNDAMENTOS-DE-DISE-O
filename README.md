@@ -20,7 +20,7 @@ https://saludconlupa.com/noticias/sequias-en-peru-estamos-ante-uno-de-los-efecto
 2. [ODS 13](#ods-13-accion-por-el-clima)
 2. [Sobre Nosotros](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/tree/main/FdD/Sobre%20Nosotros#quienes-somos)
 3. [Objetivo](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/README.md#4objetivo)
-1. [Misión y Visión ](#MISIÓN-Y-VISIÓN)
+1. [Misión y Visión ](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/README.md#5misi%C3%B3n-y-visi%C3%B3n)
 
 ### ¿Cómo afecta el cambio climático a la agricultura y ganadería peruana?
 El cambio climático es una de las principales amenazas a la agricultura y ganadería peruana. Impactos negativos incluyen cambios en el régimen de lluvias, aumento de la temperatura, incremento de la frecuencia y magnitud de fenómenos extremos, y variaciones en las plagas y enfermedades.
