@@ -30,14 +30,14 @@ Ingeniero mecatrónico y Magíster en Informática Biomédica en Salud Global de
 Ingeniero Ambiental de la Universidad Nacional Federico Villarreal, con más de nueve años de experiencia en el área de síntesis y caracterización de nanomateriales carbonosos, óxidos metálicos y complejos organometálicos. Asimismo, ha explorado la separación y purificación de colorantes naturales durante sus estudios de maestría y doctorado en la Universidad Nacional de Ingeniería (Perú), participando en pasantías de laboratorios en universidades de Alemania y Reino Unido. Ha laborado en el sector público brindando apoyo técnico e interactuando con la administración pública para implementar proyectos urbanos sostenibles con endeergías renovables, plantas de tratamiento de aguas, plantas de valorización de residuos sólidos e Internet de las Cosas para el monitoreo atmosférico y de la calidad del aire. 
 
 
-## Ing. Juan Manuel Zúñiga Mamani 
+##  Ingeniero. Juan Manuel Zúñiga Mamani 
 
 
        juan.zuniga@upch.pe
        
 Ingeniero Mecánico por la Universidad Nacional de Ingeniería con estudios de Maestría en Física. Desde el 2014 viene trabajando en proyectos de investigación y desarrollo tecnológico en el área de diseño mecánico y desarrollo de nuevos materiales para el sector industrial y académico a través de las tecnologías 4.0(diseño y simulación mecánica en la nube, manufactura aditiva, manufactura asistida por computadora). Actualmente, realiza actividades de docencia y es coordinador de los Laboratorios de Ingeniería de UPCH desde el año 2019.
 
-## Ing. Renzo José Chan Ríos 
+##  Ingeniero. Renzo José Chan Ríos 
 
 
         renzo.chan@upch.pe
