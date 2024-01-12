@@ -16,7 +16,7 @@ https://saludconlupa.com/noticias/sequias-en-peru-estamos-ante-uno-de-los-efecto
 
 ### PROYECTO DE INVESTIGACION ODS 13  "ACCION POR EL CLIMA"
 1. [Introduction](#INTRODUCCIÓN)
-3. [Miembros](#MIEMBROS)
+3. [Sobre Nosotros](#Sobre Nosotros)
 4. [ODS 13](#ods-13-accion-por-el-clima)
    
 =============
