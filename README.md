@@ -22,9 +22,10 @@ https://saludconlupa.com/noticias/sequias-en-peru-estamos-ante-uno-de-los-efecto
 3. [Objetivo](#OBJETIVO)
 1. [Misión y Visión ](#MISIÓN-Y-VISIÓN)
 
-|           | Concepto |
+|           |Concepto |
 | --------- | -----:|
-| Misión    | Implementar un prototipo tecnológico e innovador que contribuya a los agricultores del centro del Perú a mejorar sus cosechas y que loos efectos del clima no los perjudique |
+| Misión    | Implementar un prototipo tecnológico e innovador que contribuya a los agricultores del centro del Perú a mejorar sus cosechas y que loos efectos del clima no los 
+              perjudique |
 | Visión    |  Creación de comunidades y sociedades resilientes y sostenibles, fomentando el uso de fuente de energias renovables como la solar.|
 
 
