@@ -21,7 +21,7 @@
 </p>
 
 ## Coordinadora de la  Manufactura digital
-Encargada de la identificación de los procesos de fabricación acorde a su modelo digital
+ Encargada de la identificación de los procesos de fabricación acorde a su modelo digital
       
        fiorella.flores.m@upch.pe
        
@@ -33,7 +33,7 @@ Encargada de la identificación de los procesos de fabricación acorde a su mode
 <p align="center">
   <img src="https://i.postimg.cc/FRK7N3dz/mi-i.jpg)](https://postimg.cc/f36wv3vQ)" alt="FOTO ODS 7" width="500px" />
 </p>
-##  Encargada del diseño y el modelamiento del prototipo en 3D a emplear.
+ Encargada del diseño y el modelamiento del prototipo en 3D a emplear.
        noemi.arquino@upch.pe
 
 ## - Rojas Burgos, Heiser Jeferson
