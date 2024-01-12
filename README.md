@@ -1,4 +1,4 @@
-# "QALLARIY"
+# "ACCIÓN POR EL CLIMA"
 
 ## ¡Explora las maravillas del Repositorio del Grupo 8 en el fascinante viaje del curso "Fundamentos de Diseño"! 🚀 ¡Aquí encontrarás creatividad, innovación y el talento único de nuestro grupo! 🎨✨ ¡Bienvenidos a un mundo de diseño excepcional! 🌟👩‍🎨👨‍🎨 #Grupo8 #FundamentosDeDiseño 🌈
 
