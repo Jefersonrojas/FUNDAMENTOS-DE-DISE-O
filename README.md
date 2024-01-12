@@ -25,7 +25,7 @@ https://saludconlupa.com/noticias/sequias-en-peru-estamos-ante-uno-de-los-efecto
 ### ¿Cómo afecta el cambio climático a la agricultura y ganadería peruana?
 El cambio climático es una de las principales amenazas a la agricultura y ganadería peruana. Impactos negativos incluyen cambios en el régimen de lluvias, aumento de la temperatura, incremento de la frecuencia y magnitud de fenómenos extremos, y variaciones en las plagas y enfermedades.
 
-### problemática
+### Problemática 
 En Perú se centra en la agricultura y ganadería, que son fundamentales para la producción de alimentos y recursos en el país. Estos sectores pueden verse afectados negativamente por el aumento en la sequía, la salinidad del suelo, la propagación de plagas y enfermedades, y otros impactos del cambio climático.
 
 
