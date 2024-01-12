@@ -26,14 +26,14 @@ Encargada de la identificación de los procesos de fabricación acorde a su mode
        fiorella.flores.m@upch.pe
        
  
- ## - ARQUIÑO CERNA, NOEMI SALOMINA
+ ##  - ARQUIÑO CERNA, NOEMI SALOMINA
  Estudiante del tercer año de la carrera de Ingeniería Informática, apasionada por las nuevas 
  actualizaciones de la tecnología y la inteligencia artificial. 
  
 <p align="center">
   <img src="https://i.postimg.cc/FRK7N3dz/mi-i.jpg)](https://postimg.cc/f36wv3vQ)" alt="FOTO ODS 7" width="500px" />
 </p>
-## Encargada del diseño y el modelamiento del prototipo en 3D a emplear.
+##  Encargada del diseño y el modelamiento del prototipo en 3D a emplear.
        noemi.arquino@upch.pe
 
 ## - Rojas Burgos, Heiser Jeferson
