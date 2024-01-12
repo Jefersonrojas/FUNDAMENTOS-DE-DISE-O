@@ -21,9 +21,11 @@ https://saludconlupa.com/noticias/sequias-en-peru-estamos-ante-uno-de-los-efecto
 2. [Sobre Nosotros](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/tree/main/FdD/Sobre%20Nosotros#quienes-somos)
 3. [Objetivo](#OBJETIVO)
 1. [Misión y Visión ](#MISIÓN-Y-VISIÓN)
- 
 
-
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
 
 
 
