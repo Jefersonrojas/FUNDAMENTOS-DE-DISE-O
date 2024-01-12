@@ -38,7 +38,7 @@ Encargada de la identificación de los procesos de fabricación acorde a su mode
 Encargada del diseño y el modelamiento del prototipo en 3D a emplear.
 
 
-## - Burgos Rojas, Heiser Jeferson
+## - Rojas Burgos, Heiser Jeferson
 Estudiante del tercer año de la carrera de Ingeniería Informatica, interesado en el avance y el funcionamiento de los lenguajes de programación.
 
 <p align="center">
