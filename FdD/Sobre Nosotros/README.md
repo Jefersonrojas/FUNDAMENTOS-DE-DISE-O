@@ -1,4 +1,4 @@
-# ¿QUIENES SOMOS?
+# ¿QUIÉNES SOMOS?
 
  ## - Gutierrez Huaman, Mar Flor
  Estudiante del tercer año de la carrera ingeniera ambiental,  amante del senderismo y defensora del adecuado crecimiento de los cultivos.
@@ -26,17 +26,16 @@ Encargada de la identificación de los procesos de fabricación acorde a su mode
        fiorella.flores.m@upch.pe
        
  
- ## - Arquiño Cerna, Noemi Salomina
- Estudiante del tercer año de la carrera de Ingeniería Informatica, apasasionada por 
+ ## - ARQUIÑO CERNA, NOEMI SALOMINA
+ Estudiante del tercer año de la carrera de Ingeniería Informática, apasasionada por las nuevas 
+ actualizaciones de la tecnología y la inteligencia artificial. 
  
-
 <p align="center">
   <img src="https://i.postimg.cc/FRK7N3dz/mi-i.jpg)](https://postimg.cc/f36wv3vQ)" alt="FOTO ODS 7" width="500px" />
 </p>
-
 ## Coordinadora de diseño y modelado 3D
 Encargada del diseño y el modelamiento del prototipo en 3D a emplear.
-
+       noemi.arquino@upch.pe
 
 ## - Rojas Burgos, Heiser Jeferson
 Estudiante del tercer año de la carrera de Ingeniería Informatica, interesado en el avance y el funcionamiento de los lenguajes de programación.
