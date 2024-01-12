@@ -5,7 +5,12 @@ El curso de fundamentos de diseño generalmente se centra en proporcionar a los 
 ##  Mg. Umbert Lewis De la Cruz Rodriguez / umbert.de.la.cruz@upch.pe 
 Magíster en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia. Apasionado por aprender y enseñar. Es un entusiasta por la investigación y el desarrollo tecnológico. Fue director y fundador del Centro de Capacitación en tecnologías de la industria 4.0 de Data Science Research Perú. Fue coordinador de laboratorios especializados en la UTP Piura. Mentor en programas de Ingeniería Biomédica por la IEEE EMBS UTP Y UNMSM. En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH. 
 
-## Mg. Paulo Camilo Vela Antón / paulo.vela@upch.pe 
+## Mg. Paulo Camilo Vela Antón 
+
+
+paulo.vela@upch.pe 
+
+
 Ingeniero mecatrónico y Magíster en Informática Biomédica en Salud Global de la Universidad Peruana Cayetano Heredia. Cuenta además con estudios en Gestión de la Tecnología y la Innovación y Diplomacia Científica. Miembro de la Royal Academy of Engineering de Reino Unido a través del programa "Leaders in Innovation Fellowships", y participante activo del programa "Engineering for Change" de EEUU, comunidad internacional enfocada en el diseño de soluciones ingenieriles con impacto social en las áreas de salud, energía y medio ambiente. Sus proyectos de investigación se enfocan en temas como Internet de las Cosas, Big Data y Aprendizaje Automático. En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH.
 
 ## Mg. Moises Stevend Meza Rodriguez / moises.meza@upch.pe
