@@ -1,6 +1,7 @@
 # "ACCIÓN POR EL CLIMA"
 
-## ¡Explora las maravillas del Repositorio del Grupo 8 en el fascinante viaje del curso "Fundamentos de Diseño"! 🚀 ¡Aquí encontrarás creatividad, innovación y el talento único de nuestro grupo! 🎨✨ ¡Bienvenidos a un mundo de diseño excepcional! 🌟👩‍🎨👨‍🎨 #Grupo8 #FundamentosDeDiseño 🌈
+## Caso: Escasez de agua en zonas agropecuarias del Perú
+
 
 ### Situación: 
 El Senamhi pronosticó que “la disponibilidad hídrica disminuiría nuevamente, producto de lluvias previstas inferiores a su promedio climático. Este descenso de humedad aunado a los días cálidos, seguido de noches más frías de lo habitual incrementarían los niveles de riesgo (alto) para el cultivo de papa, retrasando la siembra, extendiendo el periodo de emergencia de semillas y disminuyendo la tasa de crecimiento vegetativo”.
