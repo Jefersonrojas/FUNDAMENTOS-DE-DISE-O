@@ -1,7 +1,7 @@
 # ¿QUIÉNES SOMOS?
 
  ## - Gutierrez Huaman, Mar Flor
- Estudiante del tercer año de la carrera ingeniera ambiental,  amante del senderismo y defensora del adecuado crecimiento de los cultivos.
+ Estudiante del tercer año de la carrera ingeniera ambiental,  amante del senderismo y  defensora de la diversidad de flora y fauna.
 
 <p align="center">
   <img src="https://i.postimg.cc/Fzyt6nrL/Mary.jpg)](https://postimg.cc/q6vZhwCJ)" alt="FOTO ODS 7" width="500px" />
