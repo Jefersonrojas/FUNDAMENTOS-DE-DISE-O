@@ -47,7 +47,7 @@ Estudiante del tercer año de la carrera de Ingeniería Informatica, interesado 
 </p>
 
 ## Coordinador del proyecto y diseño de sotfware
-Encargado de la supervisión y elaboración de los archivos subidos al repositorio y el manejo del mismo.
+Encargado de la supervisión y elaboración de los archivos subidos al repositorio y el manejo del mismo,así mismo el desarrollo de  la progrmacion web.
 
 
        heiser.rojas@upch.pe
