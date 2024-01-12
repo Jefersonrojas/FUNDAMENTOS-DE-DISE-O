@@ -42,10 +42,10 @@ El cambio climático es una de las principales amenazas a la agricultura y ganad
 En Perú se centra en la agricultura y ganadería, que son fundamentales para la producción de alimentos y recursos en el país. Estos sectores pueden verse afectados negativamente por el aumento en la sequía, la salinidad del suelo, la propagación de plagas y enfermedades, y otros impactos del cambio climático.
 
 
-#### 4.Objetivo
+#### Objetivo
 Implementar un proyecto de energía renovable en la comunidad del centro del Perú para reducir las emisiones de gases de efecto invernadero, aumentando la resiliencia ante el cambio climático y promoviendo el uso de tecnologias limpias para la generacion de mejores cosechas en el Perú. 
 
-#### 5.Misión y Visión
+#### Misión y Visión
 
 |           |Concepto |
 | --------- | -----:|
