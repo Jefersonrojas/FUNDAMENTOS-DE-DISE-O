@@ -34,10 +34,15 @@
   <img src="https://i.postimg.cc/FRK7N3dz/mi-i.jpg)](https://postimg.cc/f36wv3vQ)" alt="FOTO ODS 7" width="500px" />
 </p>
  Encargada del diseño y el modelamiento del prototipo en 3D a emplear.
+
+ 
        noemi.arquino@upch.pe
 
 ## - Rojas Burgos, Heiser Jeferson
 Estudiante del tercer año de la carrera de Ingeniería Informatica, interesado en el avance y el funcionamiento de los lenguajes de programación.
+
+
+       heiser.rojas@upch.pe
 
 <p align="center">
   <img src="https://i.postimg.cc/rF2Rtd7n/yeferson.jpg)](https://postimg.cc/CdJx3Khk)" alt="FOTO ODS 7" width="500px" />
