@@ -27,7 +27,7 @@ Encargada de la identificación de los procesos de fabricación acorde a su mode
        
  
  ## - ARQUIÑO CERNA, NOEMI SALOMINA
- Estudiante del tercer año de la carrera de Ingeniería Informática, apasasionada por las nuevas 
+ Estudiante del tercer año de la carrera de Ingeniería Informática, apasionada por las nuevas 
  actualizaciones de la tecnología y la inteligencia artificial. 
  
 <p align="center">
