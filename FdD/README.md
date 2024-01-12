@@ -2,7 +2,7 @@
 El curso de fundamentos de diseño generalmente se centra en proporcionar a los estudiantes una comprensión sólida de los principios básicos del diseño visual. Estos principios son fundamentales para cualquier disciplina de diseño, ya sean gráficos,etc.
 
 ## Coordinadores del Curso  
-###  Mg. Umbert Lewis De la Cruz Rodriguez 
+###  Mg. Umbert Lewis De la Cruz Rodriguez  
 
 
      umbert.de.la.cruz@upch.pe
