@@ -1,6 +1,6 @@
 # "ACCIÓN POR EL CLIMA"
 
-## Caso: Escasez de agua en zonas agropecuarias del Perú
+## 
 
 
 ### Situación: 
