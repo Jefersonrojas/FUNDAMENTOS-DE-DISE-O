@@ -42,11 +42,12 @@
 Estudiante del tercer año de la carrera de Ingeniería Informatica, interesado en el avance y el funcionamiento de los lenguajes de programación.
 
 
-       heiser.rojas@upch.pe
-
 <p align="center">
   <img src="https://i.postimg.cc/rF2Rtd7n/yeferson.jpg)](https://postimg.cc/CdJx3Khk)" alt="FOTO ODS 7" width="500px" />
 </p>
 
 ## Coordinador del proyecto y diseño de sotfware
 Encargado de la supervisión y elaboración de los archivos subidos al repositorio y el manejo del mismo.
+
+
+       heiser.rojas@upch.pe
