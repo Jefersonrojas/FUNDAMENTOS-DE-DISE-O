@@ -18,7 +18,7 @@ https://saludconlupa.com/noticias/sequias-en-peru-estamos-ante-uno-de-los-efecto
 1. [Introduction](#INTRODUCCIÓN)
 3. [integrantes]( #  integrantes)
 4. [ODS 13](#ods-13-accion-por-el-clima)
-5. [Sobre Nosotros](LÉAME.md)
+5. [Sobre Nosotros](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/tree/main/FdD/Sobre%20Nosotros#quienes-somos)
 
    
 =============
