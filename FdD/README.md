@@ -2,7 +2,7 @@
 El curso de fundamentos de diseño generalmente se centra en proporcionar a los estudiantes una comprencion sólida de los principios básicos del diseño visual. Estos principios son fundamentales para cualquier disciplina de diseño, ya sea gráficos,etc.
 
 ### Coordinadores del Curso  
-## Mg. Umbert Lewis De la Cruz Rodriguez / umbert.de.la.cruz@upch.pe 
+##  Mg. Umbert Lewis De la Cruz Rodriguez / umbert.de.la.cruz@upch.pe 
 Magíster en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia. Apasionado por aprender y enseñar. Es un entusiasta por la investigación y el desarrollo tecnológico. Fue director y fundador del Centro de Capacitación en tecnologías de la industria 4.0 de Data Science Research Perú. Fue coordinador de laboratorios especializados en la UTP Piura. Mentor en programas de Ingeniería Biomédica por la IEEE EMBS UTP Y UNMSM. En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH. 
 
 ## Mg. Paulo Camilo Vela Antón / paulo.vela@upch.pe 
