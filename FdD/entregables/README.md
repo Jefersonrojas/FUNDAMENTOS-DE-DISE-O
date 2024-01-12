@@ -1,1 +1,1 @@
-
+## En esta carpeta se encuentran los entregables finales del proyecto.Los archivos compilados, versiones ejecutables del software, manuales finales, informes de cierre del proyecto, presentaciones, y cualquier otro elemento que represente el resultado final y completo del trabajo realizado.
