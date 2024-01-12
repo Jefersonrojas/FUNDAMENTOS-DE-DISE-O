@@ -8,7 +8,7 @@ Magíster en Informática Biomédica en Salud Global con mención en Informátic
 ## Mg. Paulo Camilo Vela Antón 
 
 
-paulo.vela@upch.pe 
+      paulo.vela@upch.pe 
 
 
 Ingeniero mecatrónico y Magíster en Informática Biomédica en Salud Global de la Universidad Peruana Cayetano Heredia. Cuenta además con estudios en Gestión de la Tecnología y la Innovación y Diplomacia Científica. Miembro de la Royal Academy of Engineering de Reino Unido a través del programa "Leaders in Innovation Fellowships", y participante activo del programa "Engineering for Change" de EEUU, comunidad internacional enfocada en el diseño de soluciones ingenieriles con impacto social en las áreas de salud, energía y medio ambiente. Sus proyectos de investigación se enfocan en temas como Internet de las Cosas, Big Data y Aprendizaje Automático. En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH.
