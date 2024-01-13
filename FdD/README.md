@@ -1,8 +1,8 @@
-##  ¿En qué consiste el curso?
+#  ¿En qué consiste el curso?
 El curso de fundamentos de diseño generalmente se centra en proporcionar a los estudiantes una comprensión sólida de los principios básicos del diseño visual. Estos principios son fundamentales para cualquier disciplina de diseño, ya sean gráficos,etc.
 
 ## Coordinadores del Curso  
-###  Mg. Umbert Lewis De la Cruz Rodriguez 
+###  Mg. Umbert Lewis De la Cruz Rodriguez  
 
 
      umbert.de.la.cruz@upch.pe
@@ -21,6 +21,8 @@ Ingeniero mecatrónico y Magíster en Informática Biomédica en Salud Global de
 
 
        moises.meza@upch.pe
+
+Profesor de la Universidad Peruana Cayetano Heredia (UPCH) Fundador de TinML-Perú, y Docente e investigador de la UPCH, consultor de tecnología de la salud, tiene intereses por la tecnología para la medicina como el desarrollador de dispositivos médicos, el internet de las cosas medicas, los bio-robots, bioingeniería, etc.
 
 ## Dr. Harry Anderson Rivera Tito 
 
