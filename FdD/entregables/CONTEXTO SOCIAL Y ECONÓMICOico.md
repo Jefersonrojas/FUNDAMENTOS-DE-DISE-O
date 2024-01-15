@@ -55,6 +55,8 @@ En América Latina, la mayoría de los países mantuvieron niveles de estrés h�
 
 ###### Figura 5. América Latina: estrés hídrico según países seleccionados, en 2010, 2015 y 2020.
 
+## A nivel nacional 
+
 <p align="center">
   <img src="https://i.postimg.cc/rFyH3Tf6/Calidad-de-agua-de-peru.png" alt="Falta de agua en Perú" width="600px" />
 </p>
