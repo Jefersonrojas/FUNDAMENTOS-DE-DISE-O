@@ -36,7 +36,9 @@ Para el año 2050, en la Figura 3 se estiman dos escenarios para el estrés híd
 
 Actualmente, la agricultura representa el 69% de las extracciones de agua a nivel mundial, utilizadas principalmente para riego, así como para ganadería y acuicultura. Esta proporción puede alcanzar hasta el 95% en algunos países en desarrollo (FAO, 2011).
 
-
+<p align="center">
+  <img src="https://i.postimg.cc/1R27zFHH/Agricultura.jpg" alt="Agua es vida" width="600px" />
+</p>
 
 
 
