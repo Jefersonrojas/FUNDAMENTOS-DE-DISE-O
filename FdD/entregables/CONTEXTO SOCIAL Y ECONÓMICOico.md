@@ -84,7 +84,7 @@ Muchas regiones del mundo se encuentran en lo que se denomina “estrés hídric
 
 # A nivel nacional
 
-La producción agrícola― que representa el 74,8% de la demanda de agua para el consumo y emplea un tercio de la población económicamente activa de Perú―es de gran importancia económica y social para el país. En general, la agricultura, silvicultura y pesca contribuyeron con el 7,0% del PBI del país en 2019 (World Bank, 2021[14])
+La producción agrícola que representa el 74,8% de la demanda de agua para el consumo y emplea un tercio de la población económicamente activa de Perú―es de gran importancia económica y social para el país. En general, la agricultura, silvicultura y pesca contribuyeron con el 7,0% del PBI del país en 2019 (World Bank, 2021)
 
 
 <p align="center">
