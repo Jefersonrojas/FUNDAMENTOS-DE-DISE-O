@@ -7,3 +7,14 @@
 <p align="center">
   <img src="https://i.postimg.cc/43bX920R/Gr-fico-Diagrama-de-Ishikawa-Profesional-Azul.png)](https://postimg.cc/gwj99sdg)" alt="Agua es vida" width="600px" />
 </p>
+
+
+
+
+
+
+
+## PROBLEMA 
+<p align="center">
+  <img src="https://i.postimg.cc/wBCsqjrT/Gr-fico-Diagrama-de-Ishikawa-Profesional-Azul-2.jpg)](https://postimg.cc/B8CvN4sd)" alt="Agua es vida" width="600px" />
+</p>
