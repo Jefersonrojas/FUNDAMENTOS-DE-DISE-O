@@ -3,5 +3,9 @@
   <img src="https://i.postimg.cc/4d4fCHYB/Presentacion-encuentra-tu-creatividad-papel-azul-3.jpg(https://postimg.cc/Lq7KLXB1)" alt="Agua es vida" width="600px" />
 </p>
 ##MAPA DE ISHIKAWA 
-<p aligin="center">
-  <img scr="https://i.postimg.cc/Sxb6QJF1/Gr-fico-Diagrama-de-Ishikawa-Profesional-Azul.jpg" alt"Agua es vida" width="600px" /> 
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://i.postimg.cc/4d4fCHYB/Presentacion-encuentra-tu-creatividad-papel-azul-3.jpg" alt="Agua es vida" width="600px" />
+</p>" alt="Agua es vida" width="600px" />
+</p>
+
