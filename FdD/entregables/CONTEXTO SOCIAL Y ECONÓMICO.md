@@ -138,7 +138,7 @@ De acuerdo con estimaciones de la Organización de las Naciones Unidas para la A
 
 ######  Figura 6. Rendimiento de los cultivos en el año 2021
 
-### Referncias Bibliográficas:
+### Referencias Bibliográficas:
 
 1.	Escasez de agua: Uno de los mayores retos de nuestro tiempo. (s. f.). Food and Agriculture Organization of the United Nations. Recuperado 14 de enero de 2024, de http://www.fao.org/fao-stories/article/es/c/1185408/
 2.	Gea, G. (s. f.). Esta publicación ha sido posible gracias al apoyo del Servicio de Agua Potable y Alcantarillado de Lima—Sedapal y la Autoridad Nacional del Agua – ANA.
