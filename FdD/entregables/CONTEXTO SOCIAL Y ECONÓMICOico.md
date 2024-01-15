@@ -40,7 +40,7 @@ Actualmente, la agricultura representa el 69% de las extracciones de agua a nive
   <img src="https://i.postimg.cc/1R27zFHH/Agricultura.jpg" width="600px" />
 </p>
 
-###### Figura 4. Posibles eventos en el año 2050
+###### Figura 4. Cantidad de estracción del agua para cada actividad
 
 
 
