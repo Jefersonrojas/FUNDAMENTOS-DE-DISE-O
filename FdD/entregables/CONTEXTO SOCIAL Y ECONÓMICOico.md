@@ -60,6 +60,16 @@ En América Latina, la mayoría de los países mantuvieron niveles de estrés h�
 
 ## A nivel nacional 
 
+Estudios recientes colocan al Perú en un rango de estrés hídrico entre -40 % y -80 %, ubicándonos entre los países con mayor probabilidad de escasez de agua dulce para el 2040; evidenciando que el Perú se encuentra en una situación de alta vulnerabilidad al riesgo de la crisis por el agua, junto al impacto del cambio climático. 
+
+### Tacna es de las regiones más comprometidas
+
+Tacna es una de las regiones más comprometidas con el déficit hídrico. El pronóstico del clima es que, desde octubre hasta el verano del 2024, no haya presencia de lluvias en las partes altas, lo que complicaría que se siga abasteciendo a la población con el líquido vital.
+
+### Puno expresa su preocupación por falta de agua
+
+Los representantes de lo más de 18 mil alpaqueros de Puno expresaron su preocupación y malestar por la falta de agua y alimento que termina perjudicando a sus animales
+
 <p align="center">
   <img src="https://i.postimg.cc/rFyH3Tf6/Calidad-de-agua-de-peru.png" alt="Falta de agua en Perú" width="600px" />
 </p>
