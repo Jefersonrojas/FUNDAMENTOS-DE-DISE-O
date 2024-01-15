@@ -36,15 +36,18 @@ Para el año 2050, en la Figura 3 se estiman dos escenarios para el estrés híd
 
 Actualmente, la agricultura representa el 69% de las extracciones de agua a nivel mundial, utilizadas principalmente para riego, así como para ganadería y acuicultura. Esta proporción puede alcanzar hasta el 95% en algunos países en desarrollo (FAO, 2011).
 
-<p align="center">
-  <img src="https://i.postimg.cc/1R27zFHH/Agricultura.jpg" width="600px" />
-</p>
+
+
+
+
 
 ###### Figura 4. Cantidad de estracción del agua para cada actividad
 
 
 
-## En américa Latina 
+## A nivel regional
+
+Según la ONU "América Latina y el Caribe se caracteriza por albergar casi un tercio de los recursos hídricos mundiales. Aun así, presenta altos niveles de estrés hídrico en ciudades y zonas productivas, donde 166 millones de personas aún no cuentan con un servicio gestionado de forma segura, menos del 50% de aguas residuales son tratadas de forma adecuada y donde el 43% de los países de la región reporta niveles bajos en la Gestión Integrada de Recursos Hídricos" (CEPAL, 2023).
 
 En América Latina, la mayoría de los países mantuvieron niveles de estrés hídrico por debajo del 10 % en la última década, excepto México y Argentina, según la Figura 4. En 2020, México registró un alto nivel de estrés hídrico de 44,8 %, lo que representó un incremento de 15,0 puntos porcentuales desde 2010 (29,9 %). Argentina presentó un nivel de estrés hídrico del 10,5 %, un aumento de apenas 0,2 puntos porcentuales en comparación con 2010 (10,3 %). En cuanto a Perú, hubo un incremento de 3,8 puntos porcentuales desde 2010, llegando a un nivel de estrés hídrico del 7,2 % en 2020. Mientras que Brasil redujo su nivel de estrés hídrico de 3,5 % en 2010 a 1,5 % en 2020
 
@@ -69,3 +72,11 @@ En América Latina, la mayoría de los países mantuvieron niveles de estrés h�
 
 Muchas regiones del mundo se encuentran en lo que se denomina “estrés hídrico” debido al crecimiento demográfico-económico y al cambio climático El 36 por ciento de la población mundial (2 mil 500 millones de personas) viven en zonas bajo “estrés hídrico” y más del 20 por ciento del PIB global ya se produce en zonas de riesgo de escasez de agua
 
+# A nivel nacional
+
+La producción agrícola― que representa el 74,8% de la demanda de agua para el consumo y emplea un tercio de la población económicamente activa de Perú―es de gran importancia económica y social para el país. En general, la agricultura, silvicultura y pesca contribuyeron con el 7,0% del PBI del país en 2019 (World Bank, 2021[14])
+
+
+<p align="center">
+  <img src="https://i.postimg.cc/mg3WWj7J/principales-cultivos-de-exportaci-n.png" alt="Falta de agua en Perú" width="600px" />
+</p>
