@@ -1,7 +1,17 @@
 # CONTEXTO SOCIAL
+
+Alrededor de 2.400 millones de personas viven en países afectados por el estrés hídrico. Muchos de ellos son pequeños agricultores que presentan problemas para cubrir sus necesidades diarias de agua potable, alimentos y servicios básicos, como la higiene. Asimismo, los recursos de agua dulce por persona se han reducido un 20% en los último 20 años; por lo que se estima que la disponibilidad y calidad empeoran rápidamente debido a décadas de uso inadecuado, falta de una gestión coordinada, captación excesiva de agua subterránea, contaminación y cambio climático (Organización de las Naciones Unidas [ONU], 2021).
+
+
+### Figura 1 
+La crisis climática golpea al campo cambio climático agricultura cultivos
+
 <p align="center">
-  <img src="https://3.bp.blogspot.com/-s5IJiGmKxpk/WfZ99B47x-I/AAAAAAAAMys/JbGDqKZ21jIzPDmfLg2FAGqy5DUXnuOEwCLcBGAs/s1600/558bbb_325c97cff5384e96a7718b7229724460-mv2.jpeg" alt="Agua es vida" width="600px" />
+  <img src="https://www.2000agro.com.mx/wp-content/uploads/n1_01_250920.jpg" alt="Agua es vida" width="600px" />
 </p>
+
+
+
 
 Alrededor de 2.400 millones de personas viven en países afectados por el estrés hídrico. Muchos de ellos son pequeños agricultores que presentan problemas para cubrir sus necesidades diarias de agua potable, alimentos y servicios básicos, como la higiene. Asimismo, los recursos de agua dulce por persona se han reducido un 20% en los último 20 años; por lo que se estima que la disponibilidad y calidad empeoran rápidamente debido a décadas de uso inadecuado, falta de una gestión coordinada, captación excesiva de agua subterránea, contaminación y cambio climático (Organización de las Naciones Unidas [ONU], 2021).
 
@@ -26,11 +36,8 @@ En 2020, las regiones más afectadas por el estrés hídrico fueron África del 
  
 
 
-La FAO reconoce que la cantidad de agua que se extrae para la agricultura solo puede aumentar en un 10%. Afortunadamente, hay posibilidades para mejorar la eficiencia en el uso del agua en los sistemas de regadío, y especialmente en el de secano (FAO, 2019), así como en la eliminación del desperdicio de alimentos y en los cambios de hábitos de consumo hacia dietas que 
-requieran menos agua (The United Nations World Water Development Report, 2021)
-
 <p align="center">
-  <img src="https://i.postimg.cc/1R27zFHH/Agricultura.jpg" alt="Agua es vida" width="600px" />
+  <img src="https://www.oecd-ilibrary.org/sites/f1b0b29c-en/images/images/2-Chapter%201/media/image6.png" />
 </p>
 
 
@@ -60,7 +67,16 @@ Puno el departamento que presentó las deficiencias más importantes con anomal�
 <p align="center">
   <img src="https://i.postimg.cc/RFGThM3w/Peligro-por-d-ficit-h-drico-a-nivel-de-cuenca.jpg" alt="Falta de agua en Perú" width="600px" />
 </p>
- 
+
+ ### Figura N° 4:
+Índice y variaciones interanuales 
+Enero 2020-Diciembre 2022
+
+<p align="center">
+  <img src="https://i.postimg.cc/YCxhLZjt/Gr-fico-de-variaci-n-de-los-cultivos.png" alt="Falta de agua en Perú" width="600px" />
+</p>
+
+Fuente: Instituto Nacional de Estadística e Informática
 ### Tacna 
 
 Tacna es una de las regiones más comprometidas con el déficit hídrico. El pronóstico del clima es que, desde octubre hasta el verano del 2024, no haya presencia de lluvias en las partes altas, lo que complicaría que se siga abasteciendo a la población con el recurso vital (Arce, 2023).
@@ -102,6 +118,17 @@ los distritos de acuerdo al nivel de riesgo obtenido.
 Muchas regiones del mundo se encuentran en lo que se denomina “estrés hídrico” debido al crecimiento demográfico-económico y al cambio climático El 36 por ciento de la población mundial (2 mil 500 millones de personas) viven en zonas bajo “estrés hídrico” y más del 20 por ciento del PIB global ya se produce en zonas de riesgo de escasez de agua
 Francia, Rumania, España, Portugal e Italia probablemente tendrán que hacer frente a una caída de la productividad de los cultivos, según indicó el Centro Común de Investigación (JRC) y la Comisión Europea. Alemania, Polonia, Hungría, Eslovenia y Croacia también se verán afectados
 
+Durante la próxima década, se prevé que los precios agrícolas reales (es decir, ajustados a la inflación) de los productos básicos cubiertos en las Perspectivas se mantengan prácticamente estables o disminuyan ligeramente.
+
+ #### Figura N° 5
+ 
+ Evolución a largo plazo de los precios de las materias primas, en términos reales
+ 
+<p align="center">
+  <img src="https://www.oecd-ilibrary.org/sites/f1b0b29c-en/images/images/2-Chapter%201/media/image35.png" alt="Falta de agua en Perú" width="600px" />
+</p>
+
+Fuente: OCDE/FAO (2022), “OECD-FAO Agriculture Outlook”, Estadísticas agrícolas de la OCDE (base de datos), https://doi.org/10.1787/agr-outl-data-en
 
 ### En Italia
 La cuenca del río Po enfrenta el nivel más alto de sequía, encontrándose 8 veces más bajo de lo normal. En el norte, donde se sufre la peor sequía de los últimos 70 años, más de 100 ciudades han visto limitado el consumo de agua. Todo esto amenaza el 30 % de la producción agrícola.
