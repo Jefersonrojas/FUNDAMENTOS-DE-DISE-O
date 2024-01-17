@@ -120,7 +120,7 @@ Enero 2020-Diciembre 2022
 
 * Tacna es una de las regiones más comprometidas con el déficit hídrico. El pronóstico del clima es que, desde octubre hasta el verano del 2024, no haya presencia de lluvias en las partes altas, lo que complicaría que se siga abasteciendo a la población con el recurso vital (Arce, 2023).
 
-### Puno 
+###  Puno 
 
 * Los representantes de lo más de 18 mil alpaqueros de Puno expresaron su preocupación y malestar por la falta de agua y alimento que termina perjudicando a sus animales.
 
