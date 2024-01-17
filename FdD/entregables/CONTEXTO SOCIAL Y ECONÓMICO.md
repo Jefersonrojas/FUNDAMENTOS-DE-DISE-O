@@ -11,8 +11,8 @@ La crisis climática golpea a la produción de cultivos
   <img src="https://agraria.pe/imgs/a/lx/sequia-amenaza-los-fertiles-campos-del-cono-sur-de-america-27411.jpg" alt="Agua es vida" width="600px" />
 </p>
 
-###### NOTA: Sequía amenaza los fértiles campos del Cono Sur de América 
-###### FUENTE: Elaborado por la agencia Agraria.pe, 2022, https://agraria.pe/noticias/sequia-amenaza-los-fertiles-campos-del-cono-sur-de-america-27411
+###### Nota: Sequía amenaza los fértiles campos del Cono Sur de América 
+###### Fuente: Elaborado por la agencia Agraria.pe, 2022, https://agraria.pe/noticias/sequia-amenaza-los-fertiles-campos-del-cono-sur-de-america-27411
 
 
 
@@ -33,8 +33,8 @@ Nivel de vulnerabilidad al estrés hídrico en el mundo
   <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/D689/production/_108212945_water_stress_map-nc.png" alt="Falta de agua en Perú" width="600px" />
 </p>
 
-###### NOTA: La línea base del estrés hídrico mide la relación entre el total de extracciones de agua y los suministros de agua renovable disponibles. Las extracciones de agua incluyen los usos domésticos, industrial, de riego y uso para ganado.
-###### FUENTE: UNESCO, 2021 pag 16, https://unesdoc.unesco.org/ark:/48223/pf0000378890
+###### Nota: La línea base del estrés hídrico mide la relación entre el total de extracciones de agua y los suministros de agua renovable disponibles. Las extracciones de agua incluyen los usos domésticos, industrial, de riego y uso para ganado.
+###### Fuente: UNESCO, 2021 pag 16, https://unesdoc.unesco.org/ark:/48223/pf0000378890
  
 * En 2020, las regiones más afectadas por el estrés hídrico fueron África del Norte (120,55 %), Asia central (79.96 %) y Asia meridional (77,49 %). Durante el periodo 2015-2020, algunas regiones aumentaron su nivel de estrés hídrico, otras disminuyeron y otras se mantuvieron. Por ejemplo, África del Norte aumentó en 15,87 puntos porcentuales respecto al nivel de 2015, año en que registró 104,68 %. Por ello, para esta región se prevé la demanda de agua al 163 % para el año 2050, es decir, cuatro veces la tasa de cambio en comparación con América Latina y el Caribe, donde se espera un aumento del 43 %.(CEPLAN, 2019).
 
@@ -45,8 +45,8 @@ Nivel de vulnerabilidad al estrés hídrico en el mundo
   <img src="https://i.postimg.cc/NfjTPjvh/Estadistica.jpg" alt="Agua es vida" width="600px" />
 </p>
 
-###### NOTA: Nivel de estrés hídrico global según regiones, en los años 2015 y 2020 (porcentajes).
-###### FUENTE: Adaptado de “Seguimiento de los progresos relativos a los indicadores de los ODS relacionados con la alimentación y la agricultura 2023”, de FAO, https://www.fao.org/documents/card/es/c/cc7088es
+###### Nota: Nivel de estrés hídrico global según regiones, en los años 2015 y 2020 (porcentajes).
+###### Fuente: Adaptado de “Seguimiento de los progresos relativos a los indicadores de los ODS relacionados con la alimentación y la agricultura 2023”, de FAO, https://www.fao.org/documents/card/es/c/cc7088es
 
 * Los alimentos siguen siendo el uso principal de los productos agrícolas básicos y actualmente representan el 49% de las cantidades consumidas a nivel mundial. Sin embargo, en las últimas décadas los usos de piensos y combustibles han ganado importancia. Cabe destacar que el crecimiento de la producción mundial de productos animales ha requerido una asignación sustancialmente mayor de cultivos para piensos, materias primas empleadas que son principalmente los cereales (maíz, trigo, cebada), subproductos de maíz y trigo, leguminosas (guisantes, soja), oleaginosas (girasol, colza) y componentes adicionales (melazas, harinas de pescado y carne, entre otros), que actualmente representan el 26% del uso mundial total. Mientras tanto, los biocombustibles y las aplicaciones industriales consumen actualmente aproximadamente el 8% de la producción agrícola mundial(OECD-FAO, 2023).
 
@@ -63,7 +63,7 @@ Uso global de los principales productos básicos
 ##### Fuente: OCDE/FAO (2023), “OECD-FAO Agriculture Outlook”, Estadísticas agrícolas de la OCDE (base de datos), https://doi.org/10.1787/agr-outl-data-en
 
 
-## A nivel regional
+##   Nivel regional
 
 * Según la ONU "América Latina y el Caribe se caracteriza por albergar casi un tercio de los recursos hídricos mundiales. Aun así, presenta altos niveles de estrés hídrico en ciudades y zonas productivas, donde 166 millones de personas aún no cuentan con un servicio gestionado de forma segura, menos del 50% de aguas residuales son tratadas de forma adecuada y donde el 43% de los países de la región reporta niveles bajos en la Gestión Integrada de Recursos Hídricos" (Naciones Unidas CEPAL, 2021).
 
@@ -77,10 +77,10 @@ América Latina: estrés hídrico según países seleccionados, en 2010, 2015 y 
 </p>
 
 ##### Nota: América Latina: estrés hídrico según países seleccionados, en 2010, 2015 y 2020 (porcentajes).
-##### Nota. Elaboración Ceplan a partir de FAO, 2019 . Recuperado de https://observatorio.ceplan.gob.pe/ficha/tg43
+##### Fuente. Elaboración Ceplan a partir de FAO, 2019 . Recuperado de https://observatorio.ceplan.gob.pe/ficha/tg43
 
 
-## A nivel nacional 
+## Nivel nacional 
 
 * Según el SENAMHI, entre setiembre 2022 a abril de 2023 las regiones que presentaron deficiencias de lluvias
 fueron: Junín, flanco oriental de Huancavelica, flanco oriental de Ayacucho, Apurímac, Cusco y Puno; siendo
@@ -111,7 +111,7 @@ Enero 2020-Diciembre 2022
   <img src="https://i.postimg.cc/YCxhLZjt/Gr-fico-de-variaci-n-de-los-cultivos.png" alt="Falta de agua en Perú" width="600px" />
 </p>
 
-Fuente: Instituto Nacional de Estadística e Informática
+##### Fuente: Instituto Nacional de Estadística e Informática
 
 ### Tacna 
 
@@ -119,46 +119,40 @@ Fuente: Instituto Nacional de Estadística e Informática
 
 ### Puno expresa su preocupación por falta de agua
 
-* Los representantes de lo más de 18 mil alpaqueros de Puno expresaron su preocupación y malestar por la falta de agua y alimento que termina perjudicando a sus animales
-
-<p align="center">
-  <img src="https://i.postimg.cc/rFyH3Tf6/Calidad-de-agua-de-peru.png" alt="Falta de agua en Perú" width="600px" />
-</p>
+* Los representantes de lo más de 18 mil alpaqueros de Puno expresaron su preocupación y malestar por la falta de agua y alimento que termina perjudicando a sus animales.
 
 ### Cusco
 
 * El ingeniero Edward Castro, de la Autoridad Nacional del Agua (ANA), explicó: “En temporada de estiaje, el caudal del río Vilcanota suele disminuir hasta el 60 % debido a que sus aguas sirven para el funcionamiento de la hidroeléctrica de Machupicchu. Pero este año, hemos visto que ha bajado hasta 35 % eso implica que estamos teniendo un 25 % de déficit hídrico” (Arce, 2023).
 
-
-En la tabla 1, se identifico el total de población, viviendas, superficie agrícola y superficie de pastos expuesta en
-los distritos de acuerdo al nivel de riesgo obtenido.
+##### Tabla N° 1
+La insuficiente oferta internacional genera los precios elevados del fertilizante y pone en riesgo los terrenos agrícolas
 
 <p align="center">
-  <img src="https://i.postimg.cc/N0K2hmmh/tabla-1.jpg" alt="Falta de agua en Perú" width="600px" />
-</p>
-<p align="center">
-  <img src="https://i.postimg.cc/pXP9WgzJ/tabla-2.jpg" width="600px" />
-</p>
-<p align="center">
-  <img src="https://i.postimg.cc/GmY6XSg6/Tabla-3.jpg" width="600px" />
+  <img src="https://www.comexperu.org.pe/upload/images/hechos-01-290422-124401.jpg" alt="Falta de agua en Perú" width="600px" />
 </p>
 
-  
+##### Extraido de Comexperu, 2024, https://www.comexperu.org.pe/articulo/escasez-de-fertilizantes-en-el-peru-amenaza-para-nuestra-agricultura
  
 # CONTEXTO ECONÓMICO 
 
-<p align="center">
-  <img src="https://saludconlupa.com/media/images/000389818W.2e16d0ba.fill-1800x945.jpg" alt="Falta de agua en Perú" width="600px" />
-</p>
 
 Muchas regiones del mundo se encuentran en lo que se denomina “estrés hídrico” debido al crecimiento demográfico-económico y al cambio climático El 36 por ciento de la población mundial (2 mil 500 millones de personas) viven en zonas bajo “estrés hídrico” y más del 20 por ciento del PIB global ya se produce en zonas de riesgo de escasez de agua
 Francia, Rumania, España, Portugal e Italia probablemente tendrán que hacer frente a una caída de la productividad de los cultivos, según indicó el Centro Común de Investigación (JRC) y la Comisión Europea. Alemania, Polonia, Hungría, Eslovenia y Croacia también se verán afectados (ONU-HABITAT, 2021).
 
+##### Figura N° 8
+Más de 4 mil hectáreas de cultivos afectados por heladas y falta de lluvias en la región de Cusco
 
+<p align="center">
+  <img src="https://www.cna.org.pe/wp-content/uploads/2018/12/agro-cusco.jpg" width="600px" />
+</p>
+
+###### Nota: Los cultivos más afectados son papa, maíz, haba, quinua, entre otros. La situación actual del agro en la región es preocupante.
+###### Fuente: Elaborado por Confederación Nacional Agraria, 2018, https://www.cna.org.pe/cusco-mas-4-mil-hectareas-cultivos-afectados-heladas-falta-lluvias/
 
 * Durante la próxima década, se prevé que los precios agrícolas reales (es decir, ajustados a la inflación) de los productos básicos cubiertos en las Perspectivas se mantengan prácticamente estables o disminuyan ligeramente.
 
- ##### Figura N° 8
+ ##### Figura N° 9
  
  Evolución a largo plazo de los precios de las materias primas, en términos reales
  
@@ -181,34 +175,43 @@ Fuente: OCDE/FAO (2022), “OECD-FAO Agriculture Outlook”, Estadísticas agrí
 
 * La energía hidroeléctrica almacenada en embalses se encuentra en la mitad del promedio de los siete años anteriores. Tanto es así, que varias regiones están experimentando la peor sequía en mil años. En el sur de Portugal ha sido necesario activar un plan de emergencia por el que 1.800 granjas tienen que reducir a la mitad el riego de algunos cultivos.
 
+##### Figura N° 10
+Análisis de escenarios de la problematica de escasez hídrica
 
 <p align="center">
   <img src="https://es.wri.org/sites/default/files/uploads/Facebook-agua-y-financiamiento.jpg" alt="Falta de agua en Perú" width="600px" />
 </p>
 
+##### Nota: Con una mejor gestión e inversión económica se puede mantener un equilibrio de consumo y producción 
+##### Fuente: Elaborado World resources institite, 2024, https://es.wri.org/insights/resolver-la-crisis-del-agua-podria-costar-solo-el-1-del-pib-anual-para-ciertos-paises
 
 # A nivel nacional
 
-Según las estimaciones realizadas por el Cenepred el departamento más afectado sería Cusco, con 330,762 hectáreas en riesgo, lo cual representa el 100% de la superficie agrícola. La mayor parte de la superficie se concentra en las provincias de La Convención (103,922 hectáreas), Chumbivilcas (31,814 hectáreas) y Canchis (25,339 hectáreas). Y el segundo  departamento más afectado será Puno, con 281,524 hectáreas de superficie agrícola en riesgo elevado, lo cual afectará principalmente a la provincia de Azángaro (53,129 hectáreas). El tercero será Huánuco, con 237,133 hectáreas en riesgo, que también representan toda la cantidad estimada, lo cual afectará con mayor severidad a la provincia del mismo nombre (47,583 hectáreas) (COMEXPERU ,2023)
+ ### " El Cenepred estima un total de 1.9 millones de hectáreas de superficie agrícola expuestas a riesgo elevado, de las cuales 1.3 millones corresponden a riesgo muy alto durante la temporada de lluvias 2023-2024"
 
-######  Figura 9. Deficit hídrico durante el periodo 2023-2024
+
+*  Según las estimaciones realizadas por el Cenepred el departamento más afectado sería Cusco, con 330,762 hectáreas en riesgo, lo cual representa el 100% de la superficie agrícola. La mayor parte de la superficie se concentra en las provincias de La Convención (103,922 hectáreas), Chumbivilcas (31,814 hectáreas) y Canchis (25,339 hectáreas). Y el segundo  departamento más afectado será Puno, con 281,524 hectáreas de superficie agrícola en riesgo elevado, lo cual afectará principalmente a la provincia de Azángaro (53,129 hectáreas). El tercero será Huánuco, con 237,133 hectáreas en riesgo, que también representan toda la cantidad estimada, lo cual afectará con mayor severidad a la provincia del mismo nombre (47,583 hectáreas) (COMEXPERU ,2023)
+
+######  Figura N° 11
+ Impacto económico de la escasez de agua 
 
 <p align="center">
   <img src="https://www.comexperu.org.pe/upload/images/hechos-01-290923-011809.jpg" alt="Falta de agua en Perú" width="600px" />
 </p>
 
+###### Fuente: Elaborado por COMEXPERÚ, 2023, https://www.comexperu.org.pe/articulo/fenomeno-de-el-nino-global-9-departamentos-reportan-el-100-de-su-superficie-agricola-expuesta-a-riesgo-elevado-por-sequia
 
-La producción agrícola que representa el 74,8% de la demanda de agua para el consumo y emplea un tercio de la población económicamente activa de Perú―es de gran importancia económica y social para el país. En general, la agricultura, silvicultura y pesca contribuyeron con el 7,0% del PBI del país en 2019 (World Bank, 2021)
+* La producción agrícola que representa el 74,8% de la demanda de agua para el consumo y emplea un tercio de la población económicamente activa de Perú―es de gran importancia económica y social para el país. En general, la agricultura, silvicultura y pesca contribuyeron con el 7,0% del PBI del país en 2019 (World Bank, 2021)
 
-De acuerdo con estimaciones de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO, por sus siglas en inglés), nuestro país registra uno de los menores rendimientos por hectárea en un cultivo tan emblemático como la papa, por detrás de países como Brasil y Argentina, que duplican las toneladas producidas por cada hectárea destinada (COMEXPERU ,2023).
+* De acuerdo con estimaciones de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), nuestro país registra uno de los menores rendimientos por hectárea en un cultivo tan emblemático como la papa, por detrás de países como Brasil y Argentina, que duplican las toneladas producidas por cada hectárea destinada (COMEXPERU ,2023).
 
 
-######  Figura 10. Rendimiento de los cultivos en el año 2021
+######  Figura N° 12
+Rendimiento de los cultivos en el año 2021
 
 <p align="center">
   <img src="https://www.comexperu.org.pe/upload/images/economia-02-150923-022135.jpg" alt="Falta de agua en Perú" width="600px" />
 </p>
 
-
-
-
+###### Nota: Deficiencia en la producción de los productos peruanos en comparacuión con paises vecinos.
+###### Fuente: Elaborado por COMEXPERÚ, 2023, https://www.comexperu.org.pe/articulo/en-2023-el-sector-agropecuario-crecera-37-puntos-porcentuales-menos-por-fenomenos-climatologicos-adversos-como-prepararnos-para-2024
