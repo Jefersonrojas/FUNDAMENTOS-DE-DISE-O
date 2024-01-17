@@ -24,5 +24,5 @@
 ### Referencia
 * ¿Qué es el estrés hídrico y cómo afecta a los cultivos? (2023, noviembre 7). ProainShop. https://proain.com/blogs/notas-tecnicas/que-es-el-estres-hidrico-y-como-afecta-a-los-cultivos
   
-* Carhuavilca Bonett, D., Aguilar, A. S., Mirlena, M., Olazabal, V., José, M., & Grozo Benavente, L. (s/f). Gob.pe. Recuperado el 17 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/investigaciones/costos-de-produccion-v7.pdf
+* Carhuavilca Bonett, D., Aguilar, A. S., Mirlena, M., Olazabal, V., José, M., & Grozo Benavente, L. (s/f) (INEI 2018). Gob.pe. https://www.inei.gob.pe/media/MenuRecursivo/investigaciones/costos-de-produccion-v7.pdf
 
