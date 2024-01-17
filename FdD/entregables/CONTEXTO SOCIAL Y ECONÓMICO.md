@@ -30,7 +30,7 @@ Nivel de vulnerabilidad al estrés hídrico en el mundo
  
 En 2020, las regiones más afectadas por el estrés hídrico fueron África del Norte (120,55 %), Asia central (79.96 %) y Asia meridional (77,49 %). Durante el periodo 2015-2020, algunas regiones aumentaron su nivel de estrés hídrico, otras disminuyeron y otras se mantuvieron. Por ejemplo, África del Norte aumentó en 15,87 puntos porcentuales respecto al nivel de 2015, año en que registró 104,68 %. Por ello, para esta región se prevé la demanda de agua al 163 % para el año 2050, es decir, cuatro veces la tasa de cambio en comparación con América Latina y el Caribe, donde se espera un aumento del 43 %.(CEPLAN, 2019).
 
- ###### Figura 3
+ ###### Figura N° 3
  Grado de estrés hídrico por región y subregión geográfica (2015 y 2020)
  
 <p align="center">
@@ -38,7 +38,8 @@ En 2020, las regiones más afectadas por el estrés hídrico fueron África del 
 </p>
 
 
-###### Figura 4. Cantidad de estracción del agua para cada actividad
+###### Figura N° 4
+Cantidad de estracción del agua para cada actividad
 
  
 <p align="center">
@@ -131,7 +132,7 @@ Francia, Rumania, España, Portugal e Italia probablemente tendrán que hacer fr
 
 Durante la próxima década, se prevé que los precios agrícolas reales (es decir, ajustados a la inflación) de los productos básicos cubiertos en las Perspectivas se mantengan prácticamente estables o disminuyan ligeramente.
 
- #### Figura N° 8
+ ##### Figura N° 8
  
  Evolución a largo plazo de los precios de las materias primas, en términos reales
  
