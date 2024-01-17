@@ -5,16 +5,20 @@ Alrededor de 2.400 millones de personas viven en países afectados por el estré
 
 
 ##### Figura N° 1 
-La crisis climática golpea al campo cambio climático agricultura cultivos
+La crisis climática golpea a la produción de cultivos
 
 <p align="center">
-  <img src="https://www.2000agro.com.mx/wp-content/uploads/n1_01_250920.jpg" alt="Agua es vida" width="600px" />
+  <img src="https://agraria.pe/imgs/a/lx/sequia-amenaza-los-fertiles-campos-del-cono-sur-de-america-27411.jpg" alt="Agua es vida" width="600px" />
 </p>
 
+###### NOTA: Sequía amenaza los fértiles campos del Cono Sur de América
+###### FUENTE: Elaborado por la agencia Agraria.pe, 2022, 
+###### https://agraria.pe/noticias/sequia-amenaza-los-fertiles-campos-del-cono-sur-de-america-27411
 
-Alrededor de 2.400 millones de personas viven en países afectados por el estrés hídrico. Muchos de ellos son pequeños agricultores que presentan problemas para cubrir sus necesidades diarias de agua potable, alimentos y servicios básicos, como la higiene. Asimismo, los recursos de agua dulce por persona se han reducido un 20% en los último 20 años; por lo que se estima que la disponibilidad y calidad empeoran rápidamente debido a décadas de uso inadecuado, falta de una gestión coordinada, captación excesiva de agua subterránea, contaminación y cambio climático (Organización de las Naciones Unidas [ONU], 2021).
 
-### " En todo el mundo, 2.000 millones de personas (el 26% de la población) no disponen de agua potable y 3.600 millones (el 46%) carecen de acceso a un saneamiento gestionado de forma segura " (UNESCO/ONU-Agua,2023).
+Alrededor de 2.400 millones de personas viven en países afectados por el estrés hídrico. Muchos de ellos son pequeños agricultores que presentan problemas para cubrir sus necesidades diarias de agua potable, alimentos y servicios básicos, como la higiene. Asimismo, los recursos de agua dulce por persona se han reducido un 20% en los último 20 años; por lo que se estima que la disponibilidad y calidad empeoran rápidamente debido a décadas de uso inadecuado, falta de una gestión coordinada, captación excesiva de agua subterránea, contaminación y cambio climático (Organización de las Naciones Unidas [ONU], 2023).
+
+### " En todo el mundo, 2.000 millones de personas (26% de la población) no disponen de agua potable y 3.600 millones (el 46%) carecen de acceso a un saneamiento gestionado de forma segura " (UNESCO/ONU-Agua,2023).
 
 Los lugares en que hay menos de 2 500 metros cúbicos de agua por habitante en un año, son sitios con estrés hídrico; alrededor de una tercera parte del mundo se encuentra en esta situación (UNAM, 2017)
 
@@ -26,7 +30,9 @@ Nivel de vulnerabilidad al estrés hídrico en el mundo
   <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/D689/production/_108212945_water_stress_map-nc.png" alt="Falta de agua en Perú" width="600px" />
 </p>
 
-  
+###### NOTA: La línea base del estrés hídrico mide la relación entre el total de extracciones de agua y los suministros de agua renovable disponibles. Las extracciones de agua incluyen los usos domésticos, industrial, de riego y uso para ganado.
+###### FUENTE: UNESCO, 2021 pag 16,
+###### https://unesdoc.unesco.org/ark:/48223/pf0000378890
  
 En 2020, las regiones más afectadas por el estrés hídrico fueron África del Norte (120,55 %), Asia central (79.96 %) y Asia meridional (77,49 %). Durante el periodo 2015-2020, algunas regiones aumentaron su nivel de estrés hídrico, otras disminuyeron y otras se mantuvieron. Por ejemplo, África del Norte aumentó en 15,87 puntos porcentuales respecto al nivel de 2015, año en que registró 104,68 %. Por ello, para esta región se prevé la demanda de agua al 163 % para el año 2050, es decir, cuatro veces la tasa de cambio en comparación con América Latina y el Caribe, donde se espera un aumento del 43 %.(CEPLAN, 2019).
 
@@ -37,17 +43,21 @@ En 2020, las regiones más afectadas por el estrés hídrico fueron África del 
   <img src="https://i.postimg.cc/NfjTPjvh/Estadistica.jpg" alt="Agua es vida" width="600px" />
 </p>
 
+###### NOTA: La línea base del estrés hídrico mide la relación entre el total de extracciones de agua y los suministros de agua renovable disponibles. Las extracciones de agua incluyen los usos domésticos, industrial, de riego y uso para ganado.
+###### FUENTE: Adaptado de “Seguimiento de los progresos relativos a los indicadores de los ODS relacionados con la alimentación y la agricultura 2023”, de FAO, 
+###### https://www.fao.org/documents/card/es/c/cc7088es
+
+El crecimiento de la población y los ingresos siguen siendo factores clave de la demanda de productos agrícolas
 
 ###### Figura N° 4
-Cantidad de estracción del agua para cada actividad
+Uso global de los principales productos básicos
 
- 
 <p align="center">
   <img src="https://www.oecd-ilibrary.org/sites/f1b0b29c-en/images/images/2-Chapter%201/media/image6.png" />
 </p>
+Los alimentos siguen siendo el uso principal de los productos agrícolas básicos y actualmente representan el 49% de las cantidades consumidas a nivel mundial. Sin embargo, en las últimas décadas los usos de piensos y combustibles han ganado importancia. Cabe destacar que el crecimiento de la producción mundial de productos animales ha requerido una asignación sustancialmente mayor de cultivos para piensos, que actualmente representan el 26% del uso mundial total. Mientras tanto, los biocombustibles y las aplicaciones industriales consumen actualmente aproximadamente el 8% de la producción agrícola mundial(OECD-FAO, 2023).
 
-
-
+Fuente: OCDE/FAO (2023), “OECD-FAO Agriculture Outlook”, Estadísticas agrícolas de la OCDE (base de datos), https://doi.org/10.1787/agr-outl-data-en
 
 
 ## A nivel regional
@@ -132,6 +142,9 @@ Francia, Rumania, España, Portugal e Italia probablemente tendrán que hacer fr
 
 Durante la próxima década, se prevé que los precios agrícolas reales (es decir, ajustados a la inflación) de los productos básicos cubiertos en las Perspectivas se mantengan prácticamente estables o disminuyan ligeramente.
 
+El apoyo agregado a los productores en los 54 países representó el 9,8% de los ingresos agrícolas brutos en promedio en 2020-22. Se trata de una reducción significativa respecto del 18,2 por ciento en 2000-2002 (Cuadro 3.3) y se compone de un 13,7 por ciento de ingresos agrícolas brutos en apoyo positivo y un -3,9 por ciento de SPM negativo. Estos promedios ocultan variaciones significativas entre las economías cubiertas por este informe, cuyos detalles se presentan en el Capítulo 2 de este informe
+
+
  ##### Figura N° 8
  
  Evolución a largo plazo de los precios de las materias primas, en términos reales
@@ -139,6 +152,7 @@ Durante la próxima década, se prevé que los precios agrícolas reales (es dec
 <p align="center">
   <img src="https://www.oecd-ilibrary.org/sites/f1b0b29c-en/images/images/2-Chapter%201/media/image35.png" alt="Falta de agua en Perú" width="600px" />
 </p>
+
 
 Fuente: OCDE/FAO (2022), “OECD-FAO Agriculture Outlook”, Estadísticas agrícolas de la OCDE (base de datos), https://doi.org/10.1787/agr-outl-data-en
 
