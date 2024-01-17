@@ -63,6 +63,7 @@ Uso global de los principales productos básicos
 ##### Fuente: OCDE/FAO (2023), “OECD-FAO Agriculture Outlook”, Estadísticas agrícolas de la OCDE (base de datos), https://doi.org/10.1787/agr-outl-data-en
 
 
+
 ##   Nivel regional
 
 * Según la ONU "América Latina y el Caribe se caracteriza por albergar casi un tercio de los recursos hídricos mundiales. Aun así, presenta altos niveles de estrés hídrico en ciudades y zonas productivas, donde 166 millones de personas aún no cuentan con un servicio gestionado de forma segura, menos del 50% de aguas residuales son tratadas de forma adecuada y donde el 43% de los países de la región reporta niveles bajos en la Gestión Integrada de Recursos Hídricos" (Naciones Unidas CEPAL, 2021).
@@ -80,7 +81,9 @@ América Latina: estrés hídrico según países seleccionados, en 2010, 2015 y 
 ##### Fuente. Elaboración Ceplan a partir de FAO, 2019 . Recuperado de https://observatorio.ceplan.gob.pe/ficha/tg43
 
 
+
 ## Nivel nacional 
+
 
 * Según el SENAMHI, entre setiembre 2022 a abril de 2023 las regiones que presentaron deficiencias de lluvias
 fueron: Junín, flanco oriental de Huancavelica, flanco oriental de Ayacucho, Apurímac, Cusco y Puno; siendo
@@ -117,7 +120,7 @@ Enero 2020-Diciembre 2022
 
 * Tacna es una de las regiones más comprometidas con el déficit hídrico. El pronóstico del clima es que, desde octubre hasta el verano del 2024, no haya presencia de lluvias en las partes altas, lo que complicaría que se siga abasteciendo a la población con el recurso vital (Arce, 2023).
 
-### Puno expresa su preocupación por falta de agua
+### Puno 
 
 * Los representantes de lo más de 18 mil alpaqueros de Puno expresaron su preocupación y malestar por la falta de agua y alimento que termina perjudicando a sus animales.
 
@@ -133,6 +136,8 @@ La insuficiente oferta internacional genera los precios elevados del fertilizant
 </p>
 
 ##### Extraido de Comexperu, 2024, https://www.comexperu.org.pe/articulo/escasez-de-fertilizantes-en-el-peru-amenaza-para-nuestra-agricultura
+
+
  
 # CONTEXTO ECONÓMICO 
 
@@ -215,3 +220,38 @@ Rendimiento de los cultivos en el año 2021
 
 ###### Nota: Deficiencia en la producción de los productos peruanos en comparacuión con paises vecinos.
 ###### Fuente: Elaborado por COMEXPERÚ, 2023, https://www.comexperu.org.pe/articulo/en-2023-el-sector-agropecuario-crecera-37-puntos-porcentuales-menos-por-fenomenos-climatologicos-adversos-como-prepararnos-para-2024
+
+Referencias bibliográficas:
+
+1.- CEPLAN. (2023). Aumento del estrés hídrico. Observatorio Nacional de Prospectiva. https://observatorio.ceplan.gob.pe/ficha/tg43
+
+2.- COMEXPERÚ. (2023). FENÓMENO DE EL NIÑO GLOBAL: 9 DEPARTAMENTOS REPORTAN EL 100% DE SU SUPERFICIE AGRÍCOLA EXPUESTA A RIESGO ELEVADO  POR SEQUÍA. https://www.comexperu.org.pe/articulo/fenomeno-de-el-nino-global-9-departamentos-reportan-el-100-de-su-superficie-agricola-expuesta-a-riesgo-elevado-por-sequia
+
+3.- COMEXPERÚ. (s.f.). EN 2023, EL SECTOR AGROPECUARIO CRECERÁ 3.7 PUNTOS PORCENTUALES MENOS POR FENÓMENOS CLIMATOLÓGICOS ADVERSOS. ¿CÓMO PREPARARNOS PARA 2024? Lima. https://www.comexperu.org.pe/articulo/en-2023-el-sector-agropecuario-crecera-37-puntos-porcentuales-menos-por-fenomenos-climatologicos-adversos-como-prepararnos-para-2024
+
+4.- Confederación Nacional Agraria. (2018). https://www.cna.org.pe/cusco-mas-4-mil-hectareas-cultivos-afectados-heladas-falta-lluvias/. Lima. https://www.cna.org.pe/cusco-mas-4-mil-hectareas-cultivos-afectados-heladas-falta-lluvias/
+
+5.- FAO. (2019). Escasez de agua: Uno de los mayores retos de nuestro tiempo. https://www.fao.org/fao-stories/article/es/c/1185408/
+
+6.- FAO. (2023). Seguimiento de los progresos relativos a los indicadores de los ODS relacionados con la alimentación y la agricultura 2023. En FAO. Roma. https://doi.org/10.4060/cc7088es
+
+7.- Fundación UNAM. (2017). ESTRÉS HÍDRICO: ¿NOS ESTAMOS QUEDANDO SIN AGUA? https://www.fundacionunam.org.mx/ecopuma/estres-hidrico-nos-estamos-quedando-sin-agua/
+
+8.- INEI. (2022). PRODUCCIÓN NACIONAL 2022. https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-produccion-nacional-dic-2022.pdf
+
+9.- Naciones Unidas CEPAL. (2021). Políticas regulatorias y tarifarias en el sector de agua potable y saneamiento en América Latina y el Caribe. En D. Fernández, S. Saravia Matus, & M. Gil. https://hdl.handle.net/11362/47131
+
+10.- OECD iLibrary. (2022). OECD-FAO Agricultural Outlook 2022-2031: https://doi.org/10.1787/f1b0b29c-en
+
+
+11.- OECD-FAO. (2023). Perspectivas agrícolas OECD-FAO 2023-2032. París. https://doi.org/10.1787/08801ab7-en
+
+12.- ONU-HABITAT. (2021). Comprender las dimensiones del problema del agua. https://onuhabitat.org.mx/index.php/comprender-las-dimensiones-del-problema-del-agua
+
+13.- Organización de las Naciones Unidas. (2023). Escasez de agua, crisis climática y seguridad alimentaria mundial: un llamamiento a la acción colaborativa. https://www.un.org/es/cr%C3%B3nica-onu/escasez-de-agua-crisis-clim%C3%A1tica-y-seguridad-alimentaria-mundial-un-llamamiento-la
+
+14.- UNESCO. (2021). Informe Mundial de las Naciones Unidas sobre el Desarrollo de los Recursos Hídricos 2021: el valor del agua. En P. M. Hídricos. https://www.unesco.org/reports/wwdr/2021/es
+
+15.- UNESCO. (2023). Riesgo inminente de una crisis mundial del agua (UNESCO/ONU-Agua). https://www.unesco.org/es/articles/riesgo-inminente-de-una-crisis-mundial-del-agua-unesco/onu-agua
+
+
