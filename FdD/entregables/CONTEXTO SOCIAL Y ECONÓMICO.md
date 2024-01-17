@@ -12,11 +12,9 @@ La crisis climática golpea a la produción de cultivos
 </p>
 
 ###### NOTA: Sequía amenaza los fértiles campos del Cono Sur de América
-###### FUENTE: Elaborado por la agencia Agraria.pe, 2022, 
-###### https://agraria.pe/noticias/sequia-amenaza-los-fertiles-campos-del-cono-sur-de-america-27411
+###### FUENTE: Elaborado por la agencia Agraria.pe, 2022, https://agraria.pe/noticias/sequia-amenaza-los-fertiles-campos-del-cono-sur-de-america-27411
 
 
-Alrededor de 2.400 millones de personas viven en países afectados por el estrés hídrico. Muchos de ellos son pequeños agricultores que presentan problemas para cubrir sus necesidades diarias de agua potable, alimentos y servicios básicos, como la higiene. Asimismo, los recursos de agua dulce por persona se han reducido un 20% en los último 20 años; por lo que se estima que la disponibilidad y calidad empeoran rápidamente debido a décadas de uso inadecuado, falta de una gestión coordinada, captación excesiva de agua subterránea, contaminación y cambio climático (Organización de las Naciones Unidas [ONU], 2023).
 
 ### " En todo el mundo, 2.000 millones de personas (26% de la población) no disponen de agua potable y 3.600 millones (el 46%) carecen de acceso a un saneamiento gestionado de forma segura " (UNESCO/ONU-Agua,2023).
 
@@ -43,11 +41,12 @@ En 2020, las regiones más afectadas por el estrés hídrico fueron África del 
   <img src="https://i.postimg.cc/NfjTPjvh/Estadistica.jpg" alt="Agua es vida" width="600px" />
 </p>
 
-###### NOTA: La línea base del estrés hídrico mide la relación entre el total de extracciones de agua y los suministros de agua renovable disponibles. Las extracciones de agua incluyen los usos domésticos, industrial, de riego y uso para ganado.
-###### FUENTE: Adaptado de “Seguimiento de los progresos relativos a los indicadores de los ODS relacionados con la alimentación y la agricultura 2023”, de FAO, 
-###### https://www.fao.org/documents/card/es/c/cc7088es
+###### NOTA: Nivel de estrés hídrico global según regiones, en los años 2015 y 2020 (porcentajes).
+###### FUENTE: Adaptado de “Seguimiento de los progresos relativos a los indicadores de los ODS relacionados con la alimentación y la agricultura 2023”, de FAO, https://www.fao.org/documents/card/es/c/cc7088es
 
-El crecimiento de la población y los ingresos siguen siendo factores clave de la demanda de productos agrícolas
+Los alimentos siguen siendo el uso principal de los productos agrícolas básicos y actualmente representan el 49% de las cantidades consumidas a nivel mundial. Sin embargo, en las últimas décadas los usos de piensos y combustibles han ganado importancia. Cabe destacar que el crecimiento de la producción mundial de productos animales ha requerido una asignación sustancialmente mayor de cultivos para piensos, materias primas empleadas que son principalmente los cereales (maíz, trigo, cebada), subproductos de maíz y trigo, leguminosas (guisantes, soja), oleaginosas (girasol, colza) y componentes adicionales (melazas, harinas de pescado y carne, entre otros), que actualmente representan el 26% del uso mundial total. Mientras tanto, los biocombustibles y las aplicaciones industriales consumen actualmente aproximadamente el 8% de la producción agrícola mundial(OECD-FAO, 2023).
+
+
 
 ###### Figura N° 4
 Uso global de los principales productos básicos
@@ -55,12 +54,12 @@ Uso global de los principales productos básicos
 <p align="center">
   <img src="https://www.oecd-ilibrary.org/sites/f1b0b29c-en/images/images/2-Chapter%201/media/image6.png" />
 </p>
-Los alimentos siguen siendo el uso principal de los productos agrícolas básicos y actualmente representan el 49% de las cantidades consumidas a nivel mundial. Sin embargo, en las últimas décadas los usos de piensos y combustibles han ganado importancia. Cabe destacar que el crecimiento de la producción mundial de productos animales ha requerido una asignación sustancialmente mayor de cultivos para piensos, que actualmente representan el 26% del uso mundial total. Mientras tanto, los biocombustibles y las aplicaciones industriales consumen actualmente aproximadamente el 8% de la producción agrícola mundial(OECD-FAO, 2023).
 
-Fuente: OCDE/FAO (2023), “OECD-FAO Agriculture Outlook”, Estadísticas agrícolas de la OCDE (base de datos), https://doi.org/10.1787/agr-outl-data-en
+##### Nota: El crecimiento de la población y los ingresos siguen siendo factores clave de la demanda de productos agrícolas
+##### Fuente: OCDE/FAO (2023), “OECD-FAO Agriculture Outlook”, Estadísticas agrícolas de la OCDE (base de datos), https://doi.org/10.1787/agr-outl-data-en
 
 
-## A nivel regional
+##  A nivel regional
 
 Según la ONU "América Latina y el Caribe se caracteriza por albergar casi un tercio de los recursos hídricos mundiales. Aun así, presenta altos niveles de estrés hídrico en ciudades y zonas productivas, donde 166 millones de personas aún no cuentan con un servicio gestionado de forma segura, menos del 50% de aguas residuales son tratadas de forma adecuada y donde el 43% de los países de la región reporta niveles bajos en la Gestión Integrada de Recursos Hídricos" (CEPAL, 2023).
 
@@ -73,7 +72,8 @@ América Latina: estrés hídrico según países seleccionados, en 2010, 2015 y 
   <img src="https://i.postimg.cc/pTgQPfH5/regiones-del-caribe.png" width="600px" />
 </p>
 
-
+##### Nota: América Latina: estrés hídrico según países seleccionados, en 2010, 2015 y 2020 (porcentajes).
+##### Nota. Elaboración Ceplan a partir de FAO, 2019 . Recuperado de https://observatorio.ceplan.gob.pe/ficha/tg43
 
 
 ## A nivel nacional 
@@ -82,13 +82,19 @@ Según el SENAMHI, entre setiembre 2022 a abril de 2023 las regiones que present
 fueron: Junín, flanco oriental de Huancavelica, flanco oriental de Ayacucho, Apurímac, Cusco y Puno; siendo
 Puno el departamento que presentó las deficiencias más importantes con anomalías de hasta 100 %. Asimismo, recientes informes colocan al Perú en un rango de estrés hídrico entre 40 % y 80 %, ubicándonos entre los países con mayor probabilidad de escasez de agua dulce para el 2040; evidenciando que se encuentra en una situación de alta vulnerabilidad al riesgo de la crisis por el agua, junto al impacto del cambio climático (CENEPRED, 2023).
 
+
+Según este escenario de peligro por déficit hídrico, las cuencas impactadas se ubicarían principalmente en la 
+sierra central y sierra sur y todas las cuencas de la región del Titicaca, tal como se muestra en la Figura 6
+
 ##### Figura N° 6
+Mapa de peligro por déficit hídrico a nivel de cuenca ante Fenómeno El Niño
 
 <p align="center">
   <img src="https://i.postimg.cc/RFGThM3w/Peligro-por-d-ficit-h-drico-a-nivel-de-cuenca.jpg" alt="Falta de agua en Perú" width="600px" />
 </p>
 
- 
+##### Fuente: CENEPRED, 2023, https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//16534_escenario-de-riesgo-por-deficit-hidrico-ante-posible-fenomeno-el-nino-para-el-periodo-lluvioso-2023-2024-actualizacion-a-setiembre-2023.pdf
+
 ##### Figura N° 7
 Índice y variaciones interanuales 
 Enero 2020-Diciembre 2022
@@ -138,12 +144,12 @@ los distritos de acuerdo al nivel de riesgo obtenido.
 </p>
 
 Muchas regiones del mundo se encuentran en lo que se denomina “estrés hídrico” debido al crecimiento demográfico-económico y al cambio climático El 36 por ciento de la población mundial (2 mil 500 millones de personas) viven en zonas bajo “estrés hídrico” y más del 20 por ciento del PIB global ya se produce en zonas de riesgo de escasez de agua
-Francia, Rumania, España, Portugal e Italia probablemente tendrán que hacer frente a una caída de la productividad de los cultivos, según indicó el Centro Común de Investigación (JRC) y la Comisión Europea. Alemania, Polonia, Hungría, Eslovenia y Croacia también se verán afectados
+Francia, Rumania, España, Portugal e Italia probablemente tendrán que hacer frente a una caída de la productividad de los cultivos, según indicó el Centro Común de Investigación (JRC) y la Comisión Europea. Alemania, Polonia, Hungría, Eslovenia y Croacia también se verán afectados (ONU-HABITAT, 2021).
+
+
+
 
 Durante la próxima década, se prevé que los precios agrícolas reales (es decir, ajustados a la inflación) de los productos básicos cubiertos en las Perspectivas se mantengan prácticamente estables o disminuyan ligeramente.
-
-El apoyo agregado a los productores en los 54 países representó el 9,8% de los ingresos agrícolas brutos en promedio en 2020-22. Se trata de una reducción significativa respecto del 18,2 por ciento en 2000-2002 (Cuadro 3.3) y se compone de un 13,7 por ciento de ingresos agrícolas brutos en apoyo positivo y un -3,9 por ciento de SPM negativo. Estos promedios ocultan variaciones significativas entre las economías cubiertas por este informe, cuyos detalles se presentan en el Capítulo 2 de este informe
-
 
  ##### Figura N° 8
  
@@ -194,18 +200,5 @@ De acuerdo con estimaciones de la Organización de las Naciones Unidas para la A
 </p>
 
 
-### Referencias Bibliográficas:
 
-1.	Escasez de agua: Uno de los mayores retos de nuestro tiempo. (s. f.). Food and Agriculture Organization of the United Nations. Recuperado 14 de enero de 2024, de http://www.fao.org/fao-stories/article/es/c/1185408/
-2.	Gea, G. (s. f.). Esta publicación ha sido posible gracias al apoyo del Servicio de Agua Potable y Alcantarillado de Lima—Sedapal y la Autoridad Nacional del Agua – ANA.
-3.	Munia, H. A., Guillaume, J. H. A., Wada, Y., Veldkamp, T., Virkki, V., & Kummu, M. (2020). Future Transboundary Water Stress and Its Drivers Under Climate Change: A Global Study. Earth’s Future, 8(7), e2019EF001321. https://doi.org/10.1029/2019EF001321
-4.	ONU-Habitat—Comprender las dimensiones del problema del agua. (s. f.). Recuperado 14 de enero de 2024, de https://onuhabitat.org.mx/index.php/comprender-las-dimensiones-del-problema-del-agua
-5.	Prólogo: El estado de los recursos hídricos—UNESCO Biblioteca Digital. (s. f.). Recuperado 14 de enero de 2024, de https://unesdoc.unesco.org/ark:/48223/pf0000375732_spa
-6.	Arce, P. J. (2023, agosto 1). Perú enfrenta escasez de agua: ¿cuáles son las regiones que ya son afectadas? ¿Lima está en riesgo? infobae. https://www.infobae.com/peru/2023/08/01/peru-enfrenta-escacez-de-agua-que-regiones-estan-siendo-afectadas-y-lima-corre-riesgo/
-	
-7.	CEPLAN. (s. f.). Observatorio Nacional de Prospectiva. Recuperado 15 de enero de 2024, de https://observatorio.ceplan.gob.pe
-	
-8.	FAO (Ed.). (2019). Moving forward on food loss and waste reduction. Food and Agriculture Organization of the United Nations.
-
-9.	Informe Mundial de las Naciones Unidas sobre el Desarrollo de los Recursos Hídricos 2021: El valor del agua—UNESCO Biblioteca Digital. (s. f.). Recuperado 15 de enero de 2024, de https://unesdoc.unesco.org/ark:/48223/pf0000378890
 
