@@ -97,8 +97,12 @@ Mapa de peligro por déficit hídrico a nivel de cuenca ante Fenómeno El Niño
 
 ##### Fuente: CENEPRED, 2023, https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//16534_escenario-de-riesgo-por-deficit-hidrico-ante-posible-fenomeno-el-nino-para-el-periodo-lluvioso-2023-2024-actualizacion-a-setiembre-2023.pdf
 
+En diciembre 2022, el Índice de la Producción Agropecuaria registró una disminución de 0,96%respecto a diciembre 2021, debido a la menor
+producción agrícola. Los cultivos que reportaron menores niveles de producción fueron los cereales, tubérculos, hortalizas, frutas y especias.(Instituto Nacional de Estadísticas e Informátiva [INEI], 2022)
+
 ##### Figura N° 7
 Índice y variaciones interanuales 
+
 Enero 2020-Diciembre 2022
 
 <p align="center">
