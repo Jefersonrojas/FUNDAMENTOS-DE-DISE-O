@@ -16,10 +16,13 @@ La crisis climática golpea a la produción de cultivos
 
 
 
+
 ### " En todo el mundo, 2.000 millones de personas (26% de la población) no disponen de agua potable y 3.600 millones (el 46%) carecen de acceso a un saneamiento gestionado de forma segura " (UNESCO/ONU-Agua,2023).
 
 
+
 * Los lugares en que hay menos de 2 500 metros cúbicos de agua por habitante en un año, son sitios con estrés hídrico; alrededor de una tercera parte del mundo se encuentra en esta situación (UNAM, 2017)
+
 
 
 
@@ -31,8 +34,7 @@ Nivel de vulnerabilidad al estrés hídrico en el mundo
 </p>
 
 ###### NOTA: La línea base del estrés hídrico mide la relación entre el total de extracciones de agua y los suministros de agua renovable disponibles. Las extracciones de agua incluyen los usos domésticos, industrial, de riego y uso para ganado.
-###### FUENTE: UNESCO, 2021 pag 16,
-###### https://unesdoc.unesco.org/ark:/48223/pf0000378890
+###### FUENTE: UNESCO, 2021 pag 16, https://unesdoc.unesco.org/ark:/48223/pf0000378890
  
 * En 2020, las regiones más afectadas por el estrés hídrico fueron África del Norte (120,55 %), Asia central (79.96 %) y Asia meridional (77,49 %). Durante el periodo 2015-2020, algunas regiones aumentaron su nivel de estrés hídrico, otras disminuyeron y otras se mantuvieron. Por ejemplo, África del Norte aumentó en 15,87 puntos porcentuales respecto al nivel de 2015, año en que registró 104,68 %. Por ello, para esta región se prevé la demanda de agua al 163 % para el año 2050, es decir, cuatro veces la tasa de cambio en comparación con América Latina y el Caribe, donde se espera un aumento del 43 %.(CEPLAN, 2019).
 
