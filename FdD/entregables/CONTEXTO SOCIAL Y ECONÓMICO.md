@@ -11,14 +11,16 @@ La crisis climática golpea a la produción de cultivos
   <img src="https://agraria.pe/imgs/a/lx/sequia-amenaza-los-fertiles-campos-del-cono-sur-de-america-27411.jpg" alt="Agua es vida" width="600px" />
 </p>
 
-###### NOTA: Sequía amenaza los fértiles campos del Cono Sur de América
+###### NOTA: Sequía amenaza los fértiles campos del Cono Sur de América 
 ###### FUENTE: Elaborado por la agencia Agraria.pe, 2022, https://agraria.pe/noticias/sequia-amenaza-los-fertiles-campos-del-cono-sur-de-america-27411
 
 
 
 ### " En todo el mundo, 2.000 millones de personas (26% de la población) no disponen de agua potable y 3.600 millones (el 46%) carecen de acceso a un saneamiento gestionado de forma segura " (UNESCO/ONU-Agua,2023).
 
+
 Los lugares en que hay menos de 2 500 metros cúbicos de agua por habitante en un año, son sitios con estrés hídrico; alrededor de una tercera parte del mundo se encuentra en esta situación (UNAM, 2017)
+
 
 
 ###### Figura N° 2
@@ -61,7 +63,7 @@ Uso global de los principales productos básicos
 
 ##  A nivel regional
 
-Según la ONU "América Latina y el Caribe se caracteriza por albergar casi un tercio de los recursos hídricos mundiales. Aun así, presenta altos niveles de estrés hídrico en ciudades y zonas productivas, donde 166 millones de personas aún no cuentan con un servicio gestionado de forma segura, menos del 50% de aguas residuales son tratadas de forma adecuada y donde el 43% de los países de la región reporta niveles bajos en la Gestión Integrada de Recursos Hídricos" (CEPAL, 2023).
+Según la ONU "América Latina y el Caribe se caracteriza por albergar casi un tercio de los recursos hídricos mundiales. Aun así, presenta altos niveles de estrés hídrico en ciudades y zonas productivas, donde 166 millones de personas aún no cuentan con un servicio gestionado de forma segura, menos del 50% de aguas residuales son tratadas de forma adecuada y donde el 43% de los países de la región reporta niveles bajos en la Gestión Integrada de Recursos Hídricos" (Naciones Unidas CEPAL, 2021).
 
 En América Latina, la mayoría de los países mantuvieron niveles de estrés hídrico por debajo del 10 % en la última década, excepto México y Argentina, según la Figura 4. En 2020, México registró un alto nivel de estrés hídrico de 44,8 %, lo que representó un incremento de 15,0 puntos porcentuales desde 2010 (29,9 %). Argentina presentó un nivel de estrés hídrico del 10,5 %, un aumento de apenas 0,2 puntos porcentuales en comparación con 2010 (10,3 %). En cuanto a Perú, hubo un incremento de 3,8 puntos porcentuales desde 2010, llegando a un nivel de estrés hídrico del 7,2 % en 2020. Mientras que Brasil redujo su nivel de estrés hídrico de 3,5 % en 2010 a 1,5 % en 2020 (CEPLAN, 2019).
 
