@@ -20,7 +20,9 @@
 <p align="center">
   <img src="https://i.postimg.cc/bwmDhy3V/Gr-fico-Diagrama-de-Ishikawa-Profesional-Azul-5.jpg)](https://postimg.cc/21B8dDpn)" alt="Agua es vida" width="600px" />
 </p>
+
 ### Referencia
 * ¿Qué es el estrés hídrico y cómo afecta a los cultivos? (2023, noviembre 7). ProainShop. https://proain.com/blogs/notas-tecnicas/que-es-el-estres-hidrico-y-como-afecta-a-los-cultivos
+  
 * Carhuavilca Bonett, D., Aguilar, A. S., Mirlena, M., Olazabal, V., José, M., & Grozo Benavente, L. (s/f). Gob.pe. Recuperado el 17 de enero de 2024, de https://www.inei.gob.pe/media/MenuRecursivo/investigaciones/costos-de-produccion-v7.pdf
 
