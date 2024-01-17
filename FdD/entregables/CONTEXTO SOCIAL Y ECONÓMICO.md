@@ -132,7 +132,7 @@ Enero 2020-Diciembre 2022
 La insuficiente oferta internacional genera los precios elevados del fertilizante y pone en riesgo los terrenos agrícolas
 
 <p align="center">
-  <img src="https://www.comexperu.org.pe/upload/images/hechos-01-290422-124401.jpg" alt="Falta de agua en Perú" width="600px" />
+  <img src="https://www.comexperu.org.pe/upload/images/hechos-01-290422-124401.jpg" alt="Falta de agua en Perú" width="500px" />
 </p>
 
 ##### Extraido de Comexperu, 2024, https://www.comexperu.org.pe/articulo/escasez-de-fertilizantes-en-el-peru-amenaza-para-nuestra-agricultura
@@ -184,7 +184,7 @@ Fuente: OCDE/FAO (2022), “OECD-FAO Agriculture Outlook”, Estadísticas agrí
 Análisis de escenarios de la problematica de escasez hídrica
 
 <p align="center">
-  <img src="https://es.wri.org/sites/default/files/uploads/Facebook-agua-y-financiamiento.jpg" alt="Falta de agua en Perú" width="600px" />
+  <img src="https://es.wri.org/sites/default/files/uploads/Facebook-agua-y-financiamiento.jpg" alt="Falta de agua en Perú" width="500px" />
 </p>
 
 ##### Nota: Con una mejor gestión e inversión económica se puede mantener un equilibrio de consumo y producción 
