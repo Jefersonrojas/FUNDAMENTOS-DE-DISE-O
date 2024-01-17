@@ -6,7 +6,7 @@
 
 ## MAPA DE VIAJE
 <p align="center">
-  <img src="https://i.postimg.cc/xC6CR7PP/Mapa-de-viaje.jpg)](https://postimg.cc/47hs4WqK)" alt="FOTO ODS 7" width="600px" />
+  <img src="https://i.postimg.cc/zGtskp3W/Mapa-de-viaje.jpg)](https://postimg.cc/jDf3xHHd)" alt="FOTO ODS 7" width="600px" />
 </p>
 
 
