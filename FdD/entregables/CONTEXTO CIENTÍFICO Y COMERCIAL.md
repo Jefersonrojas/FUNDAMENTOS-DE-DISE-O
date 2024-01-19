@@ -57,7 +57,17 @@
 #### Descripción: 
 Un procedimiento para derivar espacialmente la humedad del suelo en una ubicación selleccionada dentro de un distriti de riego a ser regado, incluyendo dicho procedimiento las etapas de usae técnicas de identificación de sistemas para producir un algoritmo para evapotranspiración en base a una selección predeterminada de los siguientes parámetros barométrica, datos históricos de riego y medición de energía de paneles solares en cada una de pluralidad de ubicaciones representativas
 
-# PATENTE 2: 
+##### Figura N° 1
+<p align="center">
+  <img src="https://i.postimg.cc/fTVr5n2s/Patente-3.jpg" alt="Patente 1" width="500px" />
+</p>
+
+##### Figura N° 2
+<p align="center">
+  <img src="https://i.postimg.cc/1tYKN4Zq/Patente3-2.jpg" alt="Patente 1" width="500px" />
+</p>
+
+# PATENTE 2:
  ## MX2020010582(A) - 
  ## SISTEMA DE TELEGESTIÓN MODULAR DEL ESTADO VEGETATIVO DE CULTIVOS Y DE SU CONSUMO DE AGUA Y NUTRIENTES
 ##### Número de publicación: 
@@ -67,7 +77,9 @@ Un procedimiento para derivar espacialmente la humedad del suelo en una ubicaci�
 #### Descripción:
 Sistema de telegestión modular del estado vegetativo de cultivos y de su consumo de agua y nutrientes de los mismos, donde se controla el riego de las plantas del cultivo y se analizan y consideran variables como la evapotranspiración, la conductividad del suelo, la salinidad y nutrientes en el agua, o la evolución del crecimiento del cultivo , con lo que se puede determinar el consumo hídrico y de los nutrientes de los cultivos, y adecuar la frecuencia y cantidad de la ferrigación a las demandas del cultivo, además permite tamnbién la supervisión del estado del cultivo mediante cámaras; donde el sitema dispone de un reciepiente de agua lixiviada independiente, un recipiente modular con sondas para el análisis de nutrientes, y donde todos los datos se envían, en tiempo real y de forma telemática, a una unidad eletrónica de control remoto.
 
-###### Figura 2
+
+
+###### Figura 3
 ###### Sistema de telegestión modular del estado vegetativo de los cultivos
 
 <p align="center">
