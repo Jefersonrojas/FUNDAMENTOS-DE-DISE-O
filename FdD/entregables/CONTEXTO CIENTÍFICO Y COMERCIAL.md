@@ -3,7 +3,8 @@
 
 # ARTÍCULO 1:
 ## Eficacia de dos sistemas de riego por goteo para el cerco vivo de Parkinsonia aculeata linnaeus, en el refugio de vida silvestre Pantanos de Villa,Lima, Perú
-### Este artículo 
+
+#### Este artículo trata sobre un estudio y análisis del refugio de vida silvestre "Pantanos de Villa", así como la instalación de dos sistemas de riego por goteo, el sistema de "Goteo Subterráneo" y el  sistema de "Evaporación-Condensación" echos con botellas de plástico,el estudio echo evalúa el crecimiento en diámetro y altura de las plantas y la calidad del plantón en una escala de 1 al 3, llegando asi a una conclusión que el sistema de "Evaporación-Condensación" es el mas eficaz para el crecimiento de las plantas.
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/rcamposp%2C%2BCampus%2B2023-01-Art%C3%ADculo-11.pdf">
     <img src="https://i.postimg.cc/dtsHzgD4/Imagen-de-Whats-App-2024-01-19-a-las-00-06-30-c34716ef.jpg)](https://postimg.cc/0r40SWYw)" alt="ARTÍCULO 2">
