@@ -11,10 +11,11 @@
 
 # ARTÍCULO 3:
 ## Sistema de riego por goteo automático utilizando una red de sensores inalámbricos
-
 <p align="center">
-  <a href="">Texto del enlace</a>
+  <link src="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/4.-Sistema-de-riego-por-goteo-autom%C3%A1tico.pdf" width="500px" />
 </p>
+
+
 
 
  <p align="center">
