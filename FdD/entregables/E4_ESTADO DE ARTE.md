@@ -146,17 +146,7 @@ BARBE, GUILLAUME<br>
 #### Descripción:
 La presente invención se refiere al riego y, en particular, a un sistema y a un método para controlar el riego. En general, los controladores de riego se utilizan para controlar la entrega de agua a dispositivos de riego conectados a válvulas de riego conmutables. Para controlar la entrega de agua a grupos de dispositivos de riego que definen estaciones o zonas de riego, los controladores de riego convencionales basados en programas 10 proporcionan típicamente programas que pueden definir diferentes días de irrigación y horas de inicio. Una vez que se ha creado un programa, los controladores de riego pueden implementar el horario de riego para activar las válvulas de riego. La programación de riego puede hacerse más compleja, por ejemplo, si aumenta el área que debe ser regada, si aumentan las variaciones en los tipos de plantas que deben ser regadas y/o si aumentan las diferencias de pendiente y/o del tipo de suelo.
 ##### Figura 8:
-La FIG. 1 representa un diagrama de bloques simplificado de un sistema 100 de riego de acuerdo con algunas 
-realizaciones. El sistema 100 de riego incluye un sistema de control de riego central o controlador 110, una red 115 
-de comunicaciones (que puede incluir comunicación mediante cables y/o inalámbrica), un controlador 120 de riego 
-10 satélite o más de uno, un transmisor 125 de campo, una o varias interfaces de red inalámbrica o Módulos 130 de 
-Radio Maestros (MRM) (a cada uno de los cuales puede hacerse referencia como un módulo inalámbrico o un 
-módulo de radio), una o varias interfaces de sub-redes inalámbricas o Radioestaciones 135 de Retransmisión (RR) 
-(a cada una de las cuales puede hacerse referencia como Radioestación de Retransmisión Esclava o, más en 
-general, como módulos inalámbricos o módulos de radio), y uno o varios módulos 160 de control (a los que también 
-15 puede hacerse referencia como módulos de mando), en donde cada uno de los módulos de control puede cooperar 
-con un adaptador 165 de radio. En algunas realizaciones, el sistema 100 de riego puede incluir uno o varios 
-sensores 170
+
 
 Bibliografía
 
