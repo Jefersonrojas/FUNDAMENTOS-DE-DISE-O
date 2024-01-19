@@ -53,6 +53,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/Jh8pL24f/Framdroid-fd-20.jpg)](https://postimg.cc/zydCwph7)" width="600px" />
 </p>
+Descripción: Robot agrario impulsado por cuatro paneles solar diseñado para sembrar y controlar maleza en el campo.
 
 - #### *PIVOTE CENTRAL*
 *Es una herramienta utilizada en agricultura para regar grandes extensiones de terreno consiste en una estructura elevada sobre ruedas, que gira alrededor de un punto central y distribuye el agua a través de aspersores o rociadores. Los componentes principales de un sistema de riego por pivote central incluyen la estructura, el sistema motriz, el cuadro central, el cofre de alineación de torre, el equipo de distribución de agua, las tuberías de riego, la celosía, las ruedas de pivote, los rociadores y el cañón de riego para pivote. Los sistemas de riego por pivote central son altamente eficientes y se adaptan a diferentes tipos de cultivos.*
@@ -60,7 +61,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/1XyP2Q8f/PIVOTE-CENTRAL.jpg)](https://postimg.cc/hzZHQNbB)" width="600px" />
 </p>
-
+Descripción: Herramienta para regar grandes extensiones de terreno
 
 - #### *SISTEMA DE FERTIRRIGACIÓN*
 *Es la aplicación de fertilizantes a través del agua de riego una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos.*
@@ -68,6 +69,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/q7DST61f/sistema-de-fertirrigacion.jpg)](https://postimg.cc/GBYqPt0z)" width="600px" />
 </p>
+Descripción: Aplicación de nutrientes a través del agua de riego.
 
 
 ## PATENTES
