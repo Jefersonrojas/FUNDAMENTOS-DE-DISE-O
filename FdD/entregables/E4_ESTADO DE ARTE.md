@@ -46,32 +46,32 @@
 # CONTEXTO COMERCIAL
 ## EQUIPOS EN EL MERCADO
 
-- ### *FARMDROID FD-20*
+- #### *FARMDROID FD-20*
 
-Es un robot agrícola impulsado por energía solar diseñado para sembrar y controlar malezas en campos de maíz, gracias a un avanzado sistema de GPS RTK garantiza una colocación precisa de cada semilla. El robot cuenta con cuatro paneles solares que convierten eficientemente la luz solar en energía para sus dos baterías con una potencia máxima de 1,6 KWh este almacenamiento energético permite un funcionamiento continuo de 18 a 24 horas al día mientras se desplaza a una velocidad constante de 950 metros por hora. Además, el FD20 proporciona una solución completa para el cultivo de plantas, permitiendo la supervisión a distancia y notificando sobre situaciones imprevistas durante su funcionamiento.
+*Es un robot agrícola impulsado por energía solar diseñado para sembrar y controlar malezas en campos de maíz, gracias a un avanzado sistema de GPS RTK garantiza una colocación precisa de cada semilla. El robot cuenta con cuatro paneles solares que convierten eficientemente la luz solar en energía para sus dos baterías con una potencia máxima de 1,6 KWh este almacenamiento energético permite un funcionamiento continuo de 18 a 24 horas al día mientras se desplaza a una velocidad constante de 950 metros por hora. Además, el FD20 proporciona una solución completa para el cultivo de plantas, permitiendo la supervisión a distancia y notificando sobre situaciones imprevistas durante su funcionamiento.*
 
-<p align="left">
+<p align="center">
   <img src="https://i.postimg.cc/Jh8pL24f/Framdroid-fd-20.jpg)](https://postimg.cc/zydCwph7)" width="600px" />
 </p>
 
-- ### *PIVOTE CENTRAL*
-Es una herramienta utilizada en agricultura para regar grandes extensiones de terreno consiste en una estructura elevada sobre ruedas, que gira alrededor de un punto central y distribuye el agua a través de aspersores o rociadores. Los componentes principales de un sistema de riego por pivote central incluyen la estructura, el sistema motriz, el cuadro central, el cofre de alineación de torre, el equipo de distribución de agua, las tuberías de riego, la celosía, las ruedas de pivote, los rociadores y el cañón de riego para pivote. Los sistemas de riego por pivote central son altamente eficientes y se adaptan a diferentes tipos de cultivos.
+- #### *PIVOTE CENTRAL*
+*Es una herramienta utilizada en agricultura para regar grandes extensiones de terreno consiste en una estructura elevada sobre ruedas, que gira alrededor de un punto central y distribuye el agua a través de aspersores o rociadores. Los componentes principales de un sistema de riego por pivote central incluyen la estructura, el sistema motriz, el cuadro central, el cofre de alineación de torre, el equipo de distribución de agua, las tuberías de riego, la celosía, las ruedas de pivote, los rociadores y el cañón de riego para pivote. Los sistemas de riego por pivote central son altamente eficientes y se adaptan a diferentes tipos de cultivos.*
 
-<p align="left">
+<p align="center">
   <img src="https://i.postimg.cc/1XyP2Q8f/PIVOTE-CENTRAL.jpg)](https://postimg.cc/hzZHQNbB)" width="600px" />
 </p>
 
 
-- ### *SISTEMA DE FERTIRRIGACIÓN*
-Es la aplicación de fertilizantes a través del agua de riego una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos.
+- #### *SISTEMA DE FERTIRRIGACIÓN*
+*Es la aplicación de fertilizantes a través del agua de riego una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos.*
 
-<p align="left">
+<p align="center">
   <img src="https://i.postimg.cc/q7DST61f/sistema-de-fertirrigacion.jpg)](https://postimg.cc/GBYqPt0z)" width="600px" />
 </p>
 
 
 ## EQUIPOS EN EL MERCADO
- ## *PATENTE 1:* 
+ ### *PATENTE 1:* 
  ## 2020001738  
  ## PROCEDIMIENTO Y SISTEMA PARA DISTRIBUCIÓN DE AGUA Y DETERMINACIÓN DE LA HUMEDAD DEL SUELO
 ##### Número de solicitud: 2020001738
@@ -93,7 +93,7 @@ Un procedimiento para derivar espacialmente la humedad del suelo en una ubicaci�
   <img src="https://i.postimg.cc/1tYKN4Zq/Patente3-2.jpg" alt="Patente 1" width="500px" />
 </p>
 
-## *PATENTE 2:*
+### *PATENTE 2:*
  ## MX2020010582(A) - 
  ## SISTEMA DE TELEGESTIÓN MODULAR DEL ESTADO VEGETATIVO DE CULTIVOS Y DE SU CONSUMO DE AGUA Y NUTRIENTES
 ##### Número de publicación: 
@@ -115,7 +115,7 @@ Un procedimiento para derivar espacialmente la humedad del suelo en una ubicaci�
 ##### Fuente:  
 
 
- ## *PATENTE 3:*
+ ### *PATENTE 3:*
  ## MX2020010582(A) - 
  ## SISTEMA DE MÓDULOS INTELIGENTES PARA SOPORTE DE SUPERFICIES AJARDINADAS, ESPARCIMIENTO DE CULTIVO, RECOLECCIÓN Y REDIRECCIONAMIENTO DE AGUAS PLUVIALES
 ##### Número de publicación: 20200010582
