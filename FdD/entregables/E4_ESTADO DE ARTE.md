@@ -1,4 +1,12 @@
 # CONTEXTO CIENTÍFIC0
+## *ARTÍCULO 1:*
+## Cambio climático y maíz: cambios en las respuestas fisiológicas al estrés hídrico de Zea mays en presencia de bacterias promotoras de crecimiento (PGPB).
+### Estrés hídrico en cultivos de maíz 
+<p align="center">
+  <a href="">
+    <img src="https://i.postimg.cc/7hKr4csh/Imagen-de-Whats-App-2024-01-19-a-las-15-24-17-2bca1a81.jpg)](https://postimg.cc/QKKyk6rZ)">
+  </a>
+</p>
 
  ## *ARTÍCULO 1:*
 ### Eficacia de dos sistemas de riego por goteo para el cerco vivo de Parkinsonia aculeata linnaeus, en el refugio de vida silvestre Pantanos de Villa,Lima, Perú
