@@ -2,8 +2,9 @@
 ## *ARTÍCULO 1:*
 ## Cambio climático y maíz: cambios en las respuestas fisiológicas al estrés hídrico de Zea mays en presencia de bacterias promotoras de crecimiento (PGPB).
 ### Estrés hídrico en cultivos de maíz 
+*En este artículo se evaluó la capacidad de una variedad de maíz, 'porva', para resistir el estrés hídrico en presencia de bacterias promotoras de crecimiento vegetal (PGPB). Se realizaron mediciones fisiológicas, como fluorescencia (Fv/Fm), conductancia estomática (gs) y potencial hídrico, así como mediciones de área foliar y peso seco de la parte aérea y raíz. Los resultados indicaron que la variedad de maíz 'porva' mostró una buena tolerancia al estrés hídrico, ya que después de 21 días sin agua, no se observó una reducción en el crecimiento de las plantas, a pesar de que las medidas fisiológicas indicaban que las plantas estaban bajo estrés. Se sugiere que esta variedad de maíz podría ser una opción prometedora para su cultivo en climas áridos o en condiciones de cambio climático.** 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/Tesis%20Biolog%C3%ADa%20Final.pdf">
     <img src="https://i.postimg.cc/7hKr4csh/Imagen-de-Whats-App-2024-01-19-a-las-15-24-17-2bca1a81.jpg)](https://postimg.cc/QKKyk6rZ)">
   </a>
 </p>
