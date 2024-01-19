@@ -12,6 +12,8 @@
 </p>
 
 
+>Iannacone, J., Delgado, D., & Palma, V. (2023). EFICACIA DE DOS SISTEMAS DE RIEGO POR GOTEO PARA EL CERCO VIVO DE PARKINSONIA ACULEATA LINNAEUS, EN EL REFUGIO DE VIDA SILVESTRE PANTANOS DE VILLA, LIMA, PERÚ. Campus, 28(35).
+
 # ARTÍCULO 2:
 ## SISTEMA DE RIEGO AUTOMATIZADO EN TIEMPO REAL CON BALANCE HÍDRICO, MEDICIÓN DE HUMEDAD DEL SUELO Y LISÍMETRO (AUTOMATED IRRIGATION SYSTEM IN REAL-TIME WITH WATER BALANCE, SOIL MOISTURE MEASUREMENT AND LYSIMETER)
 ### Este artículo 
@@ -22,6 +24,9 @@
   </a>
 </p>
 
+
+> Castro Popoca, M., Águila Marín, F. M., Quevedo Nolasco, A., Kleisinger, S., Tijerina Chávez, L., & Mejía Sáenz, E. (2008). Sistema de riego automatizado en tiempo real con balance hídrico, medición de humedad del suelo y lisímetro. Agricultura técnica en México, 34(4), 459-470.
+
 # ARTÍCULO 3:
 ## Sistema de riego por goteo automático utilizando una red de sensores inalámbricos
 ### Este artículo 
@@ -30,6 +35,9 @@
     <img src="https://i.postimg.cc/Rh6w1VqP/Imagen-de-Whats-App-2024-01-18-a-las-23-41-21-62241b86.jpg)](https://postimg.cc/64K7tKrR" alt="ARTÍCULO 3">
   </a>
 </p>
+
+
+> Mayhua López, E., Ludeña Choez, J., Tamayo Bedregal, J., Cuba Reyes, M., Núñez Zambrano, Á., Gonzales Ale, N., & Lozada Herrera, D. (2015). Sistema de riego por goteo automático utilizando una red de sensores inalámbricos. Revista de Investigación Arequipa, 7, 69-92.
 
  # PATENTE 1: 
  ## 2020001738  
