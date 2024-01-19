@@ -1,58 +1,35 @@
-# "PROYECTO QALLARIY"
-
-> Somos un equipo con muchas habilidades y motivaciones para la implementación de soluciones tecnológicas, innovadoras y aplicables.
-
-
-### Situación: 
-El Senamhi pronosticó que “la disponibilidad hídrica disminuiría nuevamente, producto de lluvias previstas inferiores a su promedio climático. Este descenso de humedad aunado a los días cálidos, seguido de noches más frías de lo habitual incrementarían los niveles de riesgo (alto) para el cultivo de papa, retrasando la siembra, extendiendo el periodo de emergencia de semillas y disminuyendo la tasa de crecimiento vegetativo”.
-
-
-### ¿Qué impacto tiene el cambio climático en la serranía peruana?
-
-En los últimos años, se registro una disminución del recurso hídrico el cual irá aumentando hasta el siguiente milenio. Además, se ha pronosticado que el fenómeno de El Niño tendrá mayor impacto en nuestro país en noviembre y diciembre y en el verano de 2024. Durante este periodo, se esperan lluvias intensas en la costa norte y en la sierra occidental, mientras la zona sur de los Andes enfrentará sequías que podrían golpear más a las regiones de Arequipa, Puno y Cusco, dado que en septiembre de 2022 y en el verano de este año llovió mucho menos de lo esperado, según el Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi).
-
 <p align="center">
-  <img src="https://saludconlupa.com/media/images/000389818W.width-1920.jpg" alt="FOTO ODS 7" width="600px" />
+   CONTEXTO CIENTÍFICO
 </p>
 
-
-> (S/f). Saludconlupa.com. Recuperado el 12 de enero de 2024, de https://saludconlupa.com/media/images/000389818W.2e16d0ba.fill-1800x945.jpg
-
-
+# ARTÍCULO 1:
+## Eficacia de dos sistemas de riego por goteo para el cerco vivo de Parkinsonia aculeata linnaeus, en el refugio de vida silvestre Pantanos de Villa,Lima, Perú
 
 
+# ARTÍCULO 2:
+## SISTEMA DE RIEGO AUTOMATIZADO EN TIEMPO REAL CON BALANCE HÍDRICO, MEDICIÓN DE HUMEDAD DEL SUELO Y LISÍMETRO (AUTOMATED IRRIGATION SYSTEM IN REAL-TIME WITH WATER BALANCE, SOIL MOISTURE MEASUREMENT AND LYSIMETER)
 
+# ARTÍCULO 3:
+## Sistema de riego por goteo automático utilizando una red de sensores inalámbricos
 
+ <p align="center">
+  CONTEXTO COMERCIAL
+</p>
 
-### PROYECTO DE INVESTIGACION ODS 13  "ACCIÓN POR EL CLIMA"
-1. [Introducción](#INTRODUCCIÓN)
-2. [ODS 13](#ods-13-accion-por-el-clima)
-2. [Sobre Nosotros](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/FdD/entregables/SOBRE%20NOSOTROS.md#qui%C3%A9nes-somos)
-3. [Objetivo](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/README.md#4objetivo)
-1. [Misión y Visión ](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/README.md#5misi%C3%B3n-y-visi%C3%B3n)
+ # PATENTE 1: 
+ ## MX2020010582(A) - 
+ ## SISTEMA DE MÓDULOS INTELIGENTES PARA SOPORTE DE SUPERFICIES AJARDINADAS, ESPARCIMIENTO DE CULTIVO, RECOLECCIÓN Y REDIRECCIONAMIENTO DE AGUAS PLUVIALES
+##### Número de publicación: 20200010582
+##### Fecha de publicación: 2022-04-08
+##### Inventor: GONZALEZ JAUREGUI EDGAR ALEJANDRO
 
-### ¿Cómo afecta el cambio climático a la agricultura y ganadería peruana?
-El cambio climático es una de las principales amenazas a la agricultura y ganadería peruana. Impactos negativos incluyen cambios en el régimen de lluvias, aumento de la temperatura, incremento de la frecuencia y magnitud de fenómenos extremos, y variaciones en las plagas y enfermedades.
+#### Descripción: 
+La presente invención se refiere a un sistema de módulos inteligentes que sirve de soporte para superficies ajardinadas o azoteas verdes, este tipo de sistema trabaja de manera inteligente por medio de sus módulos, los cuales, cada uno tiene una estructura interna de una capa superior de vegetación a elegir por el usuario, después una capa de tierra especial, después una capa de sustrato y hojarasca para nutrir la tierra, después una geo-membrana para separar el sustrato y hojarasca de la zona de desagüe, después una rejilla porosa para separar los sólidos del agua y por último una zona de desagüe, lo que origina que se puedan interconectar entre ellos por medio de un tubo para formar una sola estructura inteligente y realizar recolección y distribución del agua pluvia y de riego para ser redireccionada a contenedores elegidos por el usuario, evitando así escurrimientos de agua. Además, se coloca un sensor en la parte exterior de uno de los módulos que monitorea la temperatura y humedad del ambiente de toda la estructura, la información proporcionada del sensor es enviada electrónicamente mediante wi-fi para después ser remitida a un software que está a disposición del usuario lo cual origina que el usuario obtenga la información en tiempo real y en cualquier ubicación donde se encuentre desde un smartphone o computadora.
 
+###### Sistema de riego inteligente
 
->  Huanca López, W., Del, A., Cordero Ramírez, C., Guevara Vásquez, J. E., Delgado, J. Y. N., Guevara, C. N. A., & Fuentes Neira, N. E. (s/f). Plataformaiestphuando.com. Recuperado el 12 de enero de 2024, de https://plataformaiestphuando.com/wp-content/uploads/2023/02/LIBRO-APPA-CON-ISBN.pdf#page=19
+<p align="center">
+  <img src="https://i.postimg.cc/1tdtQggW/Patente-1.jpg" alt="Patente 1" width="500px" />
+</p>
 
-
-### Problemática 
-En Perú se centra en la agricultura y ganadería, que son fundamentales para la producción de alimentos y recursos en el país. Estos sectores pueden verse afectados negativamente por el aumento en la sequía, la salinidad del suelo, la propagación de plagas y enfermedades, y otros impactos del cambio climático.
-
-
-#### Objetivo
-Implementar un proyecto de energía renovable en la comunidad del centro del Perú para reducir las emisiones de gases de efecto invernadero, aumentando la resiliencia ante el cambio climático y promoviendo el uso de tecnologias limpias para la generacion de mejores cosechas en el Perú. 
-
-#### Misión y Visión
-
-|           |Concepto |
-| --------- | -----:|
-| Misión    | Implementar un prototipo tecnológico e innovador que contribuya a los agricultores del centro del Perú a mejorar sus cosechas y que loos efectos del clima no los  perjudique |
-| Visión    |  Creación de comunidades y sociedades resilientes y sostenibles, fomentando el uso de fuente de energias renovables como la solar.|
-
-
-
-
-
+##### Fuente: Gonzales Edgar, 2022
