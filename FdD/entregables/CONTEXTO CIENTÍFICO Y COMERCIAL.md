@@ -16,7 +16,7 @@
 
 # ARTÍCULO 2:
 ## SISTEMA DE RIEGO AUTOMATIZADO EN TIEMPO REAL CON BALANCE HÍDRICO, MEDICIÓN DE HUMEDAD DEL SUELO Y LISÍMETRO (AUTOMATED IRRIGATION SYSTEM IN REAL-TIME WITH WATER BALANCE, SOIL MOISTURE MEASUREMENT AND LYSIMETER)
-### Este artículo 
+#### Este artículo nos presenta un estudio realizado en el Colegio de Postgraduados, Campus Montecillo,en cual se desarrolla un sistema de riego automatizado en tiempo real utilizando tecnologías de información para determinar tiempos y cantidades de riego adecuados.El sistema consta de un programa y un dispositivo de control "datalogger CR10X Campbell Scientific".Para este sistema se probaron tres estrategias de riego en un cultivo de calabaza Zucchini Grey (Cucurbita spp.),el sistema de riego funciona conectando la humedad del suelo, las celdas de carga y los sensores meteorológicos del TDR al datalogger CR10X, con los programas de riego almacenados en su memoria. La investigación enfatiza la interacción entre Hardware y Sofware para el manejo y el control del riego.
 
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/v34n4a9.pdf">
