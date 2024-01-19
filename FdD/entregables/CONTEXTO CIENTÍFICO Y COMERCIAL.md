@@ -41,7 +41,12 @@
 
 
 
+
 # EQUIPOS EN EL MERCADO
+
+<p align="left">
+  <img src="https://i.postimg.cc/yNw1r78h/FARMDROID-FD-20.jpg)](https://postimg.cc/QBJZFG5V)" alt="Agua es vida" width="600px" />
+</p>
 
 
 
