@@ -41,7 +41,7 @@
 ##### IVEN MICHIEL YVONNE MAREELS 
 ##### DONGRYEOL RYU 
 #### Descripción: 
-Un procedimiento para derivar espacialmente la humedad del suelo en una ubicación selleccionada dentro de un distriti de riego 
+Un procedimiento para derivar espacialmente la humedad del suelo en una ubicación selleccionada dentro de un distriti de riego a ser regado, incluyendo dicho procedimiento las etapas de usae técnicas de identificación de sistemas para producir un algoritmo para evapotranspiración en base a una selección predeterminada de los siguientes parámetros barométrica, datos históricos de riego y medición de energía de paneles solares en cada una de pluralidad de ubicaciones representativas
 
 # PATENTE 2: 
  ## MX2020010582(A) - 
