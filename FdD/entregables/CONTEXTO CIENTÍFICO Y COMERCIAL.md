@@ -39,6 +39,12 @@
 
 > Mayhua López, E., Ludeña Choez, J., Tamayo Bedregal, J., Cuba Reyes, M., Núñez Zambrano, Á., Gonzales Ale, N., & Lozada Herrera, D. (2015). Sistema de riego por goteo automático utilizando una red de sensores inalámbricos. Revista de Investigación Arequipa, 7, 69-92.
 
+
+
+# EQUIPOS EN EL MERCADO
+
+
+
  # PATENTE 1: 
  ## 2020001738  
  ## PROCEDIMIENTO Y SISTEMA PARA DISTRIBUCIÓN DE AGUA Y DETERMINACIÓN DE LA HUMEDAD DEL SUELO
