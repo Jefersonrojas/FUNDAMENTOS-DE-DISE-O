@@ -16,7 +16,7 @@
 
 # ARTÍCULO 2:
 ## SISTEMA DE RIEGO AUTOMATIZADO EN TIEMPO REAL CON BALANCE HÍDRICO, MEDICIÓN DE HUMEDAD DEL SUELO Y LISÍMETRO (AUTOMATED IRRIGATION SYSTEM IN REAL-TIME WITH WATER BALANCE, SOIL MOISTURE MEASUREMENT AND LYSIMETER)
-#### Este artículo nos presenta un estudio realizado en el Colegio de Postgraduados, Campus Montecillo,en cual se desarrolla un sistema de riego automatizado en tiempo real utilizando tecnologías de información para determinar tiempos y cantidades de riego adecuados.El sistema consta de un programa y un dispositivo de control "datalogger CR10X Campbell Scientific".Para este sistema se probaron tres estrategias de riego en un cultivo de calabaza Zucchini Grey (Cucurbita spp.),el sistema de riego funciona conectando la humedad del suelo, las celdas de carga y los sensores meteorológicos del TDR al datalogger CR10X, con los programas de riego almacenados en su memoria. La investigación enfatiza la interacción entre Hardware y Sofware para el manejo y el control del riego.
+#### Este artículo presenta un estudio realizado en el Colegio de Postgraduados, Campus Montecillo,en cual se desarrolla un sistema de riego automatizado en tiempo real utilizando tecnologías de información para determinar tiempos y cantidades de riego adecuados.El sistema consta de un programa y un dispositivo de control "datalogger CR10X Campbell Scientific".Para este sistema se probaron tres estrategias de riego en un cultivo de calabaza Zucchini Grey (Cucurbita spp.),el sistema de riego funciona conectando la humedad del suelo, las celdas de carga y los sensores meteorológicos del TDR al datalogger CR10X, con los programas de riego almacenados en su memoria. La investigación enfatiza la interacción entre Hardware y Sofware para el manejo y el control del riego.
 
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/v34n4a9.pdf">
@@ -29,7 +29,7 @@
 
 # ARTÍCULO 3:
 ## Sistema de riego por goteo automático utilizando una red de sensores inalámbricos
-### Este artículo 
+#### Este artículo describe el desarrollo de un sistema inteligente de control de riego por goteo utilizando una red de sensores inalámbricos tipo ZigBee.El sistema consta de nodos que miden las condiciones del suelo, nodos rutadores que actuan sobre válvulas de riego y establecen una conexión tipo malla y un nodo coordinador que envia datos a un servidor con sofware para gestión y pronóstico. El software envía comandos a un controlador que opera la bomba principal y las válvulas solenoides. La gestión y control del servidor se puede realizar de forma remota desde cualquier dispositivo conectado a Internet, incluso desde un dispositivo móvil.
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/4.-Sistema-de-riego-por-goteo-autom%C3%A1tico.pdf">
     <img src="https://i.postimg.cc/Rh6w1VqP/Imagen-de-Whats-App-2024-01-18-a-las-23-41-21-62241b86.jpg)](https://postimg.cc/64K7tKrR" alt="ARTÍCULO 3">
