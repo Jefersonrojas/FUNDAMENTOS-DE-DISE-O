@@ -139,7 +139,7 @@ ES 2 734 348 T3
  ### *PATENTE 4:*
  **ES2734348T3-SISTEMA DE CONTROL DE RIEGO**<br>
 **Número de publicación:** EP 2734348<br>
-**Fecha de publicación:** 2019-03-2019<br<
+**Fecha de publicación:** 2019-03-2019<br>
 **Inventor(es):** OLIVE-CHAHINIAN, INGRID; VIALLETON, MYRIAM y
 BARBE, GUILLAUME<br>
 
@@ -157,6 +157,28 @@ general, como módulos inalámbricos o módulos de radio), y uno o varios módul
 15 puede hacerse referencia como módulos de mando), en donde cada uno de los módulos de control puede cooperar 
 con un adaptador 165 de radio. En algunas realizaciones, el sistema 100 de riego puede incluir uno o varios 
 sensores 170
+
+Bibliografía
+
+GONZALEZ JAUREGUI, E. (2022). SISTEMA DE MÓDULOS INTELIGENTES PARA SOPORTE DE SUPERFICIES AJARDINADAS, ESPARCIMIENTO DE CULTIVO, RECOLECCIÓN Y REDIRECCIONAMIENTO DE AGUAS PLUVIALES. Ciudad de México. https://lp.espacenet.com/publicationDetails/biblio?II=2&ND=3&adjacent=true&locale=es_LP&FT=D&date=20220408&CC=MX&NR=2020010582A&KC=A
+
+ALEJANDRO, G. J. (2022). SISTEMA DE TELEGESTIÓN MODULAR DEL ESTADO VEGETATIVO DE CULTIVOS Y DE SU CONSUMO DE AGUA Y NUTRIENTES. file:///C:/Users/User/Downloads/ES2668210A1.pdf
+
+Castro Popoca, M. Á. (2008). Sistema de riego automotizado en tiempo real con balance hídrico, medición de humedad del suelo y lisímetro. Agricultura técnica en México. https://www.scielo.org.mx/scielo.php?pid=S0568-25172008000400009&script=sci_abstract&tlng=pt
+
+DAVID JHOHN AUGHTON, S. C. (2020). PROCEDIMIENTO Y SISTEMA PARA DISTRIBUCIÓN DE AGUA Y DETERMINACIÓN DE LA HUMEDAD DEL SUELO. file:///C:/Users/User/Downloads/MX2020001738A.pdf
+
+EOS DATA ANALYTICS. (2021). Fertirrigación: Tecnología Agrícola Avanzada. https://eos.com/es/blog/fertirrigacion/
+FARMDROID. (2024). UNA REVOLUCIÓN AGRÍCOLA. https://farmdroid.com/products/farmdroid-fd20/
+
+Iannacone, J., Delgado, D., & Palma, V. (2023). EFICACIA DE DOS SISTEMAS DE RIEGO POR GOTEO PARA EL CERCO VIVO DE PARKINSONIA ACULEATA LINNAEUS, EN EL REFUGIO DE VIDA SILVESTRE PANTANOS DE VILLA, LIMA, PERÚ. Universidad Nacional Federico Villarreal. https://portalrevistas.aulavirtualusmp.pe/index.php/rc/article/view/2567
+
+Mayhua López, E. L. (2015). Sistema de riego por goteo automático utilizando una red de sensores inalámbricos. Revista de Investigación Arequipa. https://web.archive.org/web/20180421074513id_/http://ucsp.edu.pe/investigacion/wp-content/uploads/2017/01/4.-Sistema-de-riego-por-goteo-autom%C3%A1tico.pdf
+
+OLIVE-CHAHINIAN, I., & VIALLETON, M. y. (2019). Sistema de control de riego. file:///C:/Users/User/Downloads/Patente%202.pdf
+Sela, G. (2024). RIEGO POR PIVOTE CENTRAL. https://cropaia.com/es/blog/riego-por-pivote-central/
+
+
 
 
 
