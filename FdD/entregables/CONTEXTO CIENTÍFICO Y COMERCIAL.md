@@ -4,16 +4,17 @@
 
 # ARTÍCULO 1:
 ## Eficacia de dos sistemas de riego por goteo para el cerco vivo de Parkinsonia aculeata linnaeus, en el refugio de vida silvestre Pantanos de Villa,Lima, Perú
-
+### Este artículo 
 <p align="center">
-  <a href="">
-    <img src=")" alt="ARTÍCULO 2">
+  <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/rcamposp%2C%2BCampus%2B2023-01-Art%C3%ADculo-11.pdf">
+    <img src="https://i.postimg.cc/dtsHzgD4/Imagen-de-Whats-App-2024-01-19-a-las-00-06-30-c34716ef.jpg)](https://postimg.cc/0r40SWYw)" alt="ARTÍCULO 2">
   </a>
 </p>
 
 
 # ARTÍCULO 2:
 ## SISTEMA DE RIEGO AUTOMATIZADO EN TIEMPO REAL CON BALANCE HÍDRICO, MEDICIÓN DE HUMEDAD DEL SUELO Y LISÍMETRO (AUTOMATED IRRIGATION SYSTEM IN REAL-TIME WITH WATER BALANCE, SOIL MOISTURE MEASUREMENT AND LYSIMETER)
+### Este artículo 
 
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/v34n4a9.pdf">
@@ -24,8 +25,7 @@
 
 # ARTÍCULO 3:
 ## Sistema de riego por goteo automático utilizando una red de sensores inalámbricos
-
-
+### Este artículo 
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/4.-Sistema-de-riego-por-goteo-autom%C3%A1tico.pdf">
     <img src="https://i.postimg.cc/Rh6w1VqP/Imagen-de-Whats-App-2024-01-18-a-las-23-41-21-62241b86.jpg)](https://postimg.cc/64K7tKrR" alt="ARTÍCULO 3">
