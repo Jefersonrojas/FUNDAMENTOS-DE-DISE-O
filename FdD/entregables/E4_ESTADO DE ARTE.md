@@ -1,10 +1,10 @@
- # CONTEXTO CIENTÍFIC0
+# CONTEXTO CIENTÍFIC0
   
 
-# ARTÍCULO 1:
-## Eficacia de dos sistemas de riego por goteo para el cerco vivo de Parkinsonia aculeata linnaeus, en el refugio de vida silvestre Pantanos de Villa,Lima, Perú
+ ## *ARTÍCULO 1:*
+### Eficacia de dos sistemas de riego por goteo para el cerco vivo de Parkinsonia aculeata linnaeus, en el refugio de vida silvestre Pantanos de Villa,Lima, Perú
 
-#### Este artículo trata sobre un estudio y análisis del refugio de vida silvestre "Pantanos de Villa", así como la instalación de dos sistemas de riego por goteo, el sistema de "Goteo Subterráneo" y el  sistema de "Evaporación-Condensación" echos con botellas de plástico,el estudio echo evalúa el crecimiento en diámetro y altura de las plantas y la calidad del plantón en una escala de 1 al 3, llegando asi a una conclusión que el sistema de "Evaporación-Condensación" es el mas eficaz para el crecimiento de las plantas.
+*Este artículo trata sobre un estudio y análisis del refugio de vida silvestre "Pantanos de Villa", así como la instalación de dos sistemas de riego por goteo, el sistema de "Goteo Subterráneo" y el  sistema de "Evaporación-Condensación" echos con botellas de plástico,el estudio echo evalúa el crecimiento en diámetro y altura de las plantas y la calidad del plantón en una escala de 1 al 3, llegando asi a una conclusión que el sistema de "Evaporación-Condensación" es el mas eficaz para el crecimiento de las plantas.**
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/rcamposp%2C%2BCampus%2B2023-01-Art%C3%ADculo-11.pdf">
     <img src="https://i.postimg.cc/dtsHzgD4/Imagen-de-Whats-App-2024-01-19-a-las-00-06-30-c34716ef.jpg)](https://postimg.cc/0r40SWYw)" alt="ARTÍCULO 2">
@@ -14,9 +14,10 @@
 
 >Iannacone, J., Delgado, D., & Palma, V. (2023). EFICACIA DE DOS SISTEMAS DE RIEGO POR GOTEO PARA EL CERCO VIVO DE PARKINSONIA ACULEATA LINNAEUS, EN EL REFUGIO DE VIDA SILVESTRE PANTANOS DE VILLA, LIMA, PERÚ. Campus, 28(35).
 
-# ARTÍCULO 2:
-## SISTEMA DE RIEGO AUTOMATIZADO EN TIEMPO REAL CON BALANCE HÍDRICO, MEDICIÓN DE HUMEDAD DEL SUELO Y LISÍMETRO (AUTOMATED IRRIGATION SYSTEM IN REAL-TIME WITH WATER BALANCE, SOIL MOISTURE MEASUREMENT AND LYSIMETER)
-#### Este artículo presenta un estudio realizado en el Colegio de Postgraduados, Campus Montecillo,en cual se desarrolla un sistema de riego automatizado en tiempo real utilizando tecnologías de información para determinar tiempos y cantidades de riego adecuados.El sistema consta de un programa y un dispositivo de control "datalogger CR10X Campbell Scientific".Para este sistema se probaron tres estrategias de riego en un cultivo de calabaza Zucchini Grey (Cucurbita spp.),el sistema de riego funciona conectando la humedad del suelo, las celdas de carga y los sensores meteorológicos del TDR al datalogger CR10X, con los programas de riego almacenados en su memoria. La investigación enfatiza la interacción entre Hardware y Sofware para el manejo y el control del riego.
+## *ARTÍCULO 2:*
+
+### Sistema de riego automotizado en tiempo real con balance hídrico, medición de humedad del suelo y lisímetro
+*Este artículo presenta un estudio realizado en el Colegio de Postgraduados, Campus Montecillo,en cual se desarrolla un sistema de riego automatizado en tiempo real utilizando tecnologías de información para determinar tiempos y cantidades de riego adecuados.El sistema consta de un programa y un dispositivo de control "datalogger CR10X Campbell Scientific".Para este sistema se probaron tres estrategias de riego en un cultivo de calabaza Zucchini Grey (Cucurbita spp.),el sistema de riego funciona conectando la humedad del suelo, las celdas de carga y los sensores meteorológicos del TDR al datalogger CR10X, con los programas de riego almacenados en su memoria. La investigación enfatiza la interacción entre Hardware y Sofware para el manejo y el control del riego.*
 
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/v34n4a9.pdf">
@@ -27,9 +28,10 @@
 
 > Castro Popoca, M., Águila Marín, F. M., Quevedo Nolasco, A., Kleisinger, S., Tijerina Chávez, L., & Mejía Sáenz, E. (2008). Sistema de riego automatizado en tiempo real con balance hídrico, medición de humedad del suelo y lisímetro. Agricultura técnica en México, 34(4), 459-470.
 
-# ARTÍCULO 3:
-## Sistema de riego por goteo automático utilizando una red de sensores inalámbricos
-#### Este artículo describe el desarrollo de un sistema inteligente de control de riego por goteo utilizando una red de sensores inalámbricos tipo ZigBee.El sistema consta de nodos que miden las condiciones del suelo, nodos rutadores que actuan sobre válvulas de riego y establecen una conexión tipo malla y un nodo coordinador que envia datos a un servidor con sofware para gestión y pronóstico. El software envía comandos a un controlador que opera la bomba principal y las válvulas solenoides. La gestión y control del servidor se puede realizar de forma remota desde cualquier dispositivo conectado a Internet, incluso desde un dispositivo móvil.
+## *ARTÍCULO 3:*
+
+### Sistema de riego por goteo automático utilizando una red de sensores inalámbricos
+*Este artículo describe el desarrollo de un sistema inteligente de control de riego por goteo utilizando una red de sensores inalámbricos tipo ZigBee.El sistema consta de nodos que miden las condiciones del suelo, nodos rutadores que actuan sobre válvulas de riego y establecen una conexión tipo malla y un nodo coordinador que envia datos a un servidor con sofware para gestión y pronóstico. El software envía comandos a un controlador que opera la bomba principal y las válvulas solenoides. La gestión y control del servidor se puede realizar de forma remota desde cualquier dispositivo conectado a Internet, incluso desde un dispositivo móvil.*
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/4.-Sistema-de-riego-por-goteo-autom%C3%A1tico.pdf">
     <img src="https://i.postimg.cc/Rh6w1VqP/Imagen-de-Whats-App-2024-01-18-a-las-23-41-21-62241b86.jpg)](https://postimg.cc/64K7tKrR" alt="ARTÍCULO 3">
