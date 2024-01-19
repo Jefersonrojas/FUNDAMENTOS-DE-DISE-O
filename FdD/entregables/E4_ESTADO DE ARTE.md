@@ -81,12 +81,12 @@
 #### Descripción: 
 Un procedimiento para derivar espacialmente la humedad del suelo en una ubicación selleccionada dentro de un distriti de riego a ser regado, incluyendo dicho procedimiento las etapas de usae técnicas de identificación de sistemas para producir un algoritmo para evapotranspiración en base a una selección predeterminada de los siguientes parámetros barométrica, datos históricos de riego y medición de energía de paneles solares en cada una de pluralidad de ubicaciones representativas
 
-##### *Figura N° 1*
+##### *Figura N° 4*
 <p align="center">
   <img src="https://i.postimg.cc/fTVr5n2s/Patente-3.jpg" alt="Patente 1" width="500px" />
 </p>
 
-##### *Figura N° 2*
+##### *Figura N° 5*
 <p align="center">
   <img src="https://i.postimg.cc/1tYKN4Zq/Patente3-2.jpg" alt="Patente 1" width="500px" />
 </p>
@@ -102,7 +102,7 @@ Un procedimiento para derivar espacialmente la humedad del suelo en una ubicaci�
 
 
 
-###### *Figura 3*
+###### *Figura 6*
 ###### Sistema de telegestión modular del estado vegetativo de los cultivos
 
 <p align="center">
@@ -118,7 +118,13 @@ Un procedimiento para derivar espacialmente la humedad del suelo en una ubicaci�
 **Inventor:** GONZALEZ JAUREGUI EDGAR ALEJANDRO<br>
 
 #### Descripción: 
-*La presente invención se refiere a un sistema de módulos inteligentes que sirve de soporte para superficies ajardinadas o azoteas verdes, este tipo de sistema trabaja de manera inteligente por medio de sus módulos, los cuales, cada uno tiene una estructura interna de una capa superior de vegetación a elegir por el usuario, después una capa de tierra especial, después una capa de sustrato y hojarasca para nutrir la tierra, después una geo-membrana para separar el sustrato y hojarasca de la zona de desagüe, después una rejilla porosa para separar los sólidos del agua y por último una zona de desagüe, lo que origina que se puedan interconectar entre ellos por medio de un tubo para formar una sola estructura inteligente y realizar recolección y distribución del agua pluvia y de riego para ser redireccionada a contenedores elegidos por el usuario, evitando así escurrimientos de agua. Además, se coloca un sensor en la parte exterior de uno de los módulos que monitorea la temperatura y humedad del ambiente de toda la estructura, la información proporcionada del sensor es enviada electrónicamente mediante wi-fi para después ser remitida a un software que está a disposición del usuario lo cual origina que el usuario obtenga la información en tiempo real y en cualquier ubicación donde se encuentre desde un smartphone o computadora.*
+*La presente invención se refiere a un sistema de módulos inteligentes que sirve de soporte para superficies ajardinadas o azoteas verdes, este tipo de sistema trabaja de manera inteligente por medio de sus módulos, los cuales, cada uno tiene una estructura interna de una capa superior de vegetación a elegir por el usuario, después una capa de tierra especial, después una capa de sustrato y hojarasca para nutrir la tierra, después una geo-membrana para separar el sustrato y hojarasca de la zona de desagüe, después una rejilla porosa para separar los sólidos del agua y por último una zona de desagüe, lo que origina que se puedan interconectar entre ellos por medio de un tubo para formar una sola estructura inteligente y realizar recolección y distribución del agua pluvia y de riego para ser redireccionada a contenedores elegidos por el usuario, evitando así escurrimientos de agua. Además, tiene un sensor en la parte exterior de uno de los módulos que monitorea la temperatura y humedad del ambiente, la información proporcionada por el sensor es enviada electrónicamente mediante wi-fi para después ser remitida a un software que está a disposición del usuario haciendo posible que el usuario obtenga la información en tiempo real y en cualquier ubicación donde se encuentre desde un smartphone o computadora.*
+
+##### Problema a solucionar
+- El sistema de capas para azoteas verdes arraiga una serie de desventajas técnicas económicas y estructurales como la falta de eficacia en la impermeabilización de la humedad debido a que la primera capa implementada no logra aislar todo el agua que genera el cultivo o las lluvias.
+- El agua recolectada o almacenada es desperdiciada ya que se recoge y se descha.
+#### Ventajas de la invención
+- El sistema de módulos inteligentes para soporte de superficies ajardinadas, esparcimiento de cultivo, recolección y redireccionamiento de aguas pluviales esta enfocado a aportar soluciones más económicas estructurales y eficientes para llevar a cabo un tipo de azotea verde. Además cuenta con un monitoreo en tiempo real, el cual informa al usuario los datos de humedad y temperatura en dicha azotea.
 
 ###### Sistema de riego inteligente
 
@@ -127,6 +133,28 @@ Un procedimiento para derivar espacialmente la humedad del suelo en una ubicaci�
 </p>
 
 ##### Fuente: Gonzales Edgar, 2022
+ES 2 734 348 T3
+ ### *PATENTE 4:*
+ **ES2734348T3-SISTEMA DE CONTROL DE RIEGO**<br>
+**Número de publicación:** EP 2734348<br>
+**Fecha de publicación:** 2019-03-2019<br<
+**Inventor(es):** OLIVE-CHAHINIAN, INGRID; VIALLETON, MYRIAM y
+BARBE, GUILLAUME<br>
+
+#### Descripción:
+La presente invención se refiere al riego y, en particular, a un sistema y a un método para controlar el riego. En general, los controladores de riego se utilizan para controlar la entrega de agua a dispositivos de riego conectados a válvulas de riego conmutables. Para controlar la entrega de agua a grupos de dispositivos de riego que definen estaciones o zonas de riego, los controladores de riego convencionales basados en programas 10 proporcionan típicamente programas que pueden definir diferentes días de irrigación y horas de inicio. Una vez que se ha creado un programa, los controladores de riego pueden implementar el horario de riego para activar las válvulas de riego. La programación de riego puede hacerse más compleja, por ejemplo, si aumenta el área que debe ser regada, si aumentan las variaciones en los tipos de plantas que deben ser regadas y/o si aumentan las diferencias de pendiente y/o del tipo de suelo.
+##### Figura 8:
+La FIG. 1 representa un diagrama de bloques simplificado de un sistema 100 de riego de acuerdo con algunas 
+realizaciones. El sistema 100 de riego incluye un sistema de control de riego central o controlador 110, una red 115 
+de comunicaciones (que puede incluir comunicación mediante cables y/o inalámbrica), un controlador 120 de riego 
+10 satélite o más de uno, un transmisor 125 de campo, una o varias interfaces de red inalámbrica o Módulos 130 de 
+Radio Maestros (MRM) (a cada uno de los cuales puede hacerse referencia como un módulo inalámbrico o un 
+módulo de radio), una o varias interfaces de sub-redes inalámbricas o Radioestaciones 135 de Retransmisión (RR) 
+(a cada una de las cuales puede hacerse referencia como Radioestación de Retransmisión Esclava o, más en 
+general, como módulos inalámbricos o módulos de radio), y uno o varios módulos 160 de control (a los que también 
+15 puede hacerse referencia como módulos de mando), en donde cada uno de los módulos de control puede cooperar 
+con un adaptador 165 de radio. En algunas realizaciones, el sistema 100 de riego puede incluir uno o varios 
+sensores 170
 
 
 
