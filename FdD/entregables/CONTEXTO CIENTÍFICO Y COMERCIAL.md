@@ -44,19 +44,19 @@
 
 # EQUIPOS EN EL MERCADO
 
-- FARMDROID FD-20
+- ### FARMDROID FD-20
 
 Es un robot agrícola impulsado por energía solar diseñado para sembrar y controlar malezas en campos de maíz, gracias a un avanzado sistema de GPS RTK garantiza una colocación precisa de cada semilla. El robot cuenta con cuatro paneles solares que convierten eficientemente la luz solar en energía para sus dos baterías con una potencia máxima de 1,6 KWh este almacenamiento energético permite un funcionamiento continuo de 18 a 24 horas al día mientras se desplaza a una velocidad constante de 950 metros por hora. Además, el FD20 proporciona una solución completa para el cultivo de plantas, permitiendo la supervisión a distancia y notificando sobre situaciones imprevistas durante su funcionamiento.
 
 <p align="left">
-  <img src="https://i.postimg.cc/yNw1r78h/FARMDROID-FD-20.jpg)](https://postimg.cc/QBJZFG5V)" alt="Agua es vida" width="600px" />
+  <img src="https://i.postimg.cc/Jh8pL24f/Framdroid-fd-20.jpg)](https://postimg.cc/zydCwph7)" width="600px" />
 </p>
 
-- PIVOTE CENTRAL
+- ### PIVOTE CENTRAL
 Es una herramienta utilizada en agricultura para regar grandes extensiones de terreno consiste en una estructura elevada sobre ruedas, que gira alrededor de un punto central y distribuye el agua a través de aspersores o rociadores. Los componentes principales de un sistema de riego por pivote central incluyen la estructura, el sistema motriz, el cuadro central, el cofre de alineación de torre, el equipo de distribución de agua, las tuberías de riego, la celosía, las ruedas de pivote, los rociadores y el cañón de riego para pivote. Los sistemas de riego por pivote central son altamente eficientes y se adaptan a diferentes tipos de cultivos.
 
 
-- SISTEMA DE FERTIRRIGACIÓN
+- ### SISTEMA DE FERTIRRIGACIÓN
 La fertirrigación es una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos.
 
 
