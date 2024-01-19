@@ -8,3 +8,9 @@
 <p align="center">
   <img src="https://i.postimg.cc/sXnj9kdM/proyecto-Qallariy-1.jpg)](https://postimg.cc/zbgYqPfN)"alt="Agua es vida" width="600px" />
 </p> Fuente:(Elaboracion propia)
+
+# Estrategia de Solución
+<p align="center">
+  <img src="https://i.postimg.cc/rmSWVGbV/proyecto-Qallariy-2.jpg)](https://postimg.cc/xJ1qgmnh)"alt="Agua es vida" width="600px" />
+</p> Fuente:(Elaboracion propia)
+
