@@ -61,8 +61,11 @@ Es una herramienta utilizada en agricultura para regar grandes extensiones de te
 
 
 - ### SISTEMA DE FERTIRRIGACIÓN
-La fertirrigación es una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos.
+Es la aplicación de fertilizantes a través del agua de riego una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos.
 
+<p align="left">
+  <img src="https://i.postimg.cc/1XyP2Q8f/PIVOTE-CENTRAL.jpg)](https://postimg.cc/hzZHQNbB)" width="600px" />
+</p>
 
 
 
