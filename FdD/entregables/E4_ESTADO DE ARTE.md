@@ -43,32 +43,16 @@
 # CONTEXTO COMERCIAL
 ## EQUIPOS EN EL MERCADO
 
-- #### *FARMDROID FD-20*
+| Nombre del producto  | Descripción  | Precio |
+| :------------ |:---------------:| -----:|
+| Medidor de humedad del suelo       | Medidor de humedad del suelo para PH, fertilidad, luz, humedad, medidor de pH del suelo, probador de suelo, medidor de humedad para plantas de casa, jardín, césped, granja, uso exterior e interior (no requiere batería) | US$19.99 [![medidor-de-humedad-del-suelo.jpg](https://i.postimg.cc/2yBXhnrZ/medidor-de-humedad-del-suelo.jpg)](https://postimg.cc/dZwBKk7s) |
+| Sistema de riego automatizado solar|  kit de riego por goteo, sistema de riego por goteo de jardín interior y exterior, compatible con 15 macetas, 6 modos de sincronización para plantas en maceta funciona con energía solar y la batería grande integrada de 2200 mAh puede regar automáticamente. También está diseñado con la alarma automática de escasez de agua que se producirá un pitido intermitente cuando el nivel del agua es bajo o las sondas están en el agua y la succión está tapada.        |   US$20.99 [![sistema-de-riego-automatico-solar.jpg](https://i.postimg.cc/g0XMfvLB/sistema-de-riego-automatico-solar.jpg)](https://postimg.cc/PLHzDv4m) |
+| Temporizador de manguera inteligente |  Cuenta con monitor de flujo de agua, control remoto por aplicación, compatible con control de voz Alexa, temporizador de manguera al aire libre para plantas de césped de jardín, temporizador de riego para cama de flores. | US$49.99 [![temporizador-de-manguera-inteligente.jpg](https://i.postimg.cc/fyJkKTrX/temporizador-de-manguera-inteligente.jpg)](https://postimg.cc/30QKr77J)
+| Sistema de fertirrigación        |    Es la aplicación de fertilizantes a través del agua de riego una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos. | [![fertirrigaci-n.jpg](https://i.postimg.cc/MK1frXGb/fertirrigaci-n.jpg)](https://postimg.cc/ZCKqWbpC)
+ 
+                
+----
 
-*Es un robot agrícola impulsado por energía solar diseñado para sembrar y controlar malezas en campos de maíz, gracias a un avanzado sistema de GPS RTK garantiza una colocación precisa de cada semilla. El robot cuenta con cuatro paneles solares que convierten eficientemente la luz solar en energía para sus dos baterías con una potencia máxima de 1,6 KWh este almacenamiento energético permite un funcionamiento continuo de 18 a 24 horas al día mientras se desplaza a una velocidad constante de 950 metros por hora. Además, el FD20 proporciona una solución completa para el cultivo de plantas, permitiendo la supervisión a distancia y notificando sobre situaciones imprevistas durante su funcionamiento.*
-##### *Figura N°1:*
-*Robot agrario impulsado por cuatro paneles solar diseñado para sembrar y controlar maleza en el campo.*
-<p align="center">
-  <img src="https://i.postimg.cc/Jh8pL24f/Framdroid-fd-20.jpg)](https://postimg.cc/zydCwph7)" width="600px" />
-</p>
-
-- #### *PIVOTE CENTRAL*
-*Es una herramienta utilizada en agricultura para regar grandes extensiones de terreno consiste en una estructura elevada sobre ruedas, que gira alrededor de un punto central y distribuye el agua a través de aspersores o rociadores. Los componentes principales de un sistema de riego por pivote central incluyen la estructura, el sistema motriz, el cuadro central, el cofre de alineación de torre, el equipo de distribución de agua, las tuberías de riego, la celosía, las ruedas de pivote, los rociadores y el cañón de riego para pivote. Los sistemas de riego por pivote central son altamente eficientes y se adaptan a diferentes tipos de cultivos.*
-##### *Figura N°2:*
-*Herramienta para regar grandes extensiones de terreno*
-<p align="center">
-  <img src="https://i.postimg.cc/1XyP2Q8f/PIVOTE-CENTRAL.jpg)](https://postimg.cc/hzZHQNbB)" width="600px" />
-</p>
-
-
-- #### *SISTEMA DE FERTIRRIGACIÓN*
-*Es la aplicación de fertilizantes a través del agua de riego una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos.*
-##### *Figura N°3:*
-*Aplicación de nutrientes a través del agua de riego*
-
-<p align="center">
-  <img src="https://i.postimg.cc/q7DST61f/sistema-de-fertirrigacion.jpg)](https://postimg.cc/GBYqPt0z)" width="600px" />
-</p>
 
 ## PATENTES
 
