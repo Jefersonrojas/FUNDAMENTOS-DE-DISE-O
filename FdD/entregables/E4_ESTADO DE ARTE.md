@@ -76,7 +76,7 @@
 **Inventor(es):** DAVID JHOHN AUGHTON, SUMITH CHOY, IVEN MICHIEL YVONNE MAREELS y DONGRYEOL RYU<br>
 
 #### Descripción: 
-Un procedimiento para derivar espacialmente la humedad del suelo en una ubicación selleccionada dentro de un distriti de riego a ser regado, incluyendo dicho procedimiento las etapas de usae técnicas de identificación de sistemas para producir un algoritmo para evapotranspiración en base a una selección predeterminada de los siguientes parámetros barométrica, datos históricos de riego y medición de energía de paneles solares en cada una de pluralidad de ubicaciones representativas
+*El procedimiento para derivar espacialmente la humedad del suelo  en un determinado lugar de riego es la aplicación de las técnicas de identificación de sistemas para producir un algoritmo para evapotranspiración en base a una selección predeterminada de parámetros como la temperatura, humedad, factor de cultivo, tipo de suelo, velocidad de viento, radiación solar, datos históricos de riego y medición de paneles de energía en cada punto localizado.*
 
 ##### *Figura N° 4*
 *Muestra  del sistema informático remoto 150 representado por un ordenador portátil que se comunica con todos los reguladores 132 y sensores de humedad 500* 
@@ -147,7 +147,8 @@ Un procedimiento para derivar espacialmente la humedad del suelo en una ubicaci�
 BARBE, GUILLAUME<br>
 
 #### Descripción:
-La presente invención se refiere al riego y, en particular, a un sistema y a un método para controlar el riego. En general, los controladores de riego se utilizan para controlar la entrega de agua a dispositivos de riego conectados a válvulas de riego conmutables. Para controlar la entrega de agua a grupos de dispositivos de riego que definen estaciones o zonas de riego, los controladores de riego convencionales basados en programas 10 proporcionan típicamente programas que pueden definir diferentes días de irrigación y horas de inicio. Una vez que se ha creado un programa, los controladores de riego pueden implementar el horario de riego para activar las válvulas de riego. La programación de riego puede hacerse más compleja, por ejemplo, si aumenta el área que debe ser regada, si aumentan las variaciones en los tipos de plantas que deben ser regadas y/o si aumentan las diferencias de pendiente y/o del tipo de suelo.
+*La presente invención se refiere al riego y, en particular, a un sistema y a un método para controlar el riego. En general, los controladores de riego se utilizan para controlar la entrega de agua a dispositivos de riego conectados a válvulas de riego conmutables. Para controlar la entrega de agua a grupos de dispositivos de riego que definen estaciones o zonas de riego, los controladores de riego convencionales basados en programas 10 proporcionan típicamente programas que pueden definir diferentes días de irrigación y horas de inicio. Una vez que se ha creado un programa, los controladores de riego pueden implementar el horario de riego para activar las válvulas de riego. La programación de riego puede hacerse más compleja, por ejemplo, si aumenta el área que debe ser regada, si aumentan las variaciones en los tipos de plantas que deben ser regadas y/o si aumentan las diferencias de pendiente y/o del tipo de suelo.*
+
 ##### *Figura N° 8:*
 *Representa un diagrama de bloques simplificado de un sistema 100 de riego de acuerdo con algunas realizaciones*
 <p align="center">
