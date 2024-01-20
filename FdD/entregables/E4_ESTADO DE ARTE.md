@@ -44,27 +44,28 @@
 
 *Es un robot agrícola impulsado por energía solar diseñado para sembrar y controlar malezas en campos de maíz, gracias a un avanzado sistema de GPS RTK garantiza una colocación precisa de cada semilla. El robot cuenta con cuatro paneles solares que convierten eficientemente la luz solar en energía para sus dos baterías con una potencia máxima de 1,6 KWh este almacenamiento energético permite un funcionamiento continuo de 18 a 24 horas al día mientras se desplaza a una velocidad constante de 950 metros por hora. Además, el FD20 proporciona una solución completa para el cultivo de plantas, permitiendo la supervisión a distancia y notificando sobre situaciones imprevistas durante su funcionamiento.*
 ##### *Figura N°1:*
+*Robot agrario impulsado por cuatro paneles solar diseñado para sembrar y controlar maleza en el campo.*
 <p align="center">
   <img src="https://i.postimg.cc/Jh8pL24f/Framdroid-fd-20.jpg)](https://postimg.cc/zydCwph7)" width="600px" />
 </p>
-Descripción: Robot agrario impulsado por cuatro paneles solar diseñado para sembrar y controlar maleza en el campo.
 
 - #### *PIVOTE CENTRAL*
 *Es una herramienta utilizada en agricultura para regar grandes extensiones de terreno consiste en una estructura elevada sobre ruedas, que gira alrededor de un punto central y distribuye el agua a través de aspersores o rociadores. Los componentes principales de un sistema de riego por pivote central incluyen la estructura, el sistema motriz, el cuadro central, el cofre de alineación de torre, el equipo de distribución de agua, las tuberías de riego, la celosía, las ruedas de pivote, los rociadores y el cañón de riego para pivote. Los sistemas de riego por pivote central son altamente eficientes y se adaptan a diferentes tipos de cultivos.*
 ##### *Figura N°2:*
+*Herramienta para regar grandes extensiones de terreno*
 <p align="center">
   <img src="https://i.postimg.cc/1XyP2Q8f/PIVOTE-CENTRAL.jpg)](https://postimg.cc/hzZHQNbB)" width="600px" />
 </p>
-Descripción: Herramienta para regar grandes extensiones de terreno
+
 
 - #### *SISTEMA DE FERTIRRIGACIÓN*
 *Es la aplicación de fertilizantes a través del agua de riego una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos.*
 ##### *Figura N°3:*
+*Aplicación de nutrientes a través del agua de riego*
+
 <p align="center">
   <img src="https://i.postimg.cc/q7DST61f/sistema-de-fertirrigacion.jpg)](https://postimg.cc/GBYqPt0z)" width="600px" />
 </p>
-Descripción: Aplicación de nutrientes a través del agua de riego.
-
 
 ## PATENTES
 
@@ -78,14 +79,16 @@ Descripción: Aplicación de nutrientes a través del agua de riego.
 Un procedimiento para derivar espacialmente la humedad del suelo en una ubicación selleccionada dentro de un distriti de riego a ser regado, incluyendo dicho procedimiento las etapas de usae técnicas de identificación de sistemas para producir un algoritmo para evapotranspiración en base a una selección predeterminada de los siguientes parámetros barométrica, datos históricos de riego y medición de energía de paneles solares en cada una de pluralidad de ubicaciones representativas
 
 ##### *Figura N° 4*
-Muestra  del sistema informático remoto 150 representado por un ordenador portátil que se comunica con todos los reguladores 132 y sensores de humedad 500  
+*Muestra  del sistema informático remoto 150 representado por un ordenador portátil que se comunica con todos los reguladores 132 y sensores de humedad 500* 
 
 <p align="center">
   <img src="https://i.postimg.cc/fTVr5n2s/Patente-3.jpg" alt="Patente 1" width="500px" />
 </p>
 
+###### Extraído file:///C:/Users/User/Downloads/MX2020001738A.pdf:
+
 ##### *Figura N° 5*
-Gestión de captación en red de la presente invención
+*Gestión de captación en red de la presente invención*
 
 <p align="center">
   <img src="https://i.postimg.cc/1tYKN4Zq/Patente3-2.jpg" alt="Patente 1" width="500px" />
@@ -103,7 +106,7 @@ Gestión de captación en red de la presente invención
 
 
 ###### *Figura 6*
-###### Sistema de telegestión modular del estado vegetativo de los cultivos
+*Sistema de telegestión modular del estado vegetativo de los cultivos*
 
 <p align="center">
   <img src="https://i.postimg.cc/254GJHY0/Patente-2.jpg" alt="Patente 1" width="500px" />
@@ -127,7 +130,7 @@ Gestión de captación en red de la presente invención
 #### Ventajas de la invención
 - El sistema de módulos inteligentes para soporte de superficies ajardinadas, esparcimiento de cultivo, recolección y redireccionamiento de aguas pluviales esta enfocado a aportar soluciones más económicas estructurales y eficientes para llevar a cabo un tipo de azotea verde. Además cuenta con un monitoreo en tiempo real, el cual informa al usuario los datos de humedad y temperatura en dicha azotea.
 ##### *Figura N°7:*
-###### Sistema de riego inteligente
+*Sistema de riego inteligente*
 
 <p align="center">
   <img src="https://i.postimg.cc/1tdtQggW/Patente-1.jpg" alt="Patente 1" width="500px" />
@@ -146,33 +149,33 @@ BARBE, GUILLAUME<br>
 #### Descripción:
 La presente invención se refiere al riego y, en particular, a un sistema y a un método para controlar el riego. En general, los controladores de riego se utilizan para controlar la entrega de agua a dispositivos de riego conectados a válvulas de riego conmutables. Para controlar la entrega de agua a grupos de dispositivos de riego que definen estaciones o zonas de riego, los controladores de riego convencionales basados en programas 10 proporcionan típicamente programas que pueden definir diferentes días de irrigación y horas de inicio. Una vez que se ha creado un programa, los controladores de riego pueden implementar el horario de riego para activar las válvulas de riego. La programación de riego puede hacerse más compleja, por ejemplo, si aumenta el área que debe ser regada, si aumentan las variaciones en los tipos de plantas que deben ser regadas y/o si aumentan las diferencias de pendiente y/o del tipo de suelo.
 ##### *Figura N° 8:*
-
+*Representa un diagrama de bloques simplificado de un sistema 100 de riego de acuerdo con algunas realizaciones*
 <p align="center">
   <img src="https://i.postimg.cc/j5rsmV2D/Sistema-de-riego.jpg" alt="Patente 1" width="500px" />
 </p>
 
-###### Fuente: Representa un diagrama de bloques simplificado de un sistema 100 de riego de acuerdo con algunas realizaciones
-https://patents.google.com/patent/ES2734348T3/es?q=(SISTEMA+DE+RIEGO)&oq=SISTEMA+DE+RIEGO
+###### Fuente: https://patents.google.com/patent/ES2734348T3/es?q=(SISTEMA+DE+RIEGO)&oq=SISTEMA+DE+RIEGO
 
 
 
-# *LISTA DE REQUERIMIENTO*
-### Requerimiento Funcionales 
+# LISTA DE REQUERIMIENTO
+
+### *Requerimiento Funcionales*
 <p align="center">
   <img src="https://i.postimg.cc/cLVdFRbc/proyecto-Qallariy.jpg)](https://postimg.cc/jD4V57KW)"alt="Agua es vida" width="600px" />
 </p> Fuente:(Elaboración propia) 
 
-### Requerimiento no funcionales 
+### *Requerimiento no funcionales*
 <p align="center">
   <img src="https://i.postimg.cc/sXnj9kdM/proyecto-Qallariy-1.jpg)](https://postimg.cc/zbgYqPfN)"alt="Agua es vida" width="600px" />
 </p> Fuente:(Elaboracion propia)
 
-# Estrategia de Solución
+# *Estrategia de Solución*
 <p align="center">
   <img src="https://i.postimg.cc/rmSWVGbV/proyecto-Qallariy-2.jpg)](https://postimg.cc/xJ1qgmnh)"alt="Agua es vida" width="600px" />
 </p> Fuente:(Elaboracion propia)
 
-Bibliografía
+## *Referencias bibliográficas*
 
 GONZALEZ JAUREGUI, E. (2022). SISTEMA DE MÓDULOS INTELIGENTES PARA SOPORTE DE SUPERFICIES AJARDINADAS, ESPARCIMIENTO DE CULTIVO, RECOLECCIÓN Y REDIRECCIONAMIENTO DE AGUAS PLUVIALES. Ciudad de México. https://lp.espacenet.com/publicationDetails/biblio?II=2&ND=3&adjacent=true&locale=es_LP&FT=D&date=20220408&CC=MX&NR=2020010582A&KC=A
 
