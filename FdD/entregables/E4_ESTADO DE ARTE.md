@@ -3,13 +3,20 @@
 # *ARTÍCULO 1:*
 
 ## DÉFICIT HÍDRICO EN MAÍZ AL CONSIDERAR FENOLOGÍA, EFECTO EN RENDIMIENTO Y EFICIENCIA EN EL USO DEL AGUA
-* El artículo presenta un estudio experimental sobre el estrés hídrico en los cultivos de maíz realizado durante el ciclo agrícola otoño-invierno en el Campo Experimental Valle del Fuerte (CEVAF) en la zona árida del norte del estado de Sinaloa, México,en el cual se evualuó la calidad del suelo y las precipitaciones,el estudio fue realizado en bloques al azar con cinco repeticiones en el cual se evaluaron cuatro tratamientos con déficit hídrico y un un testigo.Este artículo nos proporrciona información técnica y científica sobre el manejo del riego en la producción de maíz bajo estrés hídrico.**
+
+*El artículo presenta un estudio experimental sobre el estrés hídrico en los cultivos de maíz realizado durante el ciclo agrícola otoño-invierno en el Campo Experimental Valle del Fuerte (CEVAF) en la zona árida del norte del estado de Sinaloa, México,en el cual se evualuó la calidad del suelo y las precipitaciones,el estudio fue realizado en bloques al azar con cinco repeticiones en el cual se evaluaron cuatro tratamientos con déficit hídrico y un un testigo.Este artículo nos proporrciona información técnica y científica sobre el manejo del riego en la producción de maíz bajo estrés hídrico.**
+<p align="center">
+  <a href="">
+    <img src="https://i.postimg.cc/HnJcPT82/Imagen-de-Whats-App-2024-01-20-a-las-13-36-41-49b5cca8.jpg)](https://postimg.cc/m1sgPfwz)">
+  </a>
+</p>
+
 
   
 # *ARTÍCULO 2:*
 ## Impact of water deficit stress in maize: Phenology and yield components
-### Estrés hídrico de maíz
-*El presente  artículo analiza el impacto del estrés por el escasez hídrica en el cultivo de maíz, centrándose en las líneas de maíz no tolerantes a la sequía y las tolerantes a la sequía. Se destacan las penalizaciones significativas en el rendimiento causadas por el estrés por la escasez hídrica, especialmente en las líneas no tolerantes a la sequía. Además, se identifican rasgos clave que mejoran la tolerancia al estrés por escasez hídrica en el maíz. El estudio proporciona información valiosa sobre los efectos específicos del estrés por déficit hídrico en la fenología del maíz y sus componentes de rendimiento, así como las diferencias en la respuesta entre las líneas de maíz no tolerantes y tolerantes a la sequía.**
+### Estrés hídrico de m
+* El presente  artículo analiza el impacto del estrés por el escasez hídrica en el cultivo de maíz, centrándose en las líneas de maíz no tolerantes a la sequía y las tolerantes a la sequía. Se destacan las penalizaciones significativas en el rendimiento causadas por el estrés por la escasez hídrica, especialmente en las líneas no tolerantes a la sequía. Además, se identifican rasgos clave que mejoran la tolerancia al estrés por escasez hídrica en el maíz. El estudio proporciona información valiosa sobre los efectos específicos del estrés por déficit hídrico en la fenología del maíz y sus componentes de rendimiento, así como las diferencias en la respuesta entre las líneas de maíz no tolerantes y tolerantes a la sequía.**
 
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/41598_2020_Article_59689.pdf">
