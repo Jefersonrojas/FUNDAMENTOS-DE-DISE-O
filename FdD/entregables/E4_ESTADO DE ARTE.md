@@ -3,7 +3,7 @@
 # *ARTÍCULO 1:*
 
 ## DÉFICIT HÍDRICO EN MAÍZ AL CONSIDERAR FENOLOGÍA, EFECTO EN RENDIMIENTO Y EFICIENCIA EN EL USO DEL AGUA
-* El artículo presenta un estudio experimental establecido durante el ciclo agrícola otoño-invierno en el Campo Experimental Valle del Fuerte (CEVAF) en la zona árida del norte del estado de Sinaloa, México
+* El artículo presenta un estudio experimental sobre el estrés hídrico en los cultivos de maíz realizado durante el ciclo agrícola otoño-invierno en el Campo Experimental Valle del Fuerte (CEVAF) en la zona árida del norte del estado de Sinaloa, México,en el cual se evualuó la calidad del suelo y las precipitaciones,el estudio fue realizado en bloques al azar con cinco repeticiones en el cual se evaluaron cuatro tratamientos con déficit hídrico y un un testigo.Este artículo nos proporrciona información técnica y científica sobre el manejo del riego en la producción de maíz bajo estrés hídrico.**
 
   
 # *ARTÍCULO 2:*
