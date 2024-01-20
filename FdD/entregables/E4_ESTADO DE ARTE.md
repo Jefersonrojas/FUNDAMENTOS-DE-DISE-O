@@ -11,7 +11,7 @@
   </a>
 </p>
 
-
+>Ibarra, E. S., Bustamante, W. O., Cervantes, J. M., Pérez, C. M., & Rangel, P. P. (2021). Déficit hídrico en maíz al considerar fenología, efecto en rendimiento y eficiencia en el uso del agua. Agrociencia, 55(3), 209-226.
   
 # *ARTÍCULO 2:*
 ## Impact of water deficit stress in maize: Phenology and yield components
