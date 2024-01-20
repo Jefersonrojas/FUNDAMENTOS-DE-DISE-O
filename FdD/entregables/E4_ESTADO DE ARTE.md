@@ -9,6 +9,19 @@
   </a>
 </p>
 
+# *ARTÍCULO 2:*
+## Impact of water deficit stress in maize: Phenology and yield components
+### Estrés hídrico de maíz
+*El artículo analiza el impacto del estrés por déficit hídrico en el cultivo de maíz, centrándose en las líneas de maíz no tolerantes a la sequía y las tolerantes a la sequía. Se destacan las penalizaciones significativas en el rendimiento causadas por el estrés por déficit hídrico, especialmente en las líneas no tolerantes a la sequía. Además, se identifican rasgos clave que mejoran la tolerancia al estrés por déficit hídrico en el maíz. El estudio proporciona información valiosa sobre los efectos específicos del estrés por déficit hídrico en la fenología del maíz y sus componentes de rendimiento, así como las diferencias en la respuesta entre las líneas de maíz no tolerantes y tolerantes a la sequía.**
+
+<p align="center">
+  <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/41598_2020_Article_59689.pdf">
+    <img src="https://i.postimg.cc/fbYjqqv0/Imagen-de-Whats-App-2024-01-19-a-las-16-15-02-ae64379d.jpg)](https://postimg.cc/Jy4kGqv1)">
+  </a>
+</p>
+
+
+
  ## *ARTÍCULO 1:*
 ### Eficacia de dos sistemas de riego por goteo para el cerco vivo de Parkinsonia aculeata linnaeus, en el refugio de vida silvestre Pantanos de Villa,Lima, Perú
 
@@ -176,6 +189,25 @@ Mayhua López, E. L. (2015). Sistema de riego por goteo automático utilizando u
 
 OLIVE-CHAHINIAN, I., & VIALLETON, M. y. (2019). Sistema de control de riego. file:///C:/Users/User/Downloads/Patente%202.pdf
 Sela, G. (2024). RIEGO POR PIVOTE CENTRAL. https://cropaia.com/es/blog/riego-por-pivote-central/
+
+
+
+# *LISTA DE REQUERIMIENTO*
+### Requerimiento Funcionales 
+<p align="center">
+  <img src="https://i.postimg.cc/cLVdFRbc/proyecto-Qallariy.jpg)](https://postimg.cc/jD4V57KW)"alt="Agua es vida" width="600px" />
+</p> Fuente:(Elaboración propia) 
+
+### Requerimiento no funcionales 
+<p align="center">
+  <img src="https://i.postimg.cc/sXnj9kdM/proyecto-Qallariy-1.jpg)](https://postimg.cc/zbgYqPfN)"alt="Agua es vida" width="600px" />
+</p> Fuente:(Elaboracion propia)
+
+# Estrategia de Solución
+<p align="center">
+  <img src="https://i.postimg.cc/rmSWVGbV/proyecto-Qallariy-2.jpg)](https://postimg.cc/xJ1qgmnh)"alt="Agua es vida" width="600px" />
+</p> Fuente:(Elaboracion propia)
+
 
 
 
