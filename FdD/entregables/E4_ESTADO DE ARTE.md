@@ -23,6 +23,7 @@
   </a>
 </p>
 
+>Sah, R. P., Chakraborty, M., Prasad, K., Pandit, M., Tudu, V. K., Chakravarty, M. K., Narayan, S. C., Rana, M., & Moharana, D. (2020). Impact of water deficit stress in maize: Phenology and yield components. Scientific reports, 10(1), 2944.
 
 
  ## *ARTÍCULO 3:*
