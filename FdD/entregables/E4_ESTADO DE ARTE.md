@@ -154,17 +154,17 @@ BARBE, GUILLAUME<br>
 
 ### *Requerimiento Funcionales*
 <p align="center">
-  <img src="https://i.postimg.cc/cLVdFRbc/proyecto-Qallariy.jpg)](https://postimg.cc/jD4V57KW)"alt="Agua es vida" width="600px" />
+  <img src="https://i.postimg.cc/prrbcGsX/proyecto-Qallariy-4.jpg)](https://postimg.cc/k60pBcrk)" width="600px" />
 </p> Fuente:(Elaboración propia) 
 
 ### *Requerimiento no funcionales*
 <p align="center">
-  <img src="https://i.postimg.cc/sXnj9kdM/proyecto-Qallariy-1.jpg)](https://postimg.cc/zbgYqPfN)"alt="Agua es vida" width="600px" />
+  <img src="https://i.postimg.cc/hG116Cdx/proyecto-Qallariy-3.jpg)](https://postimg.cc/McXBjmtK)"Agua es vida" width="600px" />
 </p> Fuente:(Elaboracion propia)
 
 # *Estrategia de Solución*
 <p align="center">
-  <img src="https://i.postimg.cc/rmSWVGbV/proyecto-Qallariy-2.jpg)](https://postimg.cc/xJ1qgmnh)"alt="Agua es vida" width="600px" />
+  <img src="https://i.postimg.cc/FH8yY7MP/proyecto-Qallariy-5.jpg)](https://postimg.cc/xXGJ7TTH)" width="600px" />
 </p> Fuente:(Elaboracion propia)
 
 ## *Referencias bibliográficas*
