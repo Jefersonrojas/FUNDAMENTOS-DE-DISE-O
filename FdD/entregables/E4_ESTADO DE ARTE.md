@@ -38,7 +38,12 @@
 
 >Iannacone, J., Delgado, D., & Palma, V. (2023). EFICACIA DE DOS SISTEMAS DE RIEGO POR GOTEO PARA EL CERCO VIVO DE PARKINSONIA ACULEATA LINNAEUS, EN EL REFUGIO DE VIDA SILVESTRE PANTANOS DE VILLA, LIMA, PERÚ. Campus, 28(35).
 
+## "ARTÍCULO 4:"
+### Productividad del agua y rendimiento de maíz bajo diferente disponibilidad de humedad
 
+[![Whats-App-Image-2024-01-22-at-12-45-39-AM.jpg](https://i.postimg.cc/tJsX8MY4/Whats-App-Image-2024-01-22-at-12-45-39-AM.jpg)](https://postimg.cc/1VZhqMGk)
+
+"El presente artículo hace referencia a un estudio que muestra la productividad del cultivo de maíz en cada etapa del coeficiente del cultivo de maíz y la proporción de agua suministrada dependiendo la etapa en la que se encuentre, pasando por la etapa de semilla, plántula y madurez- Este estudio fue realizado por dos instituciones siendo estas la  FESC-UNAM y la INIFAP, la primera se dio en Texcoco, Estado de México; empleando cinco híbridos de maíz de la UNAM y otras cinco del INIFAP, tuvieron en cuenta diversos parámetros tales son, temperatura, humedad del suelo, variabilidad climática, etc. la productividad total del agua se calculó como el volumen total de agua entre el rendimiento de grano al 14% de humedad. Se llegó a la conclusión de que, respecto a la productividad total del agua, está relacionada inversamente con la cantidad de agua que ingresa al sistema de producción."
 
 # CONTEXTO COMERCIAL
 ## EQUIPOS EN EL MERCADO
