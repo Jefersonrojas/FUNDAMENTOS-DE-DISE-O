@@ -177,6 +177,7 @@ Castro Popoca, M. Á. (2008). Sistema de riego automotizado en tiempo real con b
 
 Alonso-Sánchez, H., Tadeo-Robledo, M., Espinosa-Calderón, A., Zaragoza-Esparza, J., & López-López, C. (2020). Productividad del agua y rendimiento de maíz bajo diferente disponibilidad de humedad. Revista mexicana de ciencias agrícolas, 11(5), 1005-1016.file:///C:/Users/HP/Downloads/admin,+Editor_a+de+la+revista,+4)ArtiEsp+2118-19.pdf
 
+
 DAVID JHOHN AUGHTON, S. C. (2020). PROCEDIMIENTO Y SISTEMA PARA DISTRIBUCIÓN DE AGUA Y DETERMINACIÓN DE LA HUMEDAD DEL SUELO. file:///C:/Users/User/Downloads/MX2020001738A.pdf
 
 EOS DATA ANALYTICS. (2021). Fertirrigación: Tecnología Agrícola Avanzada. https://eos.com/es/blog/fertirrigacion/
