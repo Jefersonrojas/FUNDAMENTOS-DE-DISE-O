@@ -4,19 +4,18 @@
 
 ## DÉFICIT HÍDRICO EN MAÍZ AL CONSIDERAR FENOLOGÍA, EFECTO EN RENDIMIENTO Y EFICIENCIA EN EL USO DEL AGUA
 
-*El artículo presenta un estudio experimental sobre el estrés hídrico en los cultivos de maíz realizado durante el ciclo agrícola otoño-invierno en el Campo Experimental Valle del Fuerte (CEVAF) en la zona árida del norte del estado de Sinaloa, México,en el cual se evualuó la calidad del suelo y las precipitaciones,el estudio fue realizado en bloques al azar con cinco repeticiones en el cual se evaluaron cuatro tratamientos con déficit hídrico y un un testigo.Este artículo nos proporrciona información técnica y científica sobre el manejo del riego en la producción de maíz bajo estrés hídrico.**
+*El artículo presenta un estudio experimental sobre el estrés hídrico en los cultivos de maíz realizado durante el ciclo agrícola otoño-invierno en el Campo Experimental Valle del Fuerte (CEVAF) en la zona árida del norte del estado de Sinaloa, México,en el cual se evualuó la calidad del suelo y las precipitaciones,el estudio fue realizado en bloques al azar con cinco repeticiones en el cual se evaluaron cuatro tratamientos con déficit hídrico y un un testigo.Este artículo nos proporciona información técnica y científica sobre el manejo del riego en la producción de maíz bajo estrés hídrico.**
 <p align="center">
-  <a href="">
+  <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/ART%C3%8DCULO%201.pdf">
     <img src="https://i.postimg.cc/HnJcPT82/Imagen-de-Whats-App-2024-01-20-a-las-13-36-41-49b5cca8.jpg)](https://postimg.cc/m1sgPfwz)">
   </a>
 </p>
 
-
+>Ibarra, E. S., Bustamante, W. O., Cervantes, J. M., Pérez, C. M., & Rangel, P. P. (2021). Déficit hídrico en maíz al considerar fenología, efecto en rendimiento y eficiencia en el uso del agua. Agrociencia, 55(3), 209-226.
   
 # *ARTÍCULO 2:*
 ## Impact of water deficit stress in maize: Phenology and yield components
-### Estrés hídrico de m
-* El presente  artículo analiza el impacto del estrés por el escasez hídrica en el cultivo de maíz, centrándose en las líneas de maíz no tolerantes a la sequía y las tolerantes a la sequía. Se destacan las penalizaciones significativas en el rendimiento causadas por el estrés por la escasez hídrica, especialmente en las líneas no tolerantes a la sequía. Además, se identifican rasgos clave que mejoran la tolerancia al estrés por escasez hídrica en el maíz. El estudio proporciona información valiosa sobre los efectos específicos del estrés por déficit hídrico en la fenología del maíz y sus componentes de rendimiento, así como las diferencias en la respuesta entre las líneas de maíz no tolerantes y tolerantes a la sequía.**
+*El presente  artículo analiza el impacto del estrés por el déficit hídrico en los cultivos de maíz, centrándose en las líneas de maíz no tolerantes a la sequía y las tolerantes a la sequía. Se destacan las penalizaciones significativas en el rendimiento causadas por el estrés por la escasez hídrica, especialmente en las líneas no tolerantes a la sequía. Además, se identifican rasgos clave que mejoran la tolerancia al estrés por escasez hídrica en el maíz. El estudio proporciona información valiosa sobre los efectos específicos del estrés por déficit hídrico en la fenología del maíz y sus componentes de rendimiento, así como las diferencias en la respuesta entre las líneas de maíz no tolerantes y tolerantes a la sequía.**
 
 <p align="center">
   <a href="https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/Documentacion/41598_2020_Article_59689.pdf">
@@ -24,6 +23,7 @@
   </a>
 </p>
 
+>Sah, R. P., Chakraborty, M., Prasad, K., Pandit, M., Tudu, V. K., Chakravarty, M. K., Narayan, S. C., Rana, M., & Moharana, D. (2020). Impact of water deficit stress in maize: Phenology and yield components. Scientific reports, 10(1), 2944.
 
 
  ## *ARTÍCULO 3:*
@@ -36,40 +36,27 @@
   </a>
 </p>
 
-
 >Iannacone, J., Delgado, D., & Palma, V. (2023). EFICACIA DE DOS SISTEMAS DE RIEGO POR GOTEO PARA EL CERCO VIVO DE PARKINSONIA ACULEATA LINNAEUS, EN EL REFUGIO DE VIDA SILVESTRE PANTANOS DE VILLA, LIMA, PERÚ. Campus, 28(35).
 
+## "ARTÍCULO 4:"
+### Productividad del agua y rendimiento de maíz bajo diferente disponibilidad de humedad
 
+[![Whats-App-Image-2024-01-22-at-12-45-39-AM.jpg](https://i.postimg.cc/tJsX8MY4/Whats-App-Image-2024-01-22-at-12-45-39-AM.jpg)](https://postimg.cc/1VZhqMGk)
+
+"El presente artículo hace referencia a un estudio que muestra la productividad del cultivo de maíz en cada etapa del coeficiente del cultivo de maíz y la proporción de agua suministrada dependiendo la etapa en la que se encuentre, pasando por la etapa de semilla, plántula y madurez- Este estudio fue realizado por dos instituciones siendo estas la  FESC-UNAM y la INIFAP, la primera se dio en Texcoco, Estado de México; empleando cinco híbridos de maíz de la UNAM y otras cinco del INIFAP, tuvieron en cuenta diversos parámetros tales son, temperatura, humedad del suelo, variabilidad climática, etc. la productividad total del agua se calculó como el volumen total de agua entre el rendimiento de grano al 14% de humedad. Se llegó a la conclusión de que, respecto a la productividad total del agua, está relacionada inversamente con la cantidad de agua que ingresa al sistema de producción."
 
 # CONTEXTO COMERCIAL
 ## EQUIPOS EN EL MERCADO
 
-- #### *FARMDROID FD-20*
+| Nombre del producto  | Descripción  | Precio |
+| :------------ |:---------------:| -----:|
+| Medidor de humedad del suelo       | Medidor de humedad del suelo para PH, fertilidad, luz, humedad, medidor de pH del suelo, probador de suelo, medidor de humedad para plantas de casa, jardín, césped, granja, uso exterior e interior (no requiere batería) |  [![medidor-de-humedad-del-suelo.jpg](https://i.postimg.cc/2yBXhnrZ/medidor-de-humedad-del-suelo.jpg)](https://postimg.cc/dZwBKk7s) US$19.99 |
+| Sistema de riego automatizado solar|  kit de riego por goteo, sistema de riego por goteo de jardín interior y exterior, compatible con 15 macetas, 6 modos de sincronización para plantas en maceta funciona con energía solar y la batería grande integrada de 2200 mAh puede regar automáticamente. También está diseñado con la alarma automática de escasez de agua que se producirá un pitido intermitente cuando el nivel del agua es bajo o las sondas están en el agua y la succión está tapada.        |   [![sistema-de-riego-automatico-solar.jpg](https://i.postimg.cc/g0XMfvLB/sistema-de-riego-automatico-solar.jpg)](https://postimg.cc/PLHzDv4m) US$20.99 |
+| Temporizador de manguera inteligente |  Cuenta con monitor de flujo de agua, control remoto por aplicación, compatible con control de voz Alexa, temporizador de manguera al aire libre para plantas de césped de jardín, temporizador de riego para cama de flores. |  [![temporizador-de-manguera-inteligente.jpg](https://i.postimg.cc/fyJkKTrX/temporizador-de-manguera-inteligente.jpg)](https://postimg.cc/30QKr77J) US$49.99
+| Sistema de fertirrigación        |    Es la aplicación de fertilizantes a través del agua de riego una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos. |[![ferrtirrigaci-n1.jpg](https://i.postimg.cc/76BpgSdH/ferrtirrigaci-n1.jpg)](https://postimg.cc/YGWn7LtZ) US$82.12
+                
+----
 
-*Es un robot agrícola impulsado por energía solar diseñado para sembrar y controlar malezas en campos de maíz, gracias a un avanzado sistema de GPS RTK garantiza una colocación precisa de cada semilla. El robot cuenta con cuatro paneles solares que convierten eficientemente la luz solar en energía para sus dos baterías con una potencia máxima de 1,6 KWh este almacenamiento energético permite un funcionamiento continuo de 18 a 24 horas al día mientras se desplaza a una velocidad constante de 950 metros por hora. Además, el FD20 proporciona una solución completa para el cultivo de plantas, permitiendo la supervisión a distancia y notificando sobre situaciones imprevistas durante su funcionamiento.*
-##### *Figura N°1:*
-*Robot agrario impulsado por cuatro paneles solar diseñado para sembrar y controlar maleza en el campo.*
-<p align="center">
-  <img src="https://i.postimg.cc/Jh8pL24f/Framdroid-fd-20.jpg)](https://postimg.cc/zydCwph7)" width="600px" />
-</p>
-
-- #### *PIVOTE CENTRAL*
-*Es una herramienta utilizada en agricultura para regar grandes extensiones de terreno consiste en una estructura elevada sobre ruedas, que gira alrededor de un punto central y distribuye el agua a través de aspersores o rociadores. Los componentes principales de un sistema de riego por pivote central incluyen la estructura, el sistema motriz, el cuadro central, el cofre de alineación de torre, el equipo de distribución de agua, las tuberías de riego, la celosía, las ruedas de pivote, los rociadores y el cañón de riego para pivote. Los sistemas de riego por pivote central son altamente eficientes y se adaptan a diferentes tipos de cultivos.*
-##### *Figura N°2:*
-*Herramienta para regar grandes extensiones de terreno*
-<p align="center">
-  <img src="https://i.postimg.cc/1XyP2Q8f/PIVOTE-CENTRAL.jpg)](https://postimg.cc/hzZHQNbB)" width="600px" />
-</p>
-
-
-- #### *SISTEMA DE FERTIRRIGACIÓN*
-*Es la aplicación de fertilizantes a través del agua de riego una técnica eficiente que suministra nutrientes a los cultivos a través del agua de riego. Es altamente efectiva y permite un uso eficiente de los fertilizantes, reduciendo costos. Los sistemas de riego localizado son ideales para la fertirrigación, ya que minimizan pérdidas y entregan nutrientes directamente a las raíces. Es compatible con diversos sistemas de riego, mejorando la productividad de los cultivos.*
-##### *Figura N°3:*
-*Aplicación de nutrientes a través del agua de riego*
-
-<p align="center">
-  <img src="https://i.postimg.cc/q7DST61f/sistema-de-fertirrigacion.jpg)](https://postimg.cc/GBYqPt0z)" width="600px" />
-</p>
 
 ## PATENTES
 
@@ -167,17 +154,17 @@ BARBE, GUILLAUME<br>
 
 ### *Requerimiento Funcionales*
 <p align="center">
-  <img src="https://i.postimg.cc/cLVdFRbc/proyecto-Qallariy.jpg)](https://postimg.cc/jD4V57KW)"alt="Agua es vida" width="600px" />
+  <img src="https://i.postimg.cc/prrbcGsX/proyecto-Qallariy-4.jpg)](https://postimg.cc/k60pBcrk)" width="600px" />
 </p> Fuente:(Elaboración propia) 
 
 ### *Requerimiento no funcionales*
 <p align="center">
-  <img src="https://i.postimg.cc/sXnj9kdM/proyecto-Qallariy-1.jpg)](https://postimg.cc/zbgYqPfN)"alt="Agua es vida" width="600px" />
+  <img src="https://i.postimg.cc/hG116Cdx/proyecto-Qallariy-3.jpg)](https://postimg.cc/McXBjmtK)"Agua es vida" width="600px" />
 </p> Fuente:(Elaboracion propia)
 
 # *Estrategia de Solución*
 <p align="center">
-  <img src="https://i.postimg.cc/rmSWVGbV/proyecto-Qallariy-2.jpg)](https://postimg.cc/xJ1qgmnh)"alt="Agua es vida" width="600px" />
+  <img src="https://i.postimg.cc/FH8yY7MP/proyecto-Qallariy-5.jpg)](https://postimg.cc/xXGJ7TTH)" width="600px" />
 </p> Fuente:(Elaboracion propia)
 
 ## *Referencias bibliográficas*
@@ -187,6 +174,9 @@ GONZALEZ JAUREGUI, E. (2022). SISTEMA DE MÓDULOS INTELIGENTES PARA SOPORTE DE S
 ALEJANDRO, G. J. (2022). SISTEMA DE TELEGESTIÓN MODULAR DEL ESTADO VEGETATIVO DE CULTIVOS Y DE SU CONSUMO DE AGUA Y NUTRIENTES. file:///C:/Users/User/Downloads/ES2668210A1.pdf
 
 Castro Popoca, M. Á. (2008). Sistema de riego automotizado en tiempo real con balance hídrico, medición de humedad del suelo y lisímetro. Agricultura técnica en México. https://www.scielo.org.mx/scielo.php?pid=S0568-25172008000400009&script=sci_abstract&tlng=pt
+
+Alonso-Sánchez, H., Tadeo-Robledo, M., Espinosa-Calderón, A., Zaragoza-Esparza, J., & López-López, C. (2020). Productividad del agua y rendimiento de maíz bajo diferente disponibilidad de humedad. Revista mexicana de ciencias agrícolas, 11(5), 1005-1016.file:///C:/Users/HP/Downloads/admin,+Editor_a+de+la+revista,+4)ArtiEsp+2118-19.pdf
+
 
 DAVID JHOHN AUGHTON, S. C. (2020). PROCEDIMIENTO Y SISTEMA PARA DISTRIBUCIÓN DE AGUA Y DETERMINACIÓN DE LA HUMEDAD DEL SUELO. file:///C:/Users/User/Downloads/MX2020001738A.pdf
 
