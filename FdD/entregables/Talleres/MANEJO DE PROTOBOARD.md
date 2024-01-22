@@ -22,7 +22,7 @@
 
 ### Multímetro Digital
 <p align="left">
-  <img src="https://i.postimg.cc/2jQ761yc/Imagen-de-Whats-App-2024-01-22-a-las-17-01-16-72022389.jpg)](https://postimg.cc/CdKqrLjk)" width="600px" />
+  <img src="https://i.postimg.cc/SxcpJ702/Imagen-de-Whats-App-2024-01-22-a-las-17-01-17-ee55bc.jpg)](https://postimg.cc/hX4YYmtc)" width="600px" />
 </p>
 
 
