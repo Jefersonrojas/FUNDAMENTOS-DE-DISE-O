@@ -6,8 +6,8 @@
 # Informe: Práctica 1: Manejo de Protoboard
                 
 *  Materiales
-*  Ejercicios nivel pollito
-*  Ejercicios nivel gato
+*  Ejercicio nivel pollito
+*  Ejercicio nivel gato
 *  Ejercicio nivel dragón
 *  Circuito Divisor de Tensión
 
