@@ -175,6 +175,8 @@ ALEJANDRO, G. J. (2022). SISTEMA DE TELEGESTIÓN MODULAR DEL ESTADO VEGETATIVO D
 
 Castro Popoca, M. Á. (2008). Sistema de riego automotizado en tiempo real con balance hídrico, medición de humedad del suelo y lisímetro. Agricultura técnica en México. https://www.scielo.org.mx/scielo.php?pid=S0568-25172008000400009&script=sci_abstract&tlng=pt
 
+Alonso-Sánchez, H., Tadeo-Robledo, M., Espinosa-Calderón, A., Zaragoza-Esparza, J., & López-López, C. (2020). Productividad del agua y rendimiento de maíz bajo diferente disponibilidad de humedad. Revista mexicana de ciencias agrícolas, 11(5), 1005-1016.
+
 DAVID JHOHN AUGHTON, S. C. (2020). PROCEDIMIENTO Y SISTEMA PARA DISTRIBUCIÓN DE AGUA Y DETERMINACIÓN DE LA HUMEDAD DEL SUELO. file:///C:/Users/User/Downloads/MX2020001738A.pdf
 
 EOS DATA ANALYTICS. (2021). Fertirrigación: Tecnología Agrícola Avanzada. https://eos.com/es/blog/fertirrigacion/
