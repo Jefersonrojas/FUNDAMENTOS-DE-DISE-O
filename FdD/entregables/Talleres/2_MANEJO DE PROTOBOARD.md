@@ -32,17 +32,25 @@
 | :------------ |:---------------:| 
 | [![Medicion en KiloOhmios .jpg](https://i.postimg.cc/sDLyYB8y/Imagen-de-Whats-App-2024-01-22-a-las-17-01-16-36483f88.jpg)](https://postimg.cc/mt70RrB6)    | [![Ejercicio nivel pollo.jpg](https://i.postimg.cc/XqtP4Yg6/Imagen-de-Whats-App-2024-01-22-a-las-21-17-35-1e04bae4.jpg)](https://postimg.cc/CnH74Ytc)|
 
-#### RESPUESTA: ####
+### Datos:
+* R1 = 100 KΩ
 
-*R12= R1 +R2 123*
+* R2 = 100 KΩ 
+
+* R3 = 10 KΩ
+#### SOLUCIÓN: ####
+
+*R12= R1 +R2*
 
 *R12=100 KΩ + 100 KΩ= 200 KΩ*
 
-*1/(R 123)=  1/R12+1/R3*
+*1/(R 123)=  1/R12+ 1/R3*
 
-*1/(R 123)=  1/200+1/10=9.5238KΩ*
+*1/(R 123)=  1/200+1/10= 9.5238KΩ*
 
-#### EXPLICACIÓN: ####
+### RESPUESTA: 9.5238KΩ ### 
+
+#### EXPLICACIÓN: Usando la formula obtuvimos el resultado de  9.5238KΩ y con el Multímetro Digital un resultado de 9.38KΩ llegando ala conclusión de una diferencia era mínima de 0.1438KΩ   ####
 *
 
 ## Nivel gato
