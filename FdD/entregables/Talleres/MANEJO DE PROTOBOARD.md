@@ -42,6 +42,14 @@
 ----
 
 
+## Nivel pollo
+
+## Nivel gato
+
+## Nivel dragón
+
+## Circuito divisor de tensión
+
 
 
 
