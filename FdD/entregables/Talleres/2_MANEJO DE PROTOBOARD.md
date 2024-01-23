@@ -7,7 +7,7 @@
 </p>
 
                
-## Lista de materiales utilizados en el laboratorio
+## 1.- Lista de materiales utilizados en el laboratorio
 
 
 | MATERIALES |  IMAGEN | 
@@ -17,7 +17,7 @@
 | Fuente de alimentación DC | [![Fuente-de-alimentacion-DC.jpg](https://i.postimg.cc/Hk3hVg55/Fuente-de-alimentacion-DC.jpg)](https://postimg.cc/k26cpLTX) | 
 
 
-## Ejercicios desarrollados en la práctica del laboratorio
+## 2.- Ejercicios desarrollados en la práctica del laboratorio
 
 | Nivel | Ejercicios  | 
 | :------------ |:---------------:| 
@@ -28,35 +28,22 @@
                 
 ----
 
-## Nivel  pollo
+## *Nivel  pollo
 
 Medicion en KiloOhmios con el Multímetro Digital 
 
-
-[![yefer.jpg](https://i.postimg.cc/VLKsNLQj/yefer.jpg)](https://postimg.cc/D8b3jhzZ)
-
-### Datos:
-* R1 = 100 KΩ
-
-* R2 = 100 KΩ 
-
-* R3 = 10 KΩ
-#### Solución: ####
-
-*R12= R1 +R2*
-
-*R12=100 KΩ + 100 KΩ= 200 KΩ*
-
-*1/(R 123)=  1/R12+ 1/R3*
-
-*1/(R 123)=  1/200+1/10= 9.5238KΩ*
-
-### Respuesta: 9.5238KΩ ### 
-
-#### Explicación: Usando la fórmula obtuvimos el resultado de  9.5238KΩ y con el Multímetro Digital un resultado de 9.38KΩ llegando ala conclusión de una diferencia mínima de 0.1438KΩ   ####
+| Valor del Multímetro  | Cálculos  | 
+| :------------ |:---------------:| 
+| [![yefer.jpg](https://i.postimg.cc/VLKsNLQj/yefer.jpg)](https://postimg.cc/D8b3jhzZ)|[![Diagrama.jpg](https://i.postimg.cc/MTbvrSdW/Diagrama.jpg)](https://postimg.cc/0MjkbhT3) |
 
 
-## Nivel gato
+
+
+
+ *Explicación: Usando la fórmula obtuvimos el resultado de  9.524KΩ y con el multímetro digital un resultado de 9.38KΩ llegando ala conclusión de una diferencia mínima de 0.1438KΩ**  
+
+
+## *Nivel gato
 
 
 | Valor del Multímetro  | Circuito  | 
@@ -107,7 +94,7 @@ R1,R2,R3,R4    = 1/0.205
 
 
 
-## Nivel dragón
+## *Nivel dragón
 
 En este experimento se representó un circuito eléctrico que está compuesto por seis resistencias cada una con su respectivo valor:
 R1, R3, R2 y R4 = 10KΩ → R5 y R6 = 100KΩ
@@ -119,7 +106,7 @@ R1, R3, R2 y R4 = 10KΩ → R5 y R6 = 100KΩ
 Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor proporcionado por el multímetro el cual estaba conectado al protoboard con su circuito de resistencias correspondiente. En donde se observo una ligera diferencia, el cual pudo variar 
 
 
-## Circuito divisor de tensión
+## *Circuito divisor de tensión
 
 | CONCEPTO  |  CONCEPTO  | 
 | :------------ |:---------------:| 
