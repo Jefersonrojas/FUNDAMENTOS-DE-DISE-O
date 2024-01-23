@@ -122,6 +122,9 @@ Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor propor
 | :------------ |:---------------:| 
 | [![Whats-App-Image-2024-01-23-at-2-15-58-AM.jpg](https://i.postimg.cc/bYn0pf3j/Whats-App-Image-2024-01-23-at-2-15-58-AM.jpg)](https://postimg.cc/kDnRvZ0j) | [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
 
+| CONCEPTO  |    | 
+| :------------ |:---------------:| 
+|[![Whats-App-Image-2024-01-23-at-2-36-46-AM.jpg](https://i.postimg.cc/HxsryvNY/Whats-App-Image-2024-01-23-at-2-36-46-AM.jpg)](https://postimg.cc/d7pQM6vp)| [![Whats-App-Image-2024-01-23-at-2-36-47-AM.jpg](https://i.postimg.cc/7LPz3LGr/Whats-App-Image-2024-01-23-at-2-36-47-AM.jpg)](https://postimg.cc/w1P3HgQw)|
 #### Aproximación a R1 780 Ω
 3 en serie de 220 Ω 
 2 en paralelo de 220 Ω
@@ -134,3 +137,7 @@ Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor propor
     R1 = 660 Ω+110 Ω = 770Ω
 
 En primera instancia se tomó como valor la resistencia del resistor(R2) (valor seleccionado al azar), en nuestro caso tomamos un resistor de 220 Ω, calculamos el valor del resistor (R1), siendo este de 780 Ω, se tuvo en cuenta que al ser esté un resistor hallado no se tenía un resistor con un valor similar o cercano, así que, con ayuda de 3 resistores en serie de 220 Ω y 2 resistores en paralelo de 220 Ω tuvo un valor de 770 Ω (valor muy aproximado al calculado). Por último, una vez realizados estos  cálculos, lo ponemos en serie. Colocamos los cables cocodrilo en los nodos extremos, de tal manera que al ser medido por el multímetro, nos de un valor que arroje 1.1 voltios (valor asignado).
+
+
+
+
