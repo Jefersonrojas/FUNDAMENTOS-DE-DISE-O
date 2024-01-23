@@ -41,11 +41,6 @@
                 
 ----
 
-* Series = R1, R2
-* Paralelos = R3, R4
-* Resistencia extra que ocasiona corte de circuito = R5
-
-
 ## Nivel pollo
 
 <p align="center">
@@ -71,6 +66,11 @@
 | :------------ |:---------------:| 
 | [![corte-circuito.jpg](https://i.postimg.cc/3RCjwRjX/corte-circuito.jpg)](https://postimg.cc/G8tT7b5t)    | [![circuito-correcto.jpg](https://i.postimg.cc/SNwnw4Ck/circuito-correcto.jpg)](https://postimg.cc/jL4q7GMF)|
 
+### Solución
+
+* Series = R1, R2 
+* Paralelos = R3, R4 
+* Resistencia extra que ocasiona corte de circuito = R5 
 
 
 
