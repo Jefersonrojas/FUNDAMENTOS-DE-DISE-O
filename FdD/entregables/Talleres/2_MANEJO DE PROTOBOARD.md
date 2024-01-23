@@ -38,7 +38,7 @@
 * R2 = 100 KΩ 
 
 * R3 = 10 KΩ
-#### SOLUCIÓN: ####
+#### Solución: ####
 
 *R12= R1 +R2*
 
@@ -48,14 +48,14 @@
 
 *1/(R 123)=  1/200+1/10= 9.5238KΩ*
 
-### RESPUESTA: 9.5238KΩ ### 
+### Respuesta: 9.5238KΩ ### 
 
-#### EXPLICACIÓN: Usando la fórmula obtuvimos el resultado de  9.5238KΩ y con el Multímetro Digital un resultado de 9.38KΩ llegando ala conclusión de una diferencia mínima de 0.1438KΩ   ####
+#### Explicación: Usando la fórmula obtuvimos el resultado de  9.5238KΩ y con el Multímetro Digital un resultado de 9.38KΩ llegando ala conclusión de una diferencia mínima de 0.1438KΩ   ####
 
 
 ## Nivel gato
 
-| Corte circuito  | Circuito correcto  | 
+| Valor del Multímetro  | Circuito  | 
 | :------------ |:---------------:| 
 | [![gato2.jpg](https://i.postimg.cc/SxGqGR2v/gato2.jpg)](https://postimg.cc/k2DkJnyQ)   | [![circuito-correcto.jpg](https://i.postimg.cc/SNwnw4Ck/circuito-correcto.jpg)](https://postimg.cc/jL4q7GMF)|
 
