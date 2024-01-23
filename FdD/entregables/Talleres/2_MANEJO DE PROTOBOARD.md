@@ -22,7 +22,7 @@
 </p>
 
 
-## Ejercicios desarrollados en clase
+## Ejercicios desarrollados en la práctica del laboratorio
 
 | Nivel | Ejercicios  | 
 | :------------ |:---------------:| 
