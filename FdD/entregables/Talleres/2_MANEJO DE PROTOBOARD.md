@@ -29,7 +29,7 @@
 ## Nivel pollo
 
 <p align="left">
-  <img src="https://i.postimg.cc/K8vy9QDP/nivel-pollo-ejerc.jpg)](https://postimg.cc/4mMMy6My)" width="400px" />
+  <img src="https://i.postimg.cc/K8vy9QDP/nivel-pollo-ejerc.jpg)](https://postimg.cc/4mMMy6My)" width="500px" />
 </p>
 
 #### RESPUESTA: ####
@@ -81,7 +81,7 @@ R1,R2 + R3 +R4 = 1/200 KΩ + 1/10 KΩ + 1/10 KΩ
 
 R1,R2,R3,R4    = 1/0.205
 
-### Rpta = 4.8780
+### Rpta = 4.8780 KΩ
 
 
 
