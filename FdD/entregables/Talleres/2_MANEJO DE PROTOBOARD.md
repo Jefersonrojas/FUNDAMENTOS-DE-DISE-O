@@ -30,9 +30,10 @@
 
 ## Nivel  pollo
 
-| Medicion en KiloOhmios con el Multímetro Digital  | Ejercicio nivel pollo  | 
-| :------------ |:---------------:| 
-| [![Medicion en KiloOhmios con el Multímetro Digital.jpg](https://i.postimg.cc/sDLyYB8y/Imagen-de-Whats-App-2024-01-22-a-las-17-01-16-36483f88.jpg)](https://postimg.cc/mt70RrB6)    | [![Ejercicio nivel pollo.jpg](https://i.postimg.cc/XqtP4Yg6/Imagen-de-Whats-App-2024-01-22-a-las-21-17-35-1e04bae4.jpg)](https://postimg.cc/CnH74Ytc)|
+Medicion en KiloOhmios con el Multímetro Digital 
+
+
+[![yefer.jpg](https://i.postimg.cc/VLKsNLQj/yefer.jpg)](https://postimg.cc/D8b3jhzZ)
 
 ### Datos:
 * R1 = 100 KΩ
