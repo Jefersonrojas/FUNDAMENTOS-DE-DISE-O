@@ -8,7 +8,7 @@
 ## Lista de materiales utilizados en el laboratorio
 
 
-| Materiales  |  Imagen  | 
+| MATERIALES |  IMAGEN | 
 | :------------ |:---------------:| 
 | Protoboard | [![protoboard.jpg](https://i.postimg.cc/HLcsxgBL/protoboard.jpg)](https://postimg.cc/gwpPSf99)|
 | Multímetro Digital | [![multi.jpg](https://i.postimg.cc/L6GdmRts/multi.jpg)](https://postimg.cc/nCKS1yw8) |
@@ -122,7 +122,7 @@ Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor propor
 | :------------ |:---------------:| 
 | [![Whats-App-Image-2024-01-23-at-2-15-58-AM.jpg](https://i.postimg.cc/bYn0pf3j/Whats-App-Image-2024-01-23-at-2-15-58-AM.jpg)](https://postimg.cc/kDnRvZ0j) | [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
 
-| CONCEPTO  |    | 
+| MULTIMETRO  |  CIRCUITO | 
 | :------------ |:---------------:| 
 |[![Whats-App-Image-2024-01-23-at-2-36-46-AM.jpg](https://i.postimg.cc/HxsryvNY/Whats-App-Image-2024-01-23-at-2-36-46-AM.jpg)](https://postimg.cc/d7pQM6vp)| [![Whats-App-Image-2024-01-23-at-2-36-47-AM.jpg](https://i.postimg.cc/7LPz3LGr/Whats-App-Image-2024-01-23-at-2-36-47-AM.jpg)](https://postimg.cc/w1P3HgQw)|
 #### Aproximación a R1 780 Ω
