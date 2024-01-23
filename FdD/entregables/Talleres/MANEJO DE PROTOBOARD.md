@@ -24,7 +24,7 @@
   <img src="https://i.postimg.cc/HLcsxgBL/protoboard.jpg)](https://postimg.cc/gwpPSf99)" alt="FOTO ODS 7" width="300px" />
 </p>
 
-### Osciloscopio Digital 
+### Fuente de alimentación DC
 <p align="left">
   <img src="https://i.postimg.cc/Bb1qDJpr/osciloscopio-digital.jpg)](https://postimg.cc/BP49f9dp)"FOTO ODS 7" width="600px" />
 </p>
