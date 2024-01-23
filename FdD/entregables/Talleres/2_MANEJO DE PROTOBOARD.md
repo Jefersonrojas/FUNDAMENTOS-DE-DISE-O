@@ -98,7 +98,7 @@ R1,R2,R3,R4    = 1/0.205
 </p>
 
 
-* la resistencia R5 ya no se considera porque ocasiona un cortocircuito y, además, no influye en el sistema puesto que los nodos en las resistencias (R4) Y (R3) son equivalentes a R5.
+* la resistencia R5 ya no se considera porque ocasiona un cortocircuito y, además, no influye en el sistema puesto que los nodos en las resistencias (R1, R2, R3 y R4) son equivalentes a R5.
 
 
 
