@@ -105,5 +105,7 @@ R1,R2,R3,R4    = 1/0.205
 
 ## Circuito divisor de tensión
 
-
+| CONCEPTO  |  CONCEPTO  | 
+| :------------ |:---------------:| 
+| [![Whats-App-Image-2024-01-23-at-2-15-58-AM.jpg](https://i.postimg.cc/bYn0pf3j/Whats-App-Image-2024-01-23-at-2-15-58-AM.jpg)](https://postimg.cc/kDnRvZ0j) | [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
 
