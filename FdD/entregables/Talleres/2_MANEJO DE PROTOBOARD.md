@@ -6,20 +6,12 @@
                 
 ## Lista de materiales utilizados en el laboratorio
 
-## *Multímetro Digital*
-<p align="left">
-  <img src="https://i.postimg.cc/0QvRsR4F/potenciometro.jpg)](https://postimg.cc/yJLrm5sy)" width="600px" />
-</p>
 
-## *Protoboard*
-<p align="left">
-  <img src="https://i.postimg.cc/HLcsxgBL/protoboard.jpg)](https://postimg.cc/gwpPSf99)" alt="FOTO ODS 7" width="300px" />
-</p>
-
-## *Fuente de alimentación DC*
-<p align="left">
-  <img src="https://i.postimg.cc/Bb1qDJpr/osciloscopio-digital.jpg)](https://postimg.cc/BP49f9dp)"FOTO ODS 7" width="600px" />
-</p>
+| Materiales  |  Imagen  | 
+| :------------ |:---------------:| 
+| Protoboard | [![protoboard.jpg](https://i.postimg.cc/HLcsxgBL/protoboard.jpg)](https://postimg.cc/gwpPSf99)|
+| Multímetro Digital | [![multi.jpg](https://i.postimg.cc/L6GdmRts/multi.jpg)](https://postimg.cc/nCKS1yw8) |
+| Fuente de alimentación DC | [![Fuente-de-alimentacion-DC.jpg](https://i.postimg.cc/Hk3hVg55/Fuente-de-alimentacion-DC.jpg)](https://postimg.cc/k26cpLTX) | 
 
 
 ## Ejercicios desarrollados en la práctica del laboratorio
@@ -82,7 +74,7 @@ R1 + R2 = 100 KΩ + 100 KΩ
 R1,R2   = 200 KΩ
 
 
-### 1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4 ... 1/Rn
+### *1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4 ... 1/Rn*
 
 R1,R2 + R3 +R4 = 1/200 KΩ + 1/10 KΩ + 1/10 KΩ
 
