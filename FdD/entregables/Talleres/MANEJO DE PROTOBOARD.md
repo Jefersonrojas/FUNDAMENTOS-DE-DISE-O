@@ -5,8 +5,8 @@
 
 # Informe: Práctica 1: Manejo de Protoboard
                 
-*  Materiales
-*  
+## Materiales
+
 ### foto grupal
 <p align="left">
   <img src="https://i.postimg.cc/C1n1CCLr/fto-grupal.jpg)](https://postimg.cc/Vr1mmCtX)"FOTO ODS 7" width="600px" />
@@ -43,6 +43,15 @@
 
 
 ## Nivel pollo
+*RESPUESTA:*
+
+*R12= R1 +R2 123*
+
+*R12=100 KΩ + 100 KΩ= 200 KΩ*
+
+*1/(R 123)=  1/R12+1/R3*
+
+*1/(R 123)=  1/200+1/10=9.5238KΩ*
 
 ## Nivel gato
 
