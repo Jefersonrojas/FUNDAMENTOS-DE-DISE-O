@@ -63,7 +63,9 @@
 * Series = R1,R2 
 * Paralelos = R3,R4 
 * Resistencia extra que ocasiona corte de circuito = R5
+
   
+
 ### Datos:
 * R1 = 100 KΩ
 
@@ -75,6 +77,18 @@
 
 * R5 = 220 KΩ
 
+R1 + R2 = 100 KΩ + 100 KΩ
+
+R1,R2   = 200 KΩ
+
+
+### 1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4 ... 1/Rn
+
+R1,R2 + R3 +R4 = 1/200 KΩ + 1/10 KΩ + 1/10 KΩ
+
+R1,R2,R3,R4    = 1/0.205
+
+### Rpta = 4.8780
 
 
 
