@@ -57,7 +57,7 @@
 
 | Corte circuito  | Circuito correcto  | 
 | :------------ |:---------------:| 
-| [![corte-circuito.jpg](https://i.postimg.cc/3RCjwRjX/corte-circuito.jpg)](https://postimg.cc/G8tT7b5t)    | [![circuito-correcto.jpg](https://i.postimg.cc/SNwnw4Ck/circuito-correcto.jpg)](https://postimg.cc/jL4q7GMF)|
+| [![gato2.jpg](https://i.postimg.cc/SxGqGR2v/gato2.jpg)](https://postimg.cc/k2DkJnyQ)   | [![circuito-correcto.jpg](https://i.postimg.cc/SNwnw4Ck/circuito-correcto.jpg)](https://postimg.cc/jL4q7GMF)|
 
 ### Solución
 
@@ -92,7 +92,7 @@ R1,R2,R3,R4    = 1/0.205
 
 ### Rpta = 4.8780 KΩ
 
-
+* R5 es considerado como corte
 
 
 ## Nivel dragón
