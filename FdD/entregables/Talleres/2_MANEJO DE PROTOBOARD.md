@@ -1,10 +1,12 @@
-<p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEI20tmIrrk8sp9_ZQvo1LTBoY2j2L-kia2eLk-UBd8_e6mGZAo09hhWC-mLhtxw-Olg&usqp=CAU" alt="FOTO ODS 7" width="300px" />
+
+<p align="left" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+  <p align="left">
+    <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="300" alt="Facultad de Ciencias e ingeniería logo">
+  </p>  
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Informe: Manejo de protoboard</h1>
 </p>
 
-# Informe: Práctica 2: Manejo de Protoboard
-
-                
+               
 ## Lista de materiales utilizados en el laboratorio
 
 
