@@ -61,7 +61,7 @@ Medicion en KiloOhmios con el Multímetro Digital
 
 | Valor del Multímetro  | Circuito  | 
 | :------------ |:---------------:| 
-| [![multi.jpg](https://i.postimg.cc/L6GdmRts/multi.jpg)](https://postimg.cc/nCKS1yw8)| [![protoboard-1.jpg](https://i.postimg.cc/zGd9WV0k/protoboard-1.jpg)](https://postimg.cc/rDrn2F6d)|
+| [![Imagen8.jpg](https://i.postimg.cc/Xqmg468d/Imagen8.jpg)](https://postimg.cc/H80M9KFk) | [![protoboard-1.jpg](https://i.postimg.cc/zGd9WV0k/protoboard-1.jpg)](https://postimg.cc/rDrn2F6d)|
 
 ### Solución
 
