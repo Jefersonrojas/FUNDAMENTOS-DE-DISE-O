@@ -65,15 +65,15 @@
 * Resistencia extra que ocasiona corte de circuito = R5
   
 ### Datos:
-R1 = 100 KΩ
+* R1 = 100 KΩ
 
-R2 = 100 KΩ 
+* R2 = 100 KΩ 
 
-R3 = 10 KΩ
+* R3 = 10 KΩ
 
-R4 = 10 KΩ
+* R4 = 10 KΩ
 
-R5 = 220 KΩ
+* R5 = 220 KΩ
 
 
 
