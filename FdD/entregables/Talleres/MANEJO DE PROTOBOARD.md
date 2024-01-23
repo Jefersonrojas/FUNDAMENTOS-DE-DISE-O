@@ -4,13 +4,6 @@
 
 # Informe: Práctica 1: Manejo de Protoboard
                 
-## Materiales
-
-### foto grupal
-<p align="left">
-  <img src="https://i.postimg.cc/C1n1CCLr/fto-grupal.jpg)](https://postimg.cc/Vr1mmCtX)"FOTO ODS 7" width="600px" />
-</p>
-
 ### Lista de materiales utilizados en el laboratorio
 
 ### Multímetro Digital
