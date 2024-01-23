@@ -98,11 +98,11 @@ R1,R2,R3,R4    = 1/0.205
 
 
 <p align="left">
-  <img src="https://i.postimg.cc/G2YwfmgY/explicaci-n.jpg)](https://postimg.cc/G8c58dCh)" alt="FOTO ODS 7" width="300px" />
+  <img src="https://i.postimg.cc/NM1D8j1M/nivel-gato-correctto.jpg)](https://postimg.cc/ZB564Zst)" alt="FOTO ODS 7" width="300px" />
 </p>
 
 
-* la resistencia R5 ya no se considera porque ocasiona un cortocircuito y, además, no influye en el sistema puesto que los nodos en las resistencias (R1, R2, R3 y R4) son equivalentes a R5.
+### La resistencia R5 ya no se considera porque ocasiona un cortocircuito y, además, no influye en el sistema puesto que los nodos en las resistencias (R1, R2, R3 y R4) son equivalentes a R5.
 
 
 
