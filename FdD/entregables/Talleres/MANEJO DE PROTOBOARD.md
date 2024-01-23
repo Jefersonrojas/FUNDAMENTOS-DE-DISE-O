@@ -43,6 +43,11 @@
 
 
 ## Nivel pollo
+
+<p align="center">
+  <img src="https://i.postimg.cc/sDLyYB8y/Imagen-de-Whats-App-2024-01-22-a-las-17-01-16-36483f88.jpg)](https://postimg.cc/mt70RrB6)" width="600px" />
+</p>
+
 *RESPUESTA:*
 
 *R12= R1 +R2 123*
