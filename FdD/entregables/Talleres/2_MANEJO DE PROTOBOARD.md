@@ -30,7 +30,7 @@
 
 * ## Nivel  pollo
 
-Medicion en KiloOhmios con el Multímetro Digital 
+Medición en KiloOhmios con el multímetro digital 
 
 | Valor del Multímetro  | Cálculos  | 
 | :------------ |:---------------:| 
@@ -51,7 +51,9 @@ Medicion en KiloOhmios con el Multímetro Digital
 | [![Imagen8.jpg](https://i.postimg.cc/Xqmg468d/Imagen8.jpg)](https://postimg.cc/H80M9KFk) |[![Noemic-lculos.jpg](https://i.postimg.cc/6pdM9H6y/Noemic-lculos.jpg)](https://postimg.cc/9DQdbY7h)|
 
 
-###### Montaje del circuito electrónico
+#### Figura 1:
+#### Montaje del circuito electrónico
+
 <p align="center">
   <img src="https://i.postimg.cc/zGd9WV0k/protoboard-1.jpg" alt="Noemi" width="400px" />
 </p>
@@ -71,12 +73,20 @@ R1, R3, R2 y R4 = 10KΩ → R5 y R6 = 100KΩ
 | :------------ |:---------------:| 
 | [![Protoboard.jpg](https://i.postimg.cc/Pq8RnYrK/Protoboard.jpg)](https://postimg.cc/5Hb3wHzF) |[![Nivel-drag-n.jpg](https://i.postimg.cc/dt1wCNVf/Nivel-drag-n.jpg)](https://postimg.cc/8sq2QHWd)|
 
-Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor proporcionado por el multímetro el cual estaba conectado al protoboard con su circuito de resistencias correspondiente. En donde se observo una ligera diferencia, el cual pudo variar 
+#### Figura 2:
+#### Resistencia eléctrica del circuito
+<p align="center">
+  <img src="https://i.postimg.cc/wvGhgNSW/drag-n.jpg" alt="Noemi" width="400px" />
+</p>
+
+Para facilitar el calculo se realizo algunas modificaciones del circuito presentado, donde al compararlo con el resultado proporcionado por el multímetro  se observo una ligera diferencia.
 
 
 * ## Circuito divisor de tensión
 
+
 Es un circuito sencillo donde se aplica la ley de Ohm, para obtener el voltaje de salida (Vout) reducido en una resistencia.
+
 
 ![image](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/assets/156021863/f80d9fbc-918f-4f23-a8f8-81531225e0f8)
 
