@@ -15,11 +15,13 @@
 ### Lista de materiales utilizados en el laboratorio
 ### Multímetro Digital
 <p align="left">
-  <img src="https://i.postimg.cc/SxcpJ702/Imagen-de-Whats-App-2024-01-22-a-las-17-01-17-ee55bc.jpg)](https://postimg.cc/hX4YYmtc)" width="600px" />
+  <img src="https://i.postimg.cc/0QvRsR4F/potenciometro.jpg)](https://postimg.cc/yJLrm5sy)" width="600px" />
 </p>
 
 ### Protoboard
-
+<p align="left">
+  <img src="https://i.postimg.cc/HLcsxgBL/protoboard.jpg)](https://postimg.cc/gwpPSf99)" alt="FOTO ODS 7" width="300px" />
+</p>
 
 ### Osciloscopio Digital 
 <p align="left">
