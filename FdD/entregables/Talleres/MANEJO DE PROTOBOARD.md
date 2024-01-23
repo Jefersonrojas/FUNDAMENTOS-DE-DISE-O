@@ -60,6 +60,13 @@
 
 ## Nivel gato
 
+| Corte circuito  | Circuito correcto  | 
+| :------------ |:---------------:| 
+| [![corte-circuito.jpg](https://i.postimg.cc/3RCjwRjX/corte-circuito.jpg)](https://postimg.cc/G8tT7b5t)    | [![circuito-correcto.jpg](https://i.postimg.cc/SNwnw4Ck/circuito-correcto.jpg)](https://postimg.cc/jL4q7GMF)|
+
+
+
+
 ## Nivel dragón
 
 ## Circuito divisor de tensión
