@@ -51,7 +51,7 @@
 ### RESPUESTA: 9.5238KΩ ### 
 
 #### EXPLICACIÓN: Usando la fórmula obtuvimos el resultado de  9.5238KΩ y con el Multímetro Digital un resultado de 9.38KΩ llegando ala conclusión de una diferencia mínima de 0.1438KΩ   ####
-*
+
 
 ## Nivel gato
 
