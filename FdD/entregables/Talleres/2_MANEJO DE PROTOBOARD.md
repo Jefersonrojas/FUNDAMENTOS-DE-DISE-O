@@ -48,48 +48,16 @@ Medicion en KiloOhmios con el Multímetro Digital
 
 | Valor del Multímetro  | Circuito  | 
 | :------------ |:---------------:| 
-| [![Imagen8.jpg](https://i.postimg.cc/Xqmg468d/Imagen8.jpg)](https://postimg.cc/H80M9KFk) | [![protoboard-1.jpg](https://i.postimg.cc/zGd9WV0k/protoboard-1.jpg)](https://postimg.cc/rDrn2F6d)|
-
-### Solución
-
-* Series = R1,R2 
-* Paralelos = R3,R4
-* R1,R2 Paralelo R3,R4
-* Resistencia extra que ocasiona corte de circuito = R5
-
-  
-
-### Datos:
-* R1 = 100 KΩ
-
-* R2 = 100 KΩ 
-
-* R3 = 10 KΩ
-
-* R4 = 10 KΩ
-
-* R5 = 220 KΩ
-
-R1 + R2 = 100 KΩ + 100 KΩ
-
-R1,R2   = 200 KΩ
+| [![Imagen8.jpg](https://i.postimg.cc/Xqmg468d/Imagen8.jpg)](https://postimg.cc/H80M9KFk) |[![Noemic-lculos.jpg](https://i.postimg.cc/6pdM9H6y/Noemic-lculos.jpg)](https://postimg.cc/9DQdbY7h)|
 
 
-### *1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4+ ... +1/Rn*
-
-R1,R2 + R3 +R4 = 1/200 KΩ + 1/10 KΩ + 1/10 KΩ
-
-R1,R2,R3,R4    = 1/0.205
-
-### Rpta = 4.8780 KΩ
-
-
-<p align="left">
-  <img src="https://i.postimg.cc/NM1D8j1M/nivel-gato-correctto.jpg)](https://postimg.cc/ZB564Zst)" alt="FOTO ODS 7" width="300px" />
+###### Montaje del circuito electrónico
+<p align="center">
+  <img src="https://i.postimg.cc/zGd9WV0k/protoboard-1.jpg" alt="Noemi" width="400px" />
 </p>
 
 
-### La resistencia R5 ya no se considera porque ocasiona un cortocircuito y, además, no influye en el sistema puesto que los nodos en las resistencias (R1, R2, R3 y R4) son equivalentes a R5.
+*La resistencia R5 ya no se considera porque ocasiona un cortocircuito y, además, no influye en el sistema puesto que los nodos en las resistencias (R1, R2, R3 y R4) son equivalentes a R5.*
 
 
 
@@ -107,6 +75,10 @@ Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor propor
 
 
 * ## Circuito divisor de tensión
+
+Es un circuito sencillo donde se aplica la ley de Ohm, para obtener el voltaje de salida (Vout) reducido en una resistencia.
+
+![image](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/assets/156021863/f80d9fbc-918f-4f23-a8f8-81531225e0f8)
 
 | CONCEPTO  |  CONCEPTO  | 
 | :------------ |:---------------:| 
