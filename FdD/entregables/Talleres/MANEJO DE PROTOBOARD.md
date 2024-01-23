@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEI20tmIrrk8sp9_ZQvo1LTBoY2j2L-kia2eLk-UBd8_e6mGZAo09hhWC-mLhtxw-Olg&usqp=CAU" alt="FOTO ODS 7" width="300px" />
+</p>
+
 # Informe: Práctica 1: Manejo de Protoboard
                 
 ## Materiales
