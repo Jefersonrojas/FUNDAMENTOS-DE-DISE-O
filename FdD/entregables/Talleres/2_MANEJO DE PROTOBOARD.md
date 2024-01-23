@@ -26,7 +26,7 @@
                 
 ----
 
-## Nivel pollo
+## Nivel  pollo
 
 | Medicion en KiloOhmios con el Multímetro Digital  | Ejercicio nivel pollo  | 
 | :------------ |:---------------:| 
