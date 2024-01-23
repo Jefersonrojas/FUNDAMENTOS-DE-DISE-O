@@ -32,6 +32,18 @@
 
 ## Ejercicios desarrollados en clase
 
+| Nivel | ejercicios  | 
+| :------------ |:---------------:| 
+| Pollo |[![nivel-pollo.jpg](https://i.postimg.cc/brzZd5ZF/nivel-pollo.jpg)](https://postimg.cc/34c8cnCg)
+| gato| [![nivel-gato.jpg](https://i.postimg.cc/Z5ZJmNyV/nivel-gato.jpg)](https://postimg.cc/bs67Hsgt)
+| dragón |[![nivel-drag-n.jpg](https://i.postimg.cc/Ssjy5pz4/nivel-drag-n.jpg)](https://postimg.cc/k6336zcY)
+| circuito divisor de tensión | [![divisor-tension.jpg](https://i.postimg.cc/MHQfCBjz/divisor-tension.jpg)](https://postimg.cc/SYmK8JrP)
+                
+----
+
+
+
+
 
 
 
