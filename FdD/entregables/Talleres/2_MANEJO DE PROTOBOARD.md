@@ -127,9 +127,10 @@ Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor propor
 2 en paralelo de 220 Ω
  * Series= Rx=Ry=Rz=220
  * Paralelo= Rp=Rt=220
-### Series = 220+220+220=660Ω
+### Series = *R1+R2+R3+....+Rn*
+     220+220+220=660Ω
 ### Paralelo= *1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4 ... 1/Rn*
     1/RT= 1/220 + 1/220= 110 Ω
-    *R1 = 660 Ω+110 Ω = 770Ω* 
+    R1 = 660 Ω+110 Ω = 770Ω
 
 En primera instancia se tomó como valor la resistencia del resistor(R2) (valor seleccionado al azar), en nuestro caso tomamos un resistor de 220 Ω, calculamos el valor del resistor (R1), siendo este de 780 Ω, se tuvo en cuenta que al ser esté un resistor hallado no se tenía un resistor con un valor similar o cercano, así que, con ayuda de 3 resistores en serie de 220 Ω y 2 resistores en paralelo de 220 Ω tuvo un valor de 770 Ω (valor muy aproximado al calculado). Por último, una vez realizados estos  cálculos, lo ponemos en serie. Colocamos los cables cocodrilo en los nodos extremos, de tal manera que al ser medido por el multímetro, nos de un valor que arroje 1.1 voltios (valor asignado).
