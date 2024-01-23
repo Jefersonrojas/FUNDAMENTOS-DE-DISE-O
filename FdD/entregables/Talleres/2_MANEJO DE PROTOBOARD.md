@@ -101,6 +101,8 @@ R1,R2,R3,R4    = 1/0.205
 * la resistencia cinco ya no se considera porque ocasiona un corto circuito además no influye en el sistema puesto que los nodos en la (R4) Y (R3) es lo mismo para R5.
 
 
+
+
 ## Nivel dragón
 
 ## Circuito divisor de tensión
