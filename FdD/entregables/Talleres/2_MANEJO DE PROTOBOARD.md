@@ -92,6 +92,12 @@ R1,R2,R3,R4    = 1/0.205
 
 ### Rpta = 4.8780 KΩ
 
+
+<p align="left">
+  <img src="https://i.postimg.cc/G2YwfmgY/explicaci-n.jpg)](https://postimg.cc/G8c58dCh)" alt="FOTO ODS 7" width="300px" />
+</p>
+
+
 * R5 es considerado como corte
 
 
