@@ -122,7 +122,7 @@ Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor propor
 | :------------ |:---------------:| 
 | [![Whats-App-Image-2024-01-23-at-2-15-58-AM.jpg](https://i.postimg.cc/bYn0pf3j/Whats-App-Image-2024-01-23-at-2-15-58-AM.jpg)](https://postimg.cc/kDnRvZ0j) | [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
 
-| MULTIMETRO  |  CIRCUITO | 
+| MULTÍMETRO  |  CIRCUITO | 
 | :------------ |:---------------:| 
 |[![Whats-App-Image-2024-01-23-at-2-36-46-AM.jpg](https://i.postimg.cc/HxsryvNY/Whats-App-Image-2024-01-23-at-2-36-46-AM.jpg)](https://postimg.cc/d7pQM6vp)| [![Whats-App-Image-2024-01-23-at-2-36-47-AM.jpg](https://i.postimg.cc/7LPz3LGr/Whats-App-Image-2024-01-23-at-2-36-47-AM.jpg)](https://postimg.cc/w1P3HgQw)|
 #### Aproximación a R1 780 Ω
