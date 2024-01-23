@@ -19,10 +19,10 @@
 
 | Nivel | Ejercicios  | 
 | :------------ |:---------------:| 
-| Pollo |[![nivel-pollo.jpg](https://i.postimg.cc/brzZd5ZF/nivel-pollo.jpg)](https://postimg.cc/34c8cnCg)
-| gato| [![nivel-gato.jpg](https://i.postimg.cc/Z5ZJmNyV/nivel-gato.jpg)](https://postimg.cc/bs67Hsgt)
-| dragón| [![drag-n.jpg](https://i.postimg.cc/3wzSMPLp/drag-n.jpg)](https://postimg.cc/Ffgg3nXs)
-| circuito divisor de tensión | [![divisor-tension.jpg](https://i.postimg.cc/MHQfCBjz/divisor-tension.jpg)](https://postimg.cc/SYmK8JrP)
+|     Pollo     |[![nivel-pollo.jpg](https://i.postimg.cc/brzZd5ZF/nivel-pollo.jpg)](https://postimg.cc/34c8cnCg)
+|     Gato      | [![nivel-gato.jpg](https://i.postimg.cc/Z5ZJmNyV/nivel-gato.jpg)](https://postimg.cc/bs67Hsgt)
+|     Dragón    | [![drag-n.jpg](https://i.postimg.cc/3wzSMPLp/drag-n.jpg)](https://postimg.cc/Ffgg3nXs)
+| Circuito divisor de tensión | [![divisor-tension.jpg](https://i.postimg.cc/MHQfCBjz/divisor-tension.jpg)](https://postimg.cc/SYmK8JrP)
                 
 ----
 
@@ -54,6 +54,7 @@
 
 
 ## Nivel gato
+
 
 | Valor del Multímetro  | Circuito  | 
 | :------------ |:---------------:| 
@@ -104,6 +105,10 @@ R1,R2,R3,R4    = 1/0.205
 
 
 ## Nivel dragón
+
+En este experimento se representó un circuito eléctrico que está compuesto por seis resistencias cada una con su respectivo valor:
+R1, R3, R2 y R4 = 10KΩ → R5 y R6 = 100KΩ
+
 | Montaje del circuito |  Cálculos  | 
 | :------------ |:---------------:| 
 | [![Protoboard.jpg](https://i.postimg.cc/Pq8RnYrK/Protoboard.jpg)](https://postimg.cc/5Hb3wHzF) |[![Nivel-drag-n.jpg](https://i.postimg.cc/dt1wCNVf/Nivel-drag-n.jpg)](https://postimg.cc/8sq2QHWd)|
