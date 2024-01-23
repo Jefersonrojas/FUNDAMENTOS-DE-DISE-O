@@ -46,20 +46,3 @@
 
 
 
-
-# Ejercicios nivel pollito
-
-
-
-
-
-# Ejercicios nivel gato
-
-
-
-
-# Ejercicio nivel dragón
-
-
-
-#  Circuito Divisor de Tensión
