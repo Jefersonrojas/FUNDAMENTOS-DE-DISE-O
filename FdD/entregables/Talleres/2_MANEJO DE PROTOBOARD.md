@@ -104,6 +104,12 @@ R1,R2,R3,R4    = 1/0.205
 
 
 ## Nivel dragón
+| Montaje del circuito |  Cálculos  | 
+| :------------ |:---------------:| 
+| [![Protoboard.jpg](https://i.postimg.cc/Pq8RnYrK/Protoboard.jpg)](https://postimg.cc/5Hb3wHzF) |[![Nivel-drag-n.jpg](https://i.postimg.cc/dt1wCNVf/Nivel-drag-n.jpg)](https://postimg.cc/8sq2QHWd)|
+
+Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor proporcionado por el multímetro el cual estaba conectado al protoboard con su circuito de resistencias correspondiente. En donde se observo una ligera diferencia, el cual pudo variar 
+
 
 ## Circuito divisor de tensión
 
