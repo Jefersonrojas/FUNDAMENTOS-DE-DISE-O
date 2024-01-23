@@ -28,7 +28,7 @@
                 
 ----
 
-## *Nivel  pollo
+* ## Nivel  pollo
 
 Medicion en KiloOhmios con el Multímetro Digital 
 
@@ -43,7 +43,7 @@ Medicion en KiloOhmios con el Multímetro Digital
  *Explicación: Usando la fórmula obtuvimos el resultado de  9.524KΩ y con el multímetro digital un resultado de 9.38KΩ llegando ala conclusión de una diferencia mínima de 0.1438KΩ**  
 
 
-## *Nivel gato
+* ##  Nivel gato
 
 
 | Valor del Multímetro  | Circuito  | 
@@ -94,7 +94,7 @@ R1,R2,R3,R4    = 1/0.205
 
 
 
-## *Nivel dragón
+* ## Nivel dragón
 
 En este experimento se representó un circuito eléctrico que está compuesto por seis resistencias cada una con su respectivo valor:
 R1, R3, R2 y R4 = 10KΩ → R5 y R6 = 100KΩ
@@ -106,7 +106,7 @@ R1, R3, R2 y R4 = 10KΩ → R5 y R6 = 100KΩ
 Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor proporcionado por el multímetro el cual estaba conectado al protoboard con su circuito de resistencias correspondiente. En donde se observo una ligera diferencia, el cual pudo variar 
 
 
-## *Circuito divisor de tensión
+* ## Circuito divisor de tensión
 
 | CONCEPTO  |  CONCEPTO  | 
 | :------------ |:---------------:| 
