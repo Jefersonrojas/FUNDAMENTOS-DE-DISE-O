@@ -85,7 +85,7 @@ R1 + R2 = 100 KΩ + 100 KΩ
 R1,R2   = 200 KΩ
 
 
-### *1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4 ... 1/Rn*
+### *1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4+ ... +1/Rn*
 
 R1,R2 + R3 +R4 = 1/200 KΩ + 1/10 KΩ + 1/10 KΩ
 
@@ -129,7 +129,7 @@ Dicho resultado, obtenido matemáticamente se pudo comprobar con el valor propor
  * Paralelo= Rp=Rt=220
 ### Series = *R1+R2+R3+....+Rn*
      220+220+220=660Ω
-### Paralelo= *1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4 ... 1/Rn*
+### Paralelo= *1/RT = 1/R1 + 1/R2 + 1/R3 + 1/R4 +... +1/Rn*
     1/RT= 1/220 + 1/220= 110 Ω
     R1 = 660 Ω+110 Ω = 770Ω
 
