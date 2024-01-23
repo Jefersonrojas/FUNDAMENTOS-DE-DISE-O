@@ -13,6 +13,7 @@
 </p>
 
 ### Lista de materiales utilizados en el laboratorio
+
 ### Multímetro Digital
 <p align="left">
   <img src="https://i.postimg.cc/0QvRsR4F/potenciometro.jpg)](https://postimg.cc/yJLrm5sy)" width="600px" />
@@ -30,12 +31,6 @@
 
 
 ## Ejercicios desarrollados en clase
-
-*  Ejercicio nivel pollito
-*  Ejercicio nivel gato
-*  Ejercicio nivel dragón
-*  Circuito Divisor de Tensión
-
 
 
 
