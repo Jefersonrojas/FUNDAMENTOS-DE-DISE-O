@@ -103,13 +103,11 @@ void printHumidity() {
 
 | Temperatura |  Humedad | 
 | :------------ |:---------------:| 
-| Medición en grados Celsius|[![humedad.jpg](https://i.postimg.cc/6QYgm7bp/humedad.jpg)](https://postimg.cc/Y4Ld4Sw5) |
-| Medición en grados Fahrenheit| [![temperaturaaa.jpg](https://i.postimg.cc/kX5QQfLZ/temperaturaaa.jpg)](https://postimg.cc/NLW2Y7s7) |
+| Medición de la temperatura en grados Celsius equivalente a 30.10 °C|[![temperaturaaa.jpg](https://i.postimg.cc/kX5QQfLZ/temperaturaaa.jpg)](https://postimg.cc/NLW2Y7s7) |
+| Medición de la humedad en porcentaje equivalente a 61.39 %| [![humedad.jpg](https://i.postimg.cc/6QYgm7bp/humedad.jpg)](https://postimg.cc/Y4Ld4Sw5) |
 
 
 ##   EJERCICIO 2
-
-
 
 
 ### CÓDIGO DEL EJERCICIO 2:
