@@ -12,7 +12,7 @@
 </p>
 
 ## 1. Introduccíon 
-#### *El Internet de las Cosas (IoT) es el proceso de conectar los objetos físicos cotidianos al Internet, mediante dispositivos integrados con sensores, software y conectividad de red. Estos dispositivos pueden recopilar y compartir datos, así como interactuar con otros dispositivos o sistemas. El IoT tiene aplicaciones en diversos ámbitos, como el hogar, la industria, la salud, la movilidad y las ciudades inteligentes. El IoT puede ofrecer beneficios como la optimización de las operaciones, la mejora de la eficiencia y la productividad, y la creación de experiencias personalizadas para los usuarios**
+#### *En este proyecto, se busca familiarizar a los participantes con la MKR IoT Carrier, componente clave del Arduino Oplà IoT Kit. A través de un programa práctico, se pretende que los usuarios comprendan los diferentes elementos de la placa, exploren la librería MKRIoTCarrier y adquieran habilidades para programar actuadores y sensores. Los objetivos incluyen la creación de una aplicación básica que demuestre todas las funciones de la MKR IoT Carrier, sirviendo como una introducción esencial antes de abordar proyectos más avanzados y como referencia para refrescar conocimientos sobre el hardware en futuras aplicaciones. Este proyecto establece una base sólida para la comprensión y aplicación efectiva de la MKR IoT Carrier en proyectos de Internet de las cosas**
 
 ## 2.- Lista de materiales utilizados en el laboratorio
 
