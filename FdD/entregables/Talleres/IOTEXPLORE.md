@@ -172,10 +172,96 @@ void printTemperature(double temp, const char *unit) {
 }
 ```
 
+## EXPLICACIÓN DEL CÓDIGO
+### 1.INCLUSIÓN DE LA BIBLIOTECA (MKRIoTCarrier)
+
+
+```cpp
+#include <Arduino_MKRIoTCarrier.h>
+````
+
+### 2 DECLARACIÓN DE VARIABLES
 
 
 
+```cpp
+MKRIoTCarrier carrier;
+double temperature = 0;
+float humidity = 0;
 
+````
+
+### 3.CONFIGURACIÓN (setup)
+
+
+```cpp
+void setup() {
+  Serial.begin(9600);
+  CARRIER_CASE = true;
+  carrier.begin();
+}
+
+
+````
+
+### 4.FUNCIÓN DEL BUCLE (Loop)
+
+
+```cpp
+void loop() {
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+  carrier.Buttons.update();
+
+  // Lecturas de temperatura y humedad
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" °C");
+
+  // Convertir a Fahrenheit y Kelvin
+  double fahrenheit = (temperature * 9.0 / 5.0) + 32.0;
+  double kelvin = temperature + 273.15;
+
+  // Verificación de eventos de botones táctiles
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature(temperature, "C");
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printTemperature(fahrenheit, "F");
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
+    printTemperature(kelvin, "K");
+  }
+}
+
+
+````
+
+* temperature = carrier.Env.readTemperature(); y humidity = carrier.Env.readHumidity().Lee la temperatura y la humedad del entorno utilizando los sensores del portador.
+* carrier.Buttons.update();.Actualiza el estado de los botones táctiles.
+* Imprime la temperatura actual en grados Celsius a través de la comunicación serie y convierte la temperatura a Fahrenheit y Kelvin.
+* Verifica si se ha tocado alguno de los tres botones táctiles (TOUCH0, TOUCH1, TOUCH2) y, en caso afirmativo, llama a la función printTemperature con la temperatura convertida y la unidad correspondiente
+
+### FUNCIÓN PARA IMPRIMIR LA TEMPERATURA EN LA PANTALLA (printTemperature)
+
+
+```cpp
+void printTemperature(double temp, const char *unit) {
+  carrier.display.fillScreen(ST77XX_RED);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(6);
+  carrier.display.setCursor(30, 50);
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temp);
+  carrier.display.print(" ");
+  carrier.display.print(unit);
+}
+
+````
+
+* Configura la pantalla TFT para mostrar la temperatura en un formato específico. En este caso se utiliza un fondo rojo y texto blanco.
 
 * ## EJERCICIO 3 y 4
 
