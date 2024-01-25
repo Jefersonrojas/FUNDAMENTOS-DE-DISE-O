@@ -124,7 +124,7 @@ void printHumidity() {
 | :------------ |:---------------:| 
 | [![Imagen8.jpg]()|
 
-´´´p
+´´´cpp
 #include <Arduino_MKRIoTCarrier.h>
 MKRIoTCarrier carrier;
 double temperature = 0;
