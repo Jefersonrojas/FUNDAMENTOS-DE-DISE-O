@@ -48,6 +48,7 @@ void setup() {
   carrier.begin();
 }
 void loop() {
+
   // Leer los valores del sensor
   temperature = carrier.Env.readTemperature();
   humidity = carrier.Env.readHumidity();
