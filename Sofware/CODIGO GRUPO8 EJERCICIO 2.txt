@@ -1,0 +1,47 @@
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+double temperature = 0;
+float humidity = 0;
+
+void setup() {
+  Serial.begin(9600);
+  CARRIER_CASE = true;
+  carrier.begin();
+}
+
+void loop() {
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+  carrier.Buttons.update();
+
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" °C");
+
+  // Convertir a Fahrenheit y Kelvin
+  double fahrenheit = (temperature * 9.0 / 5.0) + 32.0;
+  double kelvin = temperature + 273.15;
+
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature(temperature, "C");
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printTemperature(fahrenheit, "F");
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
+    printTemperature(kelvin, "K");
+  }
+}
+
+void printTemperature(double temp, const char *unit) {
+  carrier.display.fillScreen(ST77XX_RED);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(6);
+  carrier.display.setCursor(30, 50);
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temp);
+  carrier.display.print(" ");
+  carrier.display.print(unit);
+}

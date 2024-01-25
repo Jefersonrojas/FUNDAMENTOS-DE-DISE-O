@@ -3,7 +3,7 @@
 </p>
 
 
-# Informe: Introducción a los equipos e instrumentos de laboratorio 
+# Informe : Introducción a los equipos e instrumentos de laboratorio 
                 
 *  Materiales
 *  Promedio de errores absolutos y relativos
