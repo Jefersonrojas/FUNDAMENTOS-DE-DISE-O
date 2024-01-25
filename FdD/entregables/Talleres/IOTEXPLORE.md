@@ -267,6 +267,10 @@ void printTemperature(double temp, const char *unit) {
 
 ## EJERCICIO 3 y 4
 
+| Explicación  |  Error  | 
+| :------------ |:---------------:| 
+| | [![ERROR1.jpg](https://i.postimg.cc/15XLhL2H/ERROR1.jpg)](https://postimg.cc/KRX9tsZk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
+| | [![Error-2.jpg](https://i.postimg.cc/5NQnm1DZ/Error-2.jpg)](https://postimg.cc/nCZ4F8Fk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
 
 <p align="center">
   <img src="" alt="" width="400px" />
