@@ -191,6 +191,8 @@ void printTemperature(double temp, const char *unit) {
 | Medición en grados Kelvin | [![kelvin12.jpg](https://i.postimg.cc/dt2dFG2n/kelvin12.jpg)](https://postimg.cc/zVf3SbPR)| 
 
 
+## CAMBIO DE TEMPERATURAS
+
 https://github.com/Jefersonrojas/PROYECTO-QALLARIY/assets/150811988/378dc1f8-8c82-429d-9cbb-c114d803611e
 
 
