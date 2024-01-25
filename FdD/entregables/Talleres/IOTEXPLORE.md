@@ -26,7 +26,7 @@
 
 ## 2.- Ejercicios desarrollados en la práctica del laboratorio
 
-###  EJERCICIO 1
+## EJERCICIO 1
 
 #### CODIGO DEL EJERCICIO 1:
 
@@ -113,12 +113,12 @@ void printHumidity() {
 
 
 
-* ##   EJERCICIO 2
+##   EJERCICIO 2
 
 
 
 
-#### CODIGO DEL EJERCICIO 2:
+### CODIGO DEL EJERCICIO 2:
 
 
 ```cpp
