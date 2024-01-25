@@ -101,10 +101,10 @@ void printHumidity() {
 
 ### Imagenes como prueba de los resultados del ejercicio
 
-<p align="left">
-  <img src="https://i.postimg.cc/1Rpg4V5Q/Imagen-de-Whats-App-2024-01-24-a-las-16-58-54-db18f646.jpg)](https://postimg.cc/jCSqF57g)" alt="" width="400px" />
-</p>
-
+| Temperatura |  Humedad | 
+| :------------ |:---------------:| 
+| Medición en grados Celsius|[![humedad.jpg](https://i.postimg.cc/6QYgm7bp/humedad.jpg)](https://postimg.cc/Y4Ld4Sw5) |
+| Medición en grados Fahrenheit| [![temperaturaaa.jpg](https://i.postimg.cc/kX5QQfLZ/temperaturaaa.jpg)](https://postimg.cc/NLW2Y7s7) |
 
 
 ##   EJERCICIO 2
