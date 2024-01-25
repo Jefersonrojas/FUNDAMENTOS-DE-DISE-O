@@ -114,7 +114,7 @@ void printHumidity() {
 •	Despúes lee los valores de temperatura y humedad de los sensores integrados y actualiza los botones táctiles.
 
 
-•*	Imprime los valores de temperatura y humedad en el monitor serie.*
+• A continuación imprime los valores de temperatura y humedad en el monitor serie.
 
 •	Si se toca el botón táctil TOUCH0, llama a la función printTemperature().
 
