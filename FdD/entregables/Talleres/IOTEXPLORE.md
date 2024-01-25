@@ -263,7 +263,14 @@ void printTemperature(double temp, const char *unit) {
 
 * Configura la pantalla TFT para mostrar la temperatura en un formato específico. En este caso se utiliza un fondo rojo y texto blanco.
 
-* ## EJERCICIO 3 y 4
+### Imagenes como prueba de los resultados del ejercicio
+
+<p align="center">
+  <img src="" alt="" width="400px" />
+</p>
+
+
+## EJERCICIO 3 y 4
 
 
 <p align="center">
