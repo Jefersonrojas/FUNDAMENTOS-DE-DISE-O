@@ -7,7 +7,7 @@
 </p>
 
 # Imagen del grupo
-<p align="center">
+<p align="left">
   <img src="https://i.postimg.cc/3RWdYGXH/Imagen-de-Whats-App-2024-01-24-a-las-18-27-08-48935e46.jpg)](https://postimg.cc/CBTF4zrv)" alt="" width="900px" />
 </p>
 
