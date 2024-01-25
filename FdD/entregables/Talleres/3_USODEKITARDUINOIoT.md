@@ -11,7 +11,11 @@
 </p>
 
 ## 1. Introduccíon 
-#### *En este proyecto, se busca familiarizar a los participantes con la MKR IoT Carrier, componente clave del Arduino Oplà IoT Kit. A través de un programa práctico, se pretende que los usuarios comprendan los diferentes elementos de la placa, exploren la librería MKRIoTCarrier y adquieran habilidades para programar actuadores y sensores. Los objetivos incluyen la creación de una aplicación básica que demuestre todas las funciones de la MKR IoT Carrier, sirviendo como una introducción esencial antes de abordar proyectos más avanzados y como referencia para refrescar conocimientos sobre el hardware en futuras aplicaciones. Este proyecto establece una base sólida para la comprensión y aplicación efectiva de la MKR IoT Carrier en proyectos de Internet de las cosas*
+*En este proyecto, se busca familiarizar a los participantes con la MKR IoT Carrier, componente clave del Arduino Oplà IoT Kit. A través de un programa práctico, se pretende que los usuarios comprendan los diferentes elementos de la placa, exploren la librería MKRIoTCarrier y adquieran habilidades para programar actuadores y sensores. Los objetivos incluyen la creación de una aplicación básica que demuestre todas las funciones de la MKR IoT Carrier, sirviendo como una introducción esencial antes de abordar proyectos más avanzados y como referencia para refrescar conocimientos sobre el hardware en futuras aplicaciones. Este proyecto establece una base sólida para la comprensión y aplicación efectiva de la MKR IoT Carrier en proyectos de Internet de las cosas*
+
+### Importancia
+
+*El Internet de las Cosas (IoT) permite recopilar y transmitir información de manera automatizada, para mejorar nuestra calidad de vida, aumentar la eficiencia y la productividad de los procesos industriales y empresariales, y reducir el impacto ambiental de nuestras actividades.*
 
 ## 2.- Lista de materiales utilizados en el laboratorio
 
@@ -23,7 +27,7 @@
 | Arduino MKR IoT Carrier | [![Arduino MKR IoT Carrier.jpg](https://i.postimg.cc/SQ5PB5CZ/descarga-1.jpg)](https://postimg.cc/V5q4MK7M)| 
 
 
-## 2.- Ejercicios desarrollados en la práctica del laboratorio
+## 3.- Ejercicios desarrollados en la práctica del laboratorio
 
 ###  EJERCICIO 1
 
@@ -299,14 +303,14 @@ void printTemperature(double temp, const char *unit) {
 
 | Explicación  |  Error  | 
 | :------------ |:---------------:| 
-| En este ejercicio el objetivo principal era hacer que tenga una funcion similar a la de una alarma de sensor, es decir, cada ves que sentia la percepción de un objeto o persona, este sonada automaticamente. | [![ERROR1.jpg](https://i.postimg.cc/15XLhL2H/ERROR1.jpg)](https://postimg.cc/KRX9tsZk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
-|El siguiente ejercicio a realizar, era hacer que nuestro sensor mida percepcion del ambiente, es decir, cuando el ambiente esta frio se enci8enda el color rojo indicador de un entorno frio y de azul si el ambiente era lo contrario. Debido a imprevistos de la maquina que estaban fuera de nuestro alcanze no se pudo lograr los objetivos, puesto que la maquina con la que se trabajo necesitaba permisos y condiciones para ciertas instalaciones, se pidio ayuda a los docentes quienes nos explicaron el imprevisto de nuestra maquina, consideramos que hubiese sido una experiencia satisfactoria si se hubiese podido lograr el experimento | [![Error-2.jpg](https://i.postimg.cc/5NQnm1DZ/Error-2.jpg)](https://postimg.cc/nCZ4F8Fk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
+| En este ejercicio el objetivo principal era hacer que tenga una funcion similar a la de una alarma de sensor, es decir, cada ves que sentia la percepción de un objeto o persona, este tenia que sonar automaticamente. | [![ERROR1.jpg](https://i.postimg.cc/15XLhL2H/ERROR1.jpg)](https://postimg.cc/KRX9tsZk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
+|En el presente ejercicio a realizar, tenia como proposito que nuestro sensor mida la percepcion del ambiente, es decir, cuando el ambiente esta frio se encienda y dé el color rojo como indicador de un entorno frio y dé azul si el ambiente era lo contrario. Debido a imprevistos de la maquina que estaban fuera de nuestro alcanze no se pudo lograr los objetivos, puesto que la maquina con la que se trabajo necesitaba permisos y condiciones para ciertas instalaciones, se pidio ayuda a los docentes quienes nos explicaron el imprevisto de nuestra maquina, consideramos que hubiese sido una experiencia satisfactoria si se hubiese podido lograr el experimento | [![Error-2.jpg](https://i.postimg.cc/5NQnm1DZ/Error-2.jpg)](https://postimg.cc/nCZ4F8Fk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
 
 <p align="center">
   <img src="" alt="" width="400px" />
 </p>
 
-## Conclusión
+## 4.- Conclusión
 En conclusion, todo lo experimentando y aprendido, tiene como objetivo principal familiarizar a los participantes con la MKR IoT Carrier del Arduino Oplà IoT Kit. que  permite aprender y comprender el uso de los actuadores y sensores. En el presente informe se realizo para cuatro ejercicios (por problemas tecnicos solo se logro para dos ejercicios). Tales ejercicios servira como base para proyectos futuros estableciendo una base sólida para la comprensión y aplicación práctica de este componente en el ámbito del Internet de las cosas.
 
 
