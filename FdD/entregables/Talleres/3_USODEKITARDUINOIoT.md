@@ -99,12 +99,25 @@ void printHumidity() {
 }
 ```
 
-### Imagenes como prueba de los resultados del ejercicio
+## Imagenes como prueba de los resultados del ejercicio
 
 | Temperatura |  Humedad | 
 | :------------ |:---------------:| 
 | Medición de la temperatura en grados Celsius equivalente a 30.10 °C|[![temperaturaaa.jpg](https://i.postimg.cc/kX5QQfLZ/temperaturaaa.jpg)](https://postimg.cc/NLW2Y7s7) |
 | Medición de la humedad en porcentaje equivalente a 61.39 %| [![humedad.jpg](https://i.postimg.cc/6QYgm7bp/humedad.jpg)](https://postimg.cc/Y4Ld4Sw5) |
+
+## Explicación del código
+•	Primero configura y establece la comunicación serial a 9600 baudios.
+•	Luego inicializa la placa MKRIoTCarrier y verifica si el gabinete está montado en el bucle principal (loop):
+•	Despúes lee los valores de temperatura y humedad de los sensores integrados y actualiza los botones táctiles.
+
+•*	Imprime los valores de temperatura y humedad en el monitor serie.*
+•	Si se toca el botón táctil TOUCH0, llama a la función printTemperature().
+•	Si se toca el botón táctil TOUCH1, llama a la función printHumidity().
+•	La función printTemperature() configura la pantalla con un fondo rojo y muestra el valor de temperatura en la pantalla con un formato específico.
+•	La función printHumidity() configura la pantalla con un fondo azul y muestra el valor de humedad en la pantalla con un formato específico.
+
+
 
 
 ##   EJERCICIO 2
