@@ -26,79 +26,73 @@
 
 ## 2.- Ejercicios desarrollados en la práctica del laboratorio
 
-## EJERCICIO 1
+###  EJERCICIO 1
 
 #### CODIGO DEL EJERCICIO 1:
 
 ```cpp
-/*
-  Explore IoT - Activity 01
- 
-  Read values from a temperature and humidity sensor
-  and print it in Serial Monitor and on a colored display.
- 
-  This example uses the IoT carrier and the MKR WiFi 1010.
- 
-  Based on code by
-  (c) 2019 D. Cuartielles for Arduino
- 
-  Written by:
-  (c) 2020 K. SÃ¶derby for Arduino
- 
-  This code is Free Software licensed under GPLv3
-*/
+
 #include <Arduino_MKRIoTCarrier.h>
 MKRIoTCarrier carrier;
+
 float temperature = 0;
 float humidity = 0;
+
 void setup() {
   Serial.begin(9600);
-  //Wait to open the Serial monitor to start the program and see details on errors
-  
-  //Set if it has the Enclosure mounted
+
+  //Establece si el gavinete tiene montado
   CARRIER_CASE = true;
-  //Initialize the IoTSK carrier and output any errors in the serial monitor
+
+  // Inicializa el operador IoTSK y muestra cualquier error en el monitor serie
   carrier.begin();
 }
 void loop() {
-  // read the sensor values
+  // Leer los valores del sensor
   temperature = carrier.Env.readTemperature();
   humidity = carrier.Env.readHumidity();
-  //Update touch buttons
+
+  // Actualiza botones táctiles
   carrier.Buttons.update();
-  // print each of the sensor values
+
+  // Imprime cada uno de los valores del sensor
   Serial.print("Temperature = ");
   Serial.print(temperature);
   Serial.println(" Â°C");
   Serial.print("Humidity = ");
   Serial.print(humidity);
   Serial.println(" %");
-  //function to print out values
+
+  //Función para imprimir valores
   if (carrier.Buttons.onTouchDown(TOUCH0)) {
     printTemperature();
   }
   if (carrier.Buttons.onTouchDown(TOUCH1)) {
     printHumidity();
   }
+
+// IMPRIMIR TEMPERATURA
 }
 void printTemperature() {
-  //configuring display, setting background color, text size and text color
-  carrier.display.fillScreen(ST77XX_RED); //red background
-  carrier.display.setTextColor(ST77XX_WHITE); //white text
-  carrier.display.setTextSize(6); //large sized text
-  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  // Configurar la pantalla, configurar el color del fondo, el tamaño del texto y el color del texto
+  carrier.display.fillScreen(ST77XX_RED);     // Fondo rojo
+  carrier.display.setTextColor(ST77XX_WHITE); // Texto blanco 
+  carrier.display.setTextSize(6);             // Tamaño del texto
+  carrier.display.setCursor(30, 50);          // Establecer la posición para imprimir (x e y)
   carrier.display.print("Temp: ");
-  carrier.display.setTextSize(4); //decreasing text size
-  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.setTextSize(4);             // Disminuyendo el tamaño del texto  
+  carrier.display.setCursor(40, 120);         // Establece una nueva posición para imprimir (x e y)
   carrier.display.print(temperature);
   carrier.display.print(" C");
 }
+
+// IMPRIMIR HUMEDAD
 void printHumidity() {
-  //configuring display, setting background color, text size and text color
-  carrier.display.fillScreen(ST77XX_BLUE); //red background
-  carrier.display.setTextColor(ST77XX_WHITE); //white text
-  carrier.display.setTextSize(4); //medium sized text
-  carrier.display.setCursor(20, 110); //sets position for printing (x and y)
+  // Configurar la pantalla, configurar el color del fondo, el tamaño del texto y el color del texto
+  carrier.display.fillScreen(ST77XX_BLUE);     //  Fondo rojo
+  carrier.display.setTextColor(ST77XX_WHITE);  //  Texto blanco 
+  carrier.display.setTextSize(4);              // Texto de tamaño mediano
+  carrier.display.setCursor(20, 110);         // Establecer la posición para imprimir (x e y)
   carrier.display.print("Humi: ");
   carrier.display.print(humidity);
   carrier.display.println(" %");
