@@ -172,10 +172,11 @@ void printTemperature(double temp, const char *unit) {
 
 
 
-* ## EJERCICIO 3
+* ## EJERCICIO 3 y 4
 
 
 <p align="center">
   <img src="" alt="" width="400px" />
 </p>
 
+## Conclusión
