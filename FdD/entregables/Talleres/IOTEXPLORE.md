@@ -6,8 +6,9 @@
   <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Taller 03: Internet de las Cosas (IoT)</h1>
 </p>
 
-               
-## 1.- Lista de materiales utilizados en el laboratorio
+## 1. Introduccíon   
+
+## 2.- Lista de materiales utilizados en el laboratorio
 
 
 | MATERIALES |  IMAGEN | 
