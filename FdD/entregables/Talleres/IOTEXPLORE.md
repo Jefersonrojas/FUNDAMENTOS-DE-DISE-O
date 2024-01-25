@@ -13,7 +13,7 @@
 | MATERIALES |  IMAGEN | 
 | :------------ |:---------------:| 
 | SENSOR PIR| [![PIR.jpg](https://i.postimg.cc/VsjYHfPs/descarga.jpg)](https://postimg.cc/QVdGFrMv)|
-| Arduino MKR WIFI 1010| [![ARDUINO.jpg](https://i.postimg.cc/KjrJ39pT/ABX00023-02-unbox-2dbcb053-66e1-4b93-b5cf-456dd6b4fbb1-934x700.webp)](https://postimg.cc/0KjpLCs5) |
+| Arduino MKR WIFI 1010| [![ARDUINO.jpg](https://i.postimg.cc/dQSZf2tx/descarga-9.jpg)](https://postimg.cc/hhTGz7mL) |
 | Arduino MKR IoT Carrier | [![Arduino MKR IoT Carrier.jpg](https://i.postimg.cc/SQ5PB5CZ/descarga-1.jpg)](https://postimg.cc/V5q4MK7M)| 
 
 
