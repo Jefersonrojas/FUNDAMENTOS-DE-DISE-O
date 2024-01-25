@@ -6,7 +6,8 @@
   <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Taller 03: Internet de las Cosas (IoT)</h1>
 </p>
 
-## 1. Introduccíon   
+## 1. Introduccíon 
+#### *El Internet de las Cosas (IoT) es el proceso de conectar los objetos físicos cotidianos al Internet, mediante dispositivos integrados con sensores, software y conectividad de red. Estos dispositivos pueden recopilar y compartir datos, así como interactuar con otros dispositivos o sistemas. El IoT tiene aplicaciones en diversos ámbitos, como el hogar, la industria, la salud, la movilidad y las ciudades inteligentes. El IoT puede ofrecer beneficios como la optimización de las operaciones, la mejora de la eficiencia y la productividad, y la creación de experiencias personalizadas para los usuarios**
 
 ## 2.- Lista de materiales utilizados en el laboratorio
 
