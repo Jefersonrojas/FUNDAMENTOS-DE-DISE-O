@@ -32,9 +32,9 @@
 
 Medición en KiloOhmios con el multímetro digital 
 
-| Valor del Multímetro  | Cálculos  | 
+| Ejercicio 1  |imagen del ejercicio  | 
 | :------------ |:---------------:| 
-| [![yefer.jpg]() |
+| [![yefer.jpg](https://i.postimg.cc/1Rpg4V5Q/Imagen-de-Whats-App-2024-01-24-a-las-16-58-54-db18f646.jpg)](https://postimg.cc/jCSqF57g) |
 
 
 
