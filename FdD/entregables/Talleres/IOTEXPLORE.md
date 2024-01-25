@@ -7,7 +7,7 @@
 </p>
 
 # Imagen del grupo
-<p align="left">
+<p align="center">
   <img src="https://i.postimg.cc/3RWdYGXH/Imagen-de-Whats-App-2024-01-24-a-las-18-27-08-48935e46.jpg)](https://postimg.cc/CBTF4zrv)" alt="" width="900px" />
 </p>
 
@@ -102,7 +102,7 @@ void printHumidity() {
 
 ### Imagenes como prueba de los resultados del ejercicio
 
-<p align="center">
+<p align="left">
   <img src="https://i.postimg.cc/1Rpg4V5Q/Imagen-de-Whats-App-2024-01-24-a-las-16-58-54-db18f646.jpg)](https://postimg.cc/jCSqF57g)" alt="" width="400px" />
 </p>
 
