@@ -3,7 +3,7 @@
   <p align="left">
     <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="300" alt="Facultad de Ciencias e ingeniería logo">
   </p>  
-  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Informe: IOT EXPLORE</h1>
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Informe: Uso de kit arduino IoT</h1>
 </p>
 
                
