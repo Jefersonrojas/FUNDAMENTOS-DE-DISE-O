@@ -277,8 +277,8 @@ void printTemperature(double temp, const char *unit) {
 
 | Explicación  |  Error  | 
 | :------------ |:---------------:| 
-| | [![ERROR1.jpg](https://i.postimg.cc/15XLhL2H/ERROR1.jpg)](https://postimg.cc/KRX9tsZk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
-| | [![Error-2.jpg](https://i.postimg.cc/5NQnm1DZ/Error-2.jpg)](https://postimg.cc/nCZ4F8Fk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
+| En este ejercicio el objetivo principal era hacer que tenga una funcion similar a la de una alarma de sensor, es decir, cada ves que sentia la percepción de un objeto o persona, este sonada automaticamente. | [![ERROR1.jpg](https://i.postimg.cc/15XLhL2H/ERROR1.jpg)](https://postimg.cc/KRX9tsZk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
+|El siguiente ejercicio a realizar, era hacer que nuestro sensor mida percepcion del ambiente, es decir, cuando el ambiente esta frio se enci8enda el color rojo indicador de un entorno frio y de azul si el ambiente era lo contrario. Debido a imprevistos de la maquina que estaban fuera de nuestro alcanze no se pudo lograr los objetivos, puesto que la maquina con la que se trabajo necesitaba permisos y condiciones para ciertas instalaciones, se pidio ayuda a los docentes quienes nos explicaron el imprevisto de nuestra maquina, consideramos que hubiese sido una experiencia satisfactoria si se hubiese podido lograr el experimento | [![Error-2.jpg](https://i.postimg.cc/5NQnm1DZ/Error-2.jpg)](https://postimg.cc/nCZ4F8Fk)| [![Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg](https://i.postimg.cc/Lss7b8kS/Whats-App-Image-2024-01-23-at-2-20-01-AM.jpg)](https://postimg.cc/DStBWFYp)|
 
 <p align="center">
   <img src="" alt="" width="400px" />
