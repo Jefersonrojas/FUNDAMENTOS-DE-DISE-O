@@ -21,22 +21,7 @@
 
 ## 2.- Ejercicios desarrollados en la práctica del laboratorio
 
-| Nivel | Ejercicios  | 
-| :------------ |:---------------:| 
-|    EJERCICIO 1    |[![.jpg]()
-|     EJERCICIO 2     | [![.jpg]()
-|     EJERCICIO 3    | [![.jpg]()
-|  | [![.jpg]()
-                
-----
-
-* ##  EJERCICIO 1
-
-Medición en KiloOhmios con el multímetro digital 
-
-| Ejercicio 1  |imagen del ejercicio  | 
-| :------------ |:---------------:| 
-| [![yefer.jpg](https://i.postimg.cc/1Rpg4V5Q/Imagen-de-Whats-App-2024-01-24-a-las-16-58-54-db18f646.jpg)](https://postimg.cc/jCSqF57g) |
+###  EJERCICIO 1
 
 #### CODIGO DEL EJERCICIO 1:
 
@@ -115,16 +100,18 @@ void printHumidity() {
 }
 ```
 
+##### Imagenes como prueba de los resultados del ejercicio
 
- *Explicación: *  
+<p align="center">
+  <img src="https://i.postimg.cc/1Rpg4V5Q/Imagen-de-Whats-App-2024-01-24-a-las-16-58-54-db18f646.jpg)](https://postimg.cc/jCSqF57g)" alt="" width="400px" />
+</p>
+
 
 
 * ##   EJERCICIO 2
 
 
-| Valor del Multímetro  | Circuito  | 
-| :------------ |:---------------:| 
-| [![Imagen8.jpg]()|
+
 
 #### CODIGO DEL EJERCICIO 2:
 
@@ -186,12 +173,6 @@ void printTemperature(double temp, const char *unit) {
 
 
 * ## EJERCICIO 3
-
-
-
-| Montaje del circuito |  Cálculos  | 
-| :------------ |:---------------:| 
-| [![Protoboard.jpg]()]()](https://postimg.cc/8sq2QHWd)|
 
 
 <p align="center">
