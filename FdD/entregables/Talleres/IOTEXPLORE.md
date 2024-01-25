@@ -167,6 +167,14 @@ void printTemperature(double temp, const char *unit) {
 }
 ```
 
+| ESCALA |  MEDIDA | 
+| :------------ |:---------------:| 
+| Medición en grados Celsius| [![celsius.jpg](https://i.postimg.cc/MGcYbvBB/celsius.jpg)](https://postimg.cc/qtTnpBjB) |
+| Medición en grados Fahrenheit| [![Farenheit13.jpg](https://i.postimg.cc/15jBgGnS/Farenheit13.jpg)](https://postimg.cc/7fS0dTnt) |
+| Medición en grados Kelvin | [![kelvin12.jpg](https://i.postimg.cc/dt2dFG2n/kelvin12.jpg)](https://postimg.cc/zVf3SbPR)| 
+
+
+
 ## EXPLICACIÓN DEL CÓDIGO
 ### 1.INCLUSIÓN DE LA BIBLIOTECA (MKRIoTCarrier)
 
