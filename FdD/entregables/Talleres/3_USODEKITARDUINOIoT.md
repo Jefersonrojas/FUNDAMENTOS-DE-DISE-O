@@ -3,12 +3,11 @@
   <p align="left">
     <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="300" alt="Facultad de Ciencias e ingeniería logo">
   </p>  
-  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Taller 03: Internet de las Cosas (IoT)</h1>
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Informe: Internet de las Cosas (IoT)</h1>
 </p>
 
-# Imagen del grupo
 <p align="center">
-  <img src="https://i.postimg.cc/3RWdYGXH/Imagen-de-Whats-App-2024-01-24-a-las-18-27-08-48935e46.jpg)](https://postimg.cc/CBTF4zrv)" alt="" width="900px" />
+  <img src="https://i.postimg.cc/3RWdYGXH/Imagen-de-Whats-App-2024-01-24-a-las-18-27-08-48935e46.jpg)](https://postimg.cc/CBTF4zrv)" alt="" width="800px" />
 </p>
 
 ## 1. Introduccíon 
