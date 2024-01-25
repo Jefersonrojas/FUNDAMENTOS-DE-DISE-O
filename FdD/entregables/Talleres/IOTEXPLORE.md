@@ -36,8 +36,82 @@ Medición en KiloOhmios con el multímetro digital
 | :------------ |:---------------:| 
 | [![yefer.jpg](https://i.postimg.cc/1Rpg4V5Q/Imagen-de-Whats-App-2024-01-24-a-las-16-58-54-db18f646.jpg)](https://postimg.cc/jCSqF57g) |
 
+#### CODIGO DEL EJERCICIO 1:
 
-
+```cpp
+/*
+  Explore IoT - Activity 01
+ 
+  Read values from a temperature and humidity sensor
+  and print it in Serial Monitor and on a colored display.
+ 
+  This example uses the IoT carrier and the MKR WiFi 1010.
+ 
+  Based on code by
+  (c) 2019 D. Cuartielles for Arduino
+ 
+  Written by:
+  (c) 2020 K. SÃ¶derby for Arduino
+ 
+  This code is Free Software licensed under GPLv3
+*/
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+float temperature = 0;
+float humidity = 0;
+void setup() {
+  Serial.begin(9600);
+  //Wait to open the Serial monitor to start the program and see details on errors
+  
+  //Set if it has the Enclosure mounted
+  CARRIER_CASE = true;
+  //Initialize the IoTSK carrier and output any errors in the serial monitor
+  carrier.begin();
+}
+void loop() {
+  // read the sensor values
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+  //Update touch buttons
+  carrier.Buttons.update();
+  // print each of the sensor values
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" Â°C");
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+  //function to print out values
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature();
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printHumidity();
+  }
+}
+void printTemperature() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_RED); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(6); //large sized text
+  carrier.display.setCursor(30, 50); //sets position for printing (x and y)
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4); //decreasing text size
+  carrier.display.setCursor(40, 120); //sets new position for printing (x and y)
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+void printHumidity() {
+  //configuring display, setting background color, text size and text color
+  carrier.display.fillScreen(ST77XX_BLUE); //red background
+  carrier.display.setTextColor(ST77XX_WHITE); //white text
+  carrier.display.setTextSize(4); //medium sized text
+  carrier.display.setCursor(20, 110); //sets position for printing (x and y)
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
+```
 
 
  *Explicación: *  
@@ -50,6 +124,55 @@ Medición en KiloOhmios con el multímetro digital
 | :------------ |:---------------:| 
 | [![Imagen8.jpg]()|
 
+´´´p
+#include <Arduino_MKRIoTCarrier.h>
+MKRIoTCarrier carrier;
+double temperature = 0;
+float humidity = 0;
+
+void setup() {
+  Serial.begin(9600);
+  CARRIER_CASE = true;
+  carrier.begin();
+}
+
+void loop() {
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+  carrier.Buttons.update();
+
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" °C");
+
+  // Convertir a Fahrenheit y Kelvin
+  double fahrenheit = (temperature * 9.0 / 5.0) + 32.0;
+  double kelvin = temperature + 273.15;
+
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperature(temperature, "C");
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printTemperature(fahrenheit, "F");
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
+    printTemperature(kelvin, "K");
+  }
+}
+
+void printTemperature(double temp, const char *unit) {
+  carrier.display.fillScreen(ST77XX_RED);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(6);
+  carrier.display.setCursor(30, 50);
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temp);
+  carrier.display.print(" ");
+  carrier.display.print(unit);
+}
+```
 
 
 
