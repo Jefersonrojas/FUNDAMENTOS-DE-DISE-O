@@ -28,7 +28,7 @@
 
 ###  EJERCICIO 1
 
-#### CODIGO DEL EJERCICIO 1:
+#### CÓDIGO DEL EJERCICIO 1:
 
 ```cpp
 
@@ -113,7 +113,7 @@ void printHumidity() {
 
 
 
-### CODIGO DEL EJERCICIO 2:
+### CÓDIGO DEL EJERCICIO 2:
 
 
 ```cpp
