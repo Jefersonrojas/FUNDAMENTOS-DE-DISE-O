@@ -7,8 +7,9 @@
 ## DEFINICIÓN
 
 <p align="center">
-  <img src="https://i.postimg.cc/0ypXG3Rx/Definicion-caja.jpg)](https://postimg.cc/ZW5L4w5D)" alt="Patente 1" width="800px" />
+  <img src="https://i.postimg.cc/g0w0xvLC/definicion-de-caja-negra.jpg)](https://postimg.cc/SXh45Yrd)" alt="Patente 1" width="800px" />
 </p>
+
 
 
 # ESQUEMA DE FUNCIONES
