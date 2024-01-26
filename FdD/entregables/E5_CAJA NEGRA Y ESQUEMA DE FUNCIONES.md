@@ -19,6 +19,8 @@
 </p>
 
 # DIFINICIÓN DE ESQUEMA DE FUNCIONES
+
 <p align="center">
-  <img src="" alt="Patente 1" width="800px" />
+  <img src="https://i.postimg.cc/G3gn5b2z/esquema-de-definici-n.jpg)](https://postimg.cc/7bzRC8ST)" alt="Patente 1" width="800px" />
 </p>
+
