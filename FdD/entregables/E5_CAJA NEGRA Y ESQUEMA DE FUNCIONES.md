@@ -17,4 +17,7 @@
   <img src="" alt="Patente 1" width="800px" />
 </p>
 
-
+# DIFINICIÓN DE ESQUEMA DE FUNCIONES
+<p align="center">
+  <img src="" alt="Patente 1" width="800px" />
+</p>
