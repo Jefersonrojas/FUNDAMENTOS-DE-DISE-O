@@ -7,7 +7,7 @@
 ## DEFINICIÓN
 
 <p align="center">
-  <img src="https://i.postimg.cc/g0w0xvLC/definicion-de-caja-negra.jpg)](https://postimg.cc/SXh45Yrd)" alt="Patente 1" width="800px" />
+  <img src="https://i.postimg.cc/g0w0xvLC/definicion-de-caja-negra.jpg)](https://postimg.cc/SXh45Yrd)" alt="1" width="800px" />
 </p>
 
 
