@@ -19,7 +19,7 @@
 * # ESQUEMA DE FUNCIONES
 
 <p align="center">
-  <img src="https://i.postimg.cc/8Pd6N1cj/Presentaci-n-de-Gr-ficos-B-sicos-de-la-Empresa-Minimalista-Azul-y-Magenta-4.jpg)](https://postimg.cc/Wh337cMv)" alt="Patente 1" width="800px" />
+  <img src="https://i.postimg.cc/vmKVBZws/Presentaci-n-de-Gr-ficos-B-sicos-de-la-Empresa-Minimalista-Azul-y-Magenta-6.jpg)](https://postimg.cc/HJQxvHLZ)" alt="Patente 1" width="800px" />
 </p>
 
 #### *Fuente: Elaboración propia*
