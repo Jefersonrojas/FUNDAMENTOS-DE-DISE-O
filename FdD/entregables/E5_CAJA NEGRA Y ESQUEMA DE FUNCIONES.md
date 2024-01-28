@@ -1,7 +1,7 @@
 * # CAJA NEGRA 
 
 <p align="center">
-  <img src="https://i.postimg.cc/5tQXHzTY/caja-negra-2.jpg)](https://postimg.cc/KKFGw1Zx)" alt="Patente 1" width="800px" />
+  <img src="https://i.postimg.cc/5tQXHzTY/caja-negra-2.jpg)](https://postimg.cc/KKFGw1Zx)" alt="Entrdas y salidas" width="800px" />
 </p>
 
  
@@ -27,7 +27,7 @@
 * # DIFINICIÓN DE FUNCIONES
 
 <p align="center">
-  <img src="https://i.postimg.cc/G3gn5b2z/esquema-de-definici-n.jpg)](https://postimg.cc/7bzRC8ST)" alt="Patente 1" width="800px" />
+  <img src="https://i.postimg.cc/rwpYTdRZ/Definici-n-de-las-funciones.jpg)](https://postimg.cc/RNjTQZRw)" alt="Definición de funciones" width="800px" />
 </p>
 
 #### *Fuente: Elaboración propia*
