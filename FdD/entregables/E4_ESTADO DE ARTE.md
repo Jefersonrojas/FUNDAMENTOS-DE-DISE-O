@@ -159,7 +159,7 @@ BARBE, GUILLAUME<br>
 
 ### *Requerimiento no funcionales*
 <p align="center">
-  <img src="https://i.postimg.cc/hG116Cdx/proyecto-Qallariy-3.jpg)](https://postimg.cc/McXBjmtK)"Agua es vida" width="600px" />
+  <img src="https://i.postimg.cc/W44bsN6g/proyecto-Qallariy-6.jpg)](https://postimg.cc/pmgtZtSL)" width="600px" />
 </p> Fuente:(Elaboracion propia)
 
 # *Estrategia de Solución*
