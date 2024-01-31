@@ -1,9 +1,14 @@
 <p align="left">
-  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150">
+  <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="250">
  
 </p>
 
-# "PROYECTO QALLARIY"
+# PROYECTO: "QALLARIY"
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+  <p align="center">
+    <img src="https://i.postimg.cc/1RgCnY2H/logo.jpg)](https://postimg.cc/XXbctxVG)"" width="300" alt="logo">
+  </p>  
 
 > Somos un equipo con muchas habilidades y motivaciones para la implementación de soluciones tecnológicas, innovadoras y aplicables.
 
@@ -29,28 +34,28 @@ En los últimos años, se registro una disminución del recurso hídrico el cual
 
 
 
-### PROYECTO DE INVESTIGACION ODS 13  "ACCIÓN POR EL CLIMA"
+### *PROYECTO DE INVESTIGACION ODS 13  "ACCIÓN POR EL CLIMA"*
 1. [Introducción](#INTRODUCCIÓN)
-2. [ODS 13](#ods-13-accion-por-el-clima)
+2. [ODS 13](#ods-13-acción-por-el-clima)
 2. [Sobre Nosotros](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/FdD/entregables/SOBRE%20NOSOTROS.md#qui%C3%A9nes-somos)
 3. [Objetivo](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/README.md#4objetivo)
 1. [Misión y Visión ](https://github.com/Jefersonrojas/PROYECTO-QALLARIY/blob/main/README.md#5misi%C3%B3n-y-visi%C3%B3n)
 
-### ¿Cómo afecta el cambio climático a la agricultura y ganadería peruana?
+### *¿Cómo afecta el cambio climático a la agricultura peruana?*
 El cambio climático es una de las principales amenazas a la agricultura y ganadería peruana. Impactos negativos incluyen cambios en el régimen de lluvias, aumento de la temperatura, incremento de la frecuencia y magnitud de fenómenos extremos, y variaciones en las plagas y enfermedades.
 
 
 >  Huanca López, W., Del, A., Cordero Ramírez, C., Guevara Vásquez, J. E., Delgado, J. Y. N., Guevara, C. N. A., & Fuentes Neira, N. E. (s/f). Plataformaiestphuando.com. Recuperado el 12 de enero de 2024, de https://plataformaiestphuando.com/wp-content/uploads/2023/02/LIBRO-APPA-CON-ISBN.pdf#page=19
 
 
-### Problemática 
+### *Problemática*
 En Perú se centra en la agricultura y ganadería, que son fundamentales para la producción de alimentos y recursos en el país. Estos sectores se están viendo afectados negativamente por el aumento de la escasez hídrica. 
 
 
-#### Objetivo
+### *Objetivo*
 Implementar un sistema de riego tecnificado automático en la ciudad de Huaral para realizar un consumo sostenible del recuerso vital, aumentando la resiliencia ante el cambio climático y promoviendo el uso de tecnologias limpias para la generacion de mejores cosechas en el Perú. 
 
-#### Misión y Visión
+### *Misión y Visión*
 
 |           |Concepto |
 | --------- | -----:|
