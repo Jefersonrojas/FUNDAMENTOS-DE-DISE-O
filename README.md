@@ -9,7 +9,7 @@
 
 
 ### Situación: 
-El Senamhi pronosticó que “la disponibilidad hídrica disminuiría nuevamente, producto de lluvias previstas inferiores a su promedio climático. Este descenso de humedad aunado a los días cálidos, seguido de noches más frías de lo habitual incrementarían los niveles de riesgo (alto) para el cultivo de papa, retrasando la siembra, extendiendo el periodo de emergencia de semillas y disminuyendo la tasa de crecimiento vegetativo”.
+El Senamhi pronosticó que “La disponibilidad hídrica disminuiría nuevamente, producto de lluvias previstas inferiores a su promedio climático. Este descenso de humedad aunado a los días cálidos, seguido de noches más frías de lo habitual incrementarían los niveles de riesgo (alto) para el cultivo de maíz, retrasando la siembra, extendiendo el periodo de emergencia de semillas y disminuyendo la tasa de crecimiento vegetativo”. De igual maera se vio que El fenómeno del niño, afecto al valle de Huaral en un 80-100% en la producción agrícola, trayendo consigo bajo rendimiento productivo, asi también,  la propagacion de plagas  (Direccion regional de agriculta de Lima , 2023).
 
 
 ### ¿Qué impacto tiene el cambio climático en la serranía peruana?
@@ -44,17 +44,17 @@ El cambio climático es una de las principales amenazas a la agricultura y ganad
 
 
 ### Problemática 
-En Perú se centra en la agricultura y ganadería, que son fundamentales para la producción de alimentos y recursos en el país. Estos sectores pueden verse afectados negativamente por el aumento en la sequía, la salinidad del suelo, la propagación de plagas y enfermedades, y otros impactos del cambio climático.
+En Perú se centra en la agricultura y ganadería, que son fundamentales para la producción de alimentos y recursos en el país. Estos sectores se están viendo afectados negativamente por el aumento de la escasez hídrica. 
 
 
 #### Objetivo
-Implementar un proyecto de energía renovable en la comunidad del centro del Perú para reducir las emisiones de gases de efecto invernadero, aumentando la resiliencia ante el cambio climático y promoviendo el uso de tecnologias limpias para la generacion de mejores cosechas en el Perú. 
+Implementar un sistema de riego tecnificado automático en la ciudad de Huaral para realizar un consumo sostenible del recuerso vital, aumentando la resiliencia ante el cambio climático y promoviendo el uso de tecnologias limpias para la generacion de mejores cosechas en el Perú. 
 
 #### Misión y Visión
 
 |           |Concepto |
 | --------- | -----:|
-| Misión    | Implementar un prototipo tecnológico e innovador que contribuya a los agricultores del centro del Perú a mejorar sus cosechas y que loos efectos del clima no los  perjudique |
+| Misión    | Implementar un prototipo tecnológico e innovador que contribuya a los agricultores del centro del Perú a mejorar sus cosechas y que los efectos del clima no los  perjudique |
 | Visión    |  Creación de comunidades y sociedades resilientes y sostenibles, fomentando el uso de fuente de energias renovables como la solar.|
 
 
