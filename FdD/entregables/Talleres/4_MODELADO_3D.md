@@ -17,6 +17,7 @@
 ## 1. INTRODUCCIÓN
 
 El Modelado 3D desde un enfoque general en la actualidad cumple un papel fundamental dentro de nuestras vidas. Es una representación esquemática visible a través de un conjunto de objetos, elementos y propiedades que, una vez procesados, se convierten en una imagen en 3D o una animación. Por ello, en la presente actividad se realizó una exploración en la plataforma de diseño por computadora(CAD) en línea "Onshape", el cual fue una herramienta útil para poder crear modelos tridimensionales de objetos, piezas y estructuras en colaboración. 
+Fuente: Elaboración grupo 08
 
 ## 2. DESARROLLO DE EJERCICIOS
 ### *Ejercicio 1: Realización de un cilindro*
@@ -58,7 +59,7 @@ En horario de clases, tuvimos una pequeña introducción a la impresión 3D, don
 <p align="center">
   <img src="https://i.postimg.cc/J4xVsTQX/Whats-App-Image-2024-02-03-at-6-18-45-AM.jpg)](https://postimg.cc/6y81Sfg6)" />
 </p>
-
+Fuente: Anexo grupo 08
 
 ## 4. CONCLUSIÓN
  En el laboratorio de modelado 3D  hicimos uso de la plataforma de Onshape para hacer modelado 3D de un cílindro, un vaso y una plataforma de protección para Arduino, Onshape demostró ser una plataforma poderosa y accesible para el diseño paramétrico en 3D. Esta experiencia nos brindó una comprensión más profunda de la creación de modelos 3D y la importancia de la precisión en el diseño.
