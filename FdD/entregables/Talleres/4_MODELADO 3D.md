@@ -29,7 +29,7 @@
 #### Onshape es una plataforma de diseño asistido por computadora (CAD) en línea que permite a los usuarios crear modelos 3D y colaborar en proyectos de diseño en tiempo real. 
 
 ## 2.¿PARA QUE SIRVE ONSHAPE?
-### Onshape sirve principalmente como una herramienta de diseño asistido por computadora (CAD) en 3D. Permite a ingenieros, diseñadores y otros profesionales crear modelos tridimensionales de productos, piezas o estructuras. Al ser basado en la nube, ofrece la ventaja de la accesibilidad desde cualquier lugar y la posibilidad de colaborar en tiempo real con otros usuarios.
+#### Onshape sirve principalmente como una herramienta de diseño asistido por computadora (CAD) en 3D. Permite a ingenieros, diseñadores y otros profesionales crear modelos tridimensionales de productos, piezas o estructuras. Al ser basado en la nube, ofrece la ventaja de la accesibilidad desde cualquier lugar y la posibilidad de colaborar en tiempo real con otros usuarios.
 
 ## 3.QUE ES EL MODELADO 3D?
 #### El modelado 3D es el proceso de crear representaciones tridimensionales de objetos o escenarios utilizando software especializado.
