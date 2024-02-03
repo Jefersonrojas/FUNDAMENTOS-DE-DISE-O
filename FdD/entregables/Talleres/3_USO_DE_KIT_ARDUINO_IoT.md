@@ -1,15 +1,15 @@
-
-<p align="left" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
-  <p align="left">
-    <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="300" alt="Facultad de Ciencias e ingeniería logo">
+ <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+  <p align="center">
+    <img src="https://i.postimg.cc/pXjm2knB/Grupo-08.jpg)](https://postimg.cc/ZCTbH8H9)" width="1000" alt="logo">
   </p>  
-  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Informe: Internet de las Cosas (IoT)</h1>
+ 
+   </p>  
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Taller N° 03:</h1>
 </p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/3RWdYGXH/Imagen-de-Whats-App-2024-01-24-a-las-18-27-08-48935e46.jpg)](https://postimg.cc/CBTF4zrv)" alt="" width="800px" />
+ </p>  
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">"Internet de las Cosas (IoT)"</h1>
 </p>
-
+ 
 ## 1. Introducción 
 *En este proyecto, se busca familiarizar a los participantes con la MKR IoT Carrier, componente clave del Arduino Oplà IoT Kit. A través de un programa práctico, se pretende que los usuarios comprendan los diferentes elementos de la placa, exploren la librería MKRIoTCarrier y adquieran habilidades para programar actuadores y sensores. Los objetivos incluyen la creación de una aplicación básica que demuestre todas las funciones de la MKR IoT Carrier, sirviendo como una introducción esencial antes de abordar proyectos más avanzados y como referencia para refrescar conocimientos sobre el hardware en futuras aplicaciones. Este proyecto establece una base sólida para la comprensión y aplicación efectiva de la MKR IoT Carrier en proyectos de Internet de las cosas*
 
