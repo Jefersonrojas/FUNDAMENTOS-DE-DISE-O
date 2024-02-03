@@ -64,6 +64,8 @@ Para realizar el soporte de la impresión 3D del arduino, se empleó algunas her
 
 
 
+
+
 ## 3. Pre-Conclusión (VIDEO EXPLICATIVO) 
 En horario de clases, tuvimos una pequeña introducción a la impresión 3D, donde se nos mostró los tipos de impresoras,donde tres de ellas son modelos de mingda y dos son Enders, entre otras.Cada una tiene un sistema de impresión, por ejemplo una de ellas se imprime con un USB, la otra con un programa directamente de la computadora e inclusive se puede controlar la temperatura. Todos los archivos que se enviaran deben de ser en formato STL y se debe de tener cuidado con algunos aspectos para la impresión (cuando se imprima las medidas siempre deben de ser un 1cm más, es decir si son 7cm debe de ser 7,1 cm, debido a que el material al ser plásticos al enfriarse tiende a reducir su tamaño, y más aún si son figuras cerradas),así también, se debe de tener en cuenta con relleno(gestionar bien los materiales, normalmente se imprime en un 20 a 30%) 
 
