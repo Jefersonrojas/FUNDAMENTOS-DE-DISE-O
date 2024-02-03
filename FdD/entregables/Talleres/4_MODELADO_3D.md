@@ -21,7 +21,7 @@ El Modelado 3D desde un enfoque general en la actualidad cumple un papel fundame
 
 
 ## 2. DESARROLLO DE EJERCICIOS
-### *Ejercicio 1: Realización de un de un cilindro*
+### *Ejercicio 1: Realización de un cilindro*
 
  <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
   <p align="center">
