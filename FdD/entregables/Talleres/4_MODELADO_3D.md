@@ -28,7 +28,7 @@ El Modelado 3D desde un enfoque general en la actualidad cumple un papel fundame
 | Seleccionar el plano "Top" para añadir un círculo con dimensiones de 80mm, y centrar el círculo con la opción "Concentric".[![Ej-1-1.jpg](https://i.postimg.cc/MKnzFzCv/Ej-1-1.jpg)](https://postimg.cc/CzVyZpLg) | [![Eje-1-12.jpg](https://i.postimg.cc/mry4HkH6/Eje-1-12.jpg)](https://postimg.cc/R3h2rMGc) |
 | Elegir la opción "Extrude 1" para pasar de un modelo 2D a un modelo 3D considerando 100mm de profundidad. [![Ej-2-2.jpg](https://i.postimg.cc/Rhx46YC4/Ej-2-2.jpg)](https://postimg.cc/MM5hgdjF)|[![Ej-2-22.jpg](https://i.postimg.cc/RCwM5vGF/Ej-2-22.jpg)](https://postimg.cc/7bYvS8F8) |
 | Presionar en "Shell 1" para realizar el agujero(quitar la parte superior del cilindro). [![Ej3-23.jpg](https://i.postimg.cc/XJ6GkQQ7/Ej3-23.jpg)](https://postimg.cc/7CXZx1Fp) | [![Ej3-3.jpg](https://i.postimg.cc/CMfr11fG/Ej3-3.jpg)](https://postimg.cc/Hjd9vTzn)| 
-| Por último, seleccionar en la opción "Fillet" para añadir los bordes. [![Ej4.jpg](https://i.postimg.cc/Ss762Jcs/Ej4.jpg)](https://postimg.cc/TL1LB27M) | [![Eje-44.jpg](https://i.postimg.cc/prCJ7pd7/Eje-44.jpg)](https://postimg.cc/n9sm9VBY)| 
+| Por último, seleccionar en la opción "Fillet 1" para añadir los bordes. [![Ej4.jpg](https://i.postimg.cc/Ss762Jcs/Ej4.jpg)](https://postimg.cc/TL1LB27M) | [![Eje-44.jpg](https://i.postimg.cc/prCJ7pd7/Eje-44.jpg)](https://postimg.cc/n9sm9VBY)| 
 
  <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
   <p align="center">
@@ -39,7 +39,7 @@ El Modelado 3D desde un enfoque general en la actualidad cumple un papel fundame
   
 ### *Ejercicio 2: Realización de un vaso a partir de líneas*
 
-Para realizar la figura tridimensional del vaso, iniciamos ubicando la vista en “top”, en los ejes Y y X. Luego, se creó un Sketh para determinar el plano de trabajo donde creamos líneas para dibujar la parte mitad simétrica del vaso. Y posterior a ello, nos dirigimos al icono de revolución para determinar la cara y el borde a girar del boceto. Finalmente, para tener una mejor presentación se procedió a cambiar el color.
+Para realizar la figura tridimensional del vaso, iniciamos ubicando la vista en “top”, en los ejes Y y X. Luego, se creó un Sketh para determinar el plano de trabajo donde creamos líneas para dibujar la parte mitad simétrica del vaso y definimos medidas del mismo. Y posterior a ello, nos dirigimos al icono de revolución para determinar la cara y el borde a girar del boceto. Finalmente, para tener una mejor presentación se procedió a cambiar el color en la opción "Parts".
 
 | Imágenes |   | 
 | :------------ |:---------------:|  
