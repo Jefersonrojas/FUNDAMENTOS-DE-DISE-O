@@ -48,7 +48,7 @@ Para realizar la figura tridimensional del vaso, iniciamos ubicando la vista en 
 ### *Ejercicio 3: Realización de la base de un Arduino UNO*
 
 
-## 2. Pre-Conclusión (VIDEO EXPLICATIVO) 
+## 3. Pre-Conclusión (VIDEO EXPLICATIVO) 
 En horario de clases, tuvimos una pequeña introducción a la impresión 3D, donde se nos mostró los tipos de impresoras,donde tres de ellas son modelos de mingda y dos son Enders, entre otras.Cada una tiene un sistema de impresión, por ejemplo una de ellas se imprime con un USB, la otra con un programa directamente de la computadora e inclusive se puede controlar la temperatura. Todos los archivos que se enviaran deben de ser en formato STL y se debe de tener cuidado con algunos aspectos para la impresión (cuando se imprima las medidas siempre deben de ser un 1cm más, es decir si son 7cm debe de ser 7,1 cm, debido a que el material al ser plásticos al enfriarse tiende a reducir su tamaño, y más aún si son figuras cerradas),así también, se debe de tener en cuenta con relleno(gestionar bien los materiales, normalmente se imprime en un 20 a 30%) 
 
 <p align="center">
@@ -56,5 +56,5 @@ En horario de clases, tuvimos una pequeña introducción a la impresión 3D, don
 </p>
 
 
-## 3. CONCLUSIÓN
+## 4. CONCLUSIÓN
  En el laboratorio de modelado 3D  hicimos uso de la plataforma de Onshape para hacer modelado 3D de un cílindro, un vaso y una plataforma de protección para Arduino, Onshape demostró ser una plataforma poderosa y accesible para el diseño paramétrico en 3D. Esta experiencia nos brindó una comprensión más profunda de la creación de modelos 3D y la importancia de la precisión en el diseño.
