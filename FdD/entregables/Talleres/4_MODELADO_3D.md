@@ -70,7 +70,9 @@ Para realizar el soporte de la impresión 3D del arduino, se empleó algunas her
 | Right [![Right.jpg](https://i.postimg.cc/fLk76fLM/Right.jpg)](https://postimg.cc/Pps8DZY7) |
 
 
- 3D [![3D.jpg](https://i.postimg.cc/mkYPqPQb/3D.jpg)](https://postimg.cc/8fCkfPK3)
+<p align="center">
+  <img src="https://i.postimg.cc/0j57vGZt/modelos-en-3d.jpg" alt="Patente 1" width="800px" />
+</p>
 
 
 
