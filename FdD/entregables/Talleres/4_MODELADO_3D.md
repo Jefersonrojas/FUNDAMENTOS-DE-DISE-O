@@ -63,10 +63,10 @@ Para realizar el soporte de la impresión 3D del arduino, se empleó algunas her
 *5 *Por último tenemos las observaciones de diferentes angulos y el diseño 3D* 
 
 
-| Procedimiento | Resultado   | 
+| Procedimiento | 3D   | 
 | :------------ |:---------------:| 
-| Frontal [![front.jpg](https://i.postimg.cc/Mpb8QWtC/front.jpg)](https://postimg.cc/pmT7NMwC) | Top [![top.jpg](https://i.postimg.cc/7ZCmFXJm/top.jpg)](https://postimg.cc/dhY2d2By)
-| Right [![Right.jpg](https://i.postimg.cc/fLk76fLM/Right.jpg)](https://postimg.cc/Pps8DZY7)| 3D [![modelos-en-3d.jpg](https://i.postimg.cc/0j57vGZt/modelos-en-3d.jpg)](https://postimg.cc/gX5xqZCR)
+|  [![front.jpg](https://i.postimg.cc/Mpb8QWtC/front.jpg)](https://postimg.cc/pmT7NMwC) |  [![top.jpg](https://i.postimg.cc/7ZCmFXJm/top.jpg)](https://postimg.cc/dhY2d2By)
+|  [![Right.jpg](https://i.postimg.cc/fLk76fLM/Right.jpg)](https://postimg.cc/Pps8DZY7)|  [![3D.jpg](https://i.postimg.cc/mkYPqPQb/3D.jpg)](https://postimg.cc/8fCkfPK3)
 
 
 ## 3. Pre-Conclusión (VIDEO EXPLICATIVO) 
