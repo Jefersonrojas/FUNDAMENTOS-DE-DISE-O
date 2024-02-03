@@ -9,21 +9,10 @@
   </p>  
  
   
-# Taller 04: Modelado 3D
-## INTEGRANTES
-* ### GUTIERREZ HUAMAN, Mar Flor
-* ### FLORES MESCCO, Fiorella Ingrid
-* ### ARQUIÑO CERNA, Noemi Salomina
-* ### ROJAS BURGOS, Heiser Jeferson
+ Taller 04 Modelado 3D
+LABORATORIO N°03:
+“Viscosidad de líquidos “
 
-
-## DOCENTES:
-* ### Mg. Umbert Lewis De la Cruz Rodriguez
-* ### Mg. Paulo Camilo Vela Antón
-* ### Mg. Moises Stevend Meza Rodriguez
-* ### Dr. Harry Anderson Rivera Tito
-* ### Ingeniero. Juan Manuel Zúñiga Mamani
-* ### Ingeniero. Renzo José Chan Ríos
 
 ## 1. ¿QUES ES ONSHAPE?
 #### Onshape es una plataforma de diseño asistido por computadora (CAD) en línea que permite a los usuarios crear modelos 3D y colaborar en proyectos de diseño en tiempo real. 
