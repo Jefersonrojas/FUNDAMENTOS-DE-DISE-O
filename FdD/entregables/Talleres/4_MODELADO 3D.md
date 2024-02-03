@@ -5,7 +5,13 @@
   
 # Taller 04: Modelado 3D
 ## INTEGRANTES
-* ### 
+* ### GUTIERREZ HUAMAN, Mar Flor
+* ### FLORES MESCCO, Fiorella Ingrid
+* ### ARQUIÑO CERNA, Noemi Salomina
+* ### ROJAS BURGOS, Heiser Jeferson
+
+
+## DOCENTES:
 
 ## CONCLUSIÓN
 
