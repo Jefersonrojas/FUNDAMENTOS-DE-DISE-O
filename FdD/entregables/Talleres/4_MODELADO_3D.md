@@ -80,6 +80,11 @@ Una vez concluida la actividad del modelado de nuestro soporte del arduino uno, 
 </p>
 Fuente: Anexo grupo 08
 
+## Simulación
+
+https://skfb.ly/oQBxG
+
+
 ## 3. CONCLUSIÓN
 
 La presente actividad realizada en el laboratorio de modelado 3D donde se hizo uso de la plataforma de Onshape para hacer el modelado 3D de un cilindro, un vaso y una plataforma de protección para Arduino. Fue de gran relevancia para poder continuar con la siguiente fase de nuestro proyecto y nos brindó una experiencia muy gratificadora por las múltiples funciones que proporciona. Asimismo, cabe resaltar la precisión en el diseño que ofrece esta plataforma. Por otro lado, nos hizo entender que para realizar el diseño este se debe realizar con todas las especificaciones ya previstas y considerando hasta el más mínimo detalle para evitar obtener algún resultado desfavorable.
