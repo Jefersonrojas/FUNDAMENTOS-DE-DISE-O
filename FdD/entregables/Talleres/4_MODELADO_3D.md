@@ -23,10 +23,19 @@ El Modelado 3D desde un enfoque general en la actualidad cumple un papel fundame
 ## 2. DESARROLLO DE EJERCICIOS
 ### *Ejercicio 1: Realización de un cilindro*
 
+| Procedimiento | Resultado   | 
+| :------------ |:---------------:| 
+| Seleccionar el plano "Top" para añadir un círculo con dimensiones de 80mm, y centrar el círculo con la opción "Concentric".[![Ej-1-1.jpg](https://i.postimg.cc/MKnzFzCv/Ej-1-1.jpg)](https://postimg.cc/CzVyZpLg) | [![Eje-1-12.jpg](https://i.postimg.cc/mry4HkH6/Eje-1-12.jpg)](https://postimg.cc/R3h2rMGc) |
+|[![Ej-2-2.jpg](https://i.postimg.cc/Rhx46YC4/Ej-2-2.jpg)](https://postimg.cc/MM5hgdjF)|[![Ej-2-22.jpg](https://i.postimg.cc/RCwM5vGF/Ej-2-22.jpg)](https://postimg.cc/7bYvS8F8) |
+| [![Ej3-23.jpg](https://i.postimg.cc/XJ6GkQQ7/Ej3-23.jpg)](https://postimg.cc/7CXZx1Fp) | [![Ej3-3.jpg](https://i.postimg.cc/CMfr11fG/Ej3-3.jpg)](https://postimg.cc/Hjd9vTzn)| 
+| [![Ej4.jpg](https://i.postimg.cc/Ss762Jcs/Ej4.jpg)](https://postimg.cc/TL1LB27M) | [![Eje-44.jpg](https://i.postimg.cc/prCJ7pd7/Eje-44.jpg)](https://postimg.cc/n9sm9VBY)| 
+
  <p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
   <p align="center">
-    <img src="https://i.postimg.cc/655yZRqk/Imagen1.png)](https://postimg.cc/z36zZyn7)" width="550" alt="logo">
+    <img src="https://i.postimg.cc/VLWwH4gH/bonis.png)](https://postimg.cc/gnj1xVfv)" width="550" alt="logo">
   </p>  
+  
+  ##### Fuente: Elaborado por el grupo 08
   
 ### *Ejercicio 2: Realización de un vaso a partir de líneas*
 
