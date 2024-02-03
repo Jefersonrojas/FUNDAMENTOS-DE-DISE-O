@@ -68,7 +68,9 @@ Para realizar el soporte de la impresión 3D del arduino, se empleó algunas her
 | Frontal [![front.jpg](https://i.postimg.cc/Mpb8QWtC/front.jpg)](https://postimg.cc/pmT7NMwC) | [![Eje-1-12.jpg](https://i.postimg.cc/mry4HkH6/Eje-1-12.jpg)](https://postimg.cc/R3h2rMGc) |
 | Top [![top.jpg](https://i.postimg.cc/7ZCmFXJm/top.jpg)](https://postimg.cc/dhY2d2By) |
 | Right [![Right.jpg](https://i.postimg.cc/fLk76fLM/Right.jpg)](https://postimg.cc/Pps8DZY7) |
-| 3D [![3D.jpg](https://i.postimg.cc/mkYPqPQb/3D.jpg)](https://postimg.cc/8fCkfPK3)
+
+
+ 3D [![3D.jpg](https://i.postimg.cc/mkYPqPQb/3D.jpg)](https://postimg.cc/8fCkfPK3)
 
 
 
