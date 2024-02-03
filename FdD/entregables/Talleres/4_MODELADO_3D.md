@@ -65,16 +65,8 @@ Para realizar el soporte de la impresión 3D del arduino, se empleó algunas her
 
 | Procedimiento | Resultado   | 
 | :------------ |:---------------:| 
-| Frontal [![front.jpg](https://i.postimg.cc/Mpb8QWtC/front.jpg)](https://postimg.cc/pmT7NMwC) | [![Eje-1-12.jpg](https://i.postimg.cc/mry4HkH6/Eje-1-12.jpg)](https://postimg.cc/R3h2rMGc) |
-| Top [![top.jpg](https://i.postimg.cc/7ZCmFXJm/top.jpg)](https://postimg.cc/dhY2d2By) |
-| Right [![Right.jpg](https://i.postimg.cc/fLk76fLM/Right.jpg)](https://postimg.cc/Pps8DZY7) |
-
-
-<p align="center">
-  <img src="https://i.postimg.cc/0j57vGZt/modelos-en-3d.jpg" alt="Patente 1" width="800px" />
-</p>
-
-
+| Frontal [![front.jpg](https://i.postimg.cc/Mpb8QWtC/front.jpg)](https://postimg.cc/pmT7NMwC) | Top [![top.jpg](https://i.postimg.cc/7ZCmFXJm/top.jpg)](https://postimg.cc/dhY2d2By)
+| Right [![Right.jpg](https://i.postimg.cc/fLk76fLM/Right.jpg)](https://postimg.cc/Pps8DZY7)| 3D [![modelos-en-3d.jpg](https://i.postimg.cc/0j57vGZt/modelos-en-3d.jpg)](https://postimg.cc/gX5xqZCR)
 
 
 ## 3. Pre-Conclusión (VIDEO EXPLICATIVO) 
