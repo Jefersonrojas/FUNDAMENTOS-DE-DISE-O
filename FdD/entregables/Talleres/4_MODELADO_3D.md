@@ -11,7 +11,7 @@
   <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">"Modelado 3D"</h1>
 </p>
  
-
+###### Profesor a cargo de la actividad: Mg. Umbert Lewis De la Cruz Rodriguez
 
 
 ## 1. INTRODUCCIÓN
