@@ -52,6 +52,19 @@ Para realizar la figura tridimensional del vaso, iniciamos ubicando la vista en 
 
 Para realizar el soporte de la impresión 3D del arduino, se empleó algunas herramientas Para la figura tridimensional de la base, comenzamos ubicando la vista en “top”, en los ejes Y y X. Luego, se creó un Sketh para determinar el plano de trabajo donde creamos líneas para dibujar una imagen similar  con las dimensiones del Arduino. Y posterior a ello, nos dirigimos al icono de revolución para determinar la cara y el borde a girar del boceto.
 
+Para empezar a dibujar el arduino uno las figuras geometricas que utilizamos fueron el rectángulo y el circulo con sus respectivas medidas.
+
+
+1 Seleccionar el plano "Frontal" para añadir un círculo con dimensiones de 3.2mm para ello dar clic en "dimensions" y para centrar el círculo con la opción "Concentric" [![dimensiones-del-circulo.jpg](https://i.postimg.cc/Bb4JyXhB/dimensiones-del-circulo.jpg)](https://postimg.cc/ZBskvKzW)
+
+2 luego dibujamos de la siguiente manera para la base del arduino con sus respectivas medidas [![medidas-del-arduino.jpg](https://i.postimg.cc/WzVB30VQ/medidas-del-arduino.jpg)](https://postimg.cc/njdRSjCk)
+
+3 Presionar en "Shell 1" para realizar el agujero(quitar la parte superior del
+
+4 Para el grosor de los bordes en la opción extrude [![4.jpg](https://i.postimg.cc/595nB68N/4.jpg)](https://postimg.cc/qgRs0Bm9)
+
+5 Por ultimo tenemos las observaciones de diferentes angulos y el diseño 3D 
+
 
 
 ## 3. Pre-Conclusión (VIDEO EXPLICATIVO) 
