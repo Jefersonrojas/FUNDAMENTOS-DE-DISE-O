@@ -33,6 +33,12 @@ El Modelado 3D desde un enfoque general en la actualidad cumple un papel fundame
 Para realizar la figura tridimensional del vaso, iniciamos ubicando la vista en “top”, en los ejes Y y X. Luego, se creó un Sketh para determinar el plano de trabajo donde creamos líneas para dibujar la parte mitad simétrica del vaso. Y posterior a ello, nos dirigimos al icono de revolución para determinar la cara y el borde a girar del boceto. Finalmente, para tener una mejor presentación se procedió a cambiar el color.
 
 
+| :------------ |:---------------:| 
+|1 [![Eje-2-1.jpg](https://i.postimg.cc/KYsc4dbK/Eje-2-1.jpg)](https://postimg.cc/WDgcHYhj)| 2 [![Eje-2-2.jpg](https://i.postimg.cc/KzMbjjQV/Eje-2-2.jpg)](https://postimg.cc/R64ybMkQ)|
+|3 [![Eje-2-3.jpg](https://i.postimg.cc/ZnHM5hk2/Eje-2-3.jpg)](https://postimg.cc/gLwDgQ2H)| 4 [![Eje-2-4.jpg](https://i.postimg.cc/y8kbs5Lp/Eje-2-4.jpg)](https://postimg.cc/QFZbq6Gc)| 
+
+
+
 ### *Ejercicio 4: Realización de la base de un Arduino UNO*
 
 ## 3. CONCLUSIÓN
