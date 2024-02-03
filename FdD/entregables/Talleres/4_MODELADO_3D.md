@@ -29,6 +29,10 @@ El Modelado 3D desde un enfoque general en la actualidad cumple un papel fundame
   </p>  
   
 ### *Ejercicio 2: Realización de un vaso a partir de líneas*
+
+Para realizar la figura tridimensional del vaso, iniciamos ubicando la vista en “top”, en los ejes Y y X. Luego, se creó un Sketh para determinar el plano de trabajo donde creamos líneas para dibujar la parte mitad simétrica del vaso. Y posterior a ello, nos dirigimos al icono de revolución para determinar la cara y el borde a girar del boceto. Finalmente, para tener una mejor presentación se procedió a cambiar el color.
+
+
 ### *Ejercicio 4: Realización de la base de un Arduino UNO*
 
 ## 3. CONCLUSIÓN
