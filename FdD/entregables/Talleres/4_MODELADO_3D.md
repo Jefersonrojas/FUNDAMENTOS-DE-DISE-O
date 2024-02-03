@@ -18,6 +18,10 @@
 
 El Modelado 3D desde un enfoque general en la actualidad cumple un papel fundamental dentro de nuestras vidas. Es una representación esquemática visible a través de un conjunto de objetos, elementos y propiedades que, una vez procesados, se convierten en una imagen en 3D o una animación. Por ello, en la presente actividad se realizó una exploración en la plataforma de diseño por computadora(CAD) en línea "Onshape", el cual fue una herramienta útil para poder crear modelos tridimensionales de objetos, piezas y estructuras en colaboración. 
 
+## 2. Pre-Introducción (VIDEO EXPLICATIVO) 
+En horario de clases, tuvimos una pequeña introducción a la impresión 3D, donde se nos mostró los tipos de impresoras,donde tres de ellas son modelos de mingda y dos son Enders, entre otras.Cada una tiene un sistema de impresión, por ejemplo una de ellas se imprime con un USB, la otra con un programa directamente de la computadora e inclusive se puede controlar la temperatura. Todos los archivos que se enviaran deben de ser en formato STL y se debe de tener cuidado con algunos aspectos para la impresión (cuando se imprima las medidas siempre deben de ser un 1cm más, es decir si son 7cm debe de ser 7,1 cm, debido a que el material al ser plásticos al enfriarse tiende a reducir su tamaño, y más aún si son figuras cerradas),así también, se debe de tener en cuenta con relleno(gestionar bien los materiales, normalmente se imprime en un 20 a 30%) 
+
+
 
 
 ## 2. DESARROLLO DE EJERCICIOS
