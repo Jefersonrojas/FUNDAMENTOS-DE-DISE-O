@@ -60,8 +60,18 @@ Para realizar el soporte de la impresión 3D del arduino, se empleó algunas her
 
 *4 Para el grosor de los bordes en la opción extrude* [![4.jpg](https://i.postimg.cc/595nB68N/4.jpg)](https://postimg.cc/qgRs0Bm9)
 
-*5 *Por último tenemos las observaciones de diferentes angulos y el diseño 3D* 
 
+
+| Procedimiento | 3D   | 
+| :------------ |:---------------:|
+| *1 Seleccionar el plano "Frontal" para añadir un círculo con dimensiones de 3.2mm para ello dar clic en "dimension" y para centrar el círculo con la opción "Concentric"* [![dimensiones-del-circulo.jpg](https://i.postimg.cc/Bb4JyXhB/dimensiones-del-circulo.jpg)](https://postimg.cc/ZBskvKzW) | *2 luego dibujamos de la siguiente manera para la base del arduino con sus respectivas medidas* [![medidas-del-arduino.jpg](https://i.postimg.cc/WzVB30VQ/medidas-del-arduino.jpg)](https://postimg.cc/njdRSjCk)
+
+|*3 Presionar en "Shell 2" para realizar el agujero(quitar la parte superior del* [![agujero.jpg](https://i.postimg.cc/gJ1QxJLb/agujero.jpg)](https://postimg.cc/G8JqNbjX)
+
+
+
+
+*5 *Por último tenemos las observaciones de diferentes angulos y el diseño 3D* 
 
 | Procedimiento | 3D   | 
 | :------------ |:---------------:| 
