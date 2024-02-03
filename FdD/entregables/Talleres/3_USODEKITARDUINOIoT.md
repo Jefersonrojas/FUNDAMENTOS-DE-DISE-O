@@ -10,14 +10,14 @@
   <img src="https://i.postimg.cc/3RWdYGXH/Imagen-de-Whats-App-2024-01-24-a-las-18-27-08-48935e46.jpg)](https://postimg.cc/CBTF4zrv)" alt="" width="800px" />
 </p>
 
-## 1. Introduccíon 
+## 1. Introducción 
 *En este proyecto, se busca familiarizar a los participantes con la MKR IoT Carrier, componente clave del Arduino Oplà IoT Kit. A través de un programa práctico, se pretende que los usuarios comprendan los diferentes elementos de la placa, exploren la librería MKRIoTCarrier y adquieran habilidades para programar actuadores y sensores. Los objetivos incluyen la creación de una aplicación básica que demuestre todas las funciones de la MKR IoT Carrier, sirviendo como una introducción esencial antes de abordar proyectos más avanzados y como referencia para refrescar conocimientos sobre el hardware en futuras aplicaciones. Este proyecto establece una base sólida para la comprensión y aplicación efectiva de la MKR IoT Carrier en proyectos de Internet de las cosas*
 
 ### Importancia
 
 *El Internet de las Cosas (IoT) permite recopilar y transmitir información de manera automatizada, para mejorar nuestra calidad de vida, aumentar la eficiencia y la productividad de los procesos industriales y empresariales, y reducir el impacto ambiental de nuestras actividades.*
 
-## 2.- Lista de materiales utilizados en el laboratorio
+### Lista de materiales utilizados en el laboratorio
 
 
 | MATERIALES |  IMAGEN | 
@@ -27,7 +27,7 @@
 | Arduino MKR IoT Carrier | [![Arduino MKR IoT Carrier.jpg](https://i.postimg.cc/SQ5PB5CZ/descarga-1.jpg)](https://postimg.cc/V5q4MK7M)| 
 
 
-## 3.- Ejercicios desarrollados en la práctica del laboratorio
+## 2.- Ejercicios desarrollados en la práctica del laboratorio
 
 ###  EJERCICIO 1
 
@@ -310,7 +310,7 @@ void printTemperature(double temp, const char *unit) {
   <img src="" alt="" width="400px" />
 </p>
 
-## 4.- Conclusión
+## 3.- Conclusión
 En conclusion, todo lo experimentando y aprendido, tiene como objetivo principal familiarizar a los participantes con la MKR IoT Carrier del Arduino Oplà IoT Kit. que  permite aprender y comprender el uso de los actuadores y sensores. En el presente informe se realizo para cuatro ejercicios (por problemas tecnicos solo se logro para dos ejercicios). Tales ejercicios servira como base para proyectos futuros estableciendo una base sólida para la comprensión y aplicación práctica de este componente en el ámbito del Internet de las cosas.
 
 
