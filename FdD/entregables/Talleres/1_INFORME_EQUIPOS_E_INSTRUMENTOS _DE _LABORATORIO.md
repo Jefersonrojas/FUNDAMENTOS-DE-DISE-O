@@ -1,10 +1,21 @@
-<p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEI20tmIrrk8sp9_ZQvo1LTBoY2j2L-kia2eLk-UBd8_e6mGZAo09hhWC-mLhtxw-Olg&usqp=CAU" alt="FOTO ODS 7" width="300px" />
+
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px; font-family: Arial, sans-serif;">
+  <p align="center">
+    <img src="https://i.postimg.cc/pXjm2knB/Grupo-08.jpg)](https://postimg.cc/ZCTbH8H9)" width="1000" alt="logo">
+  </p>  
+ 
+   </p>  
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Taller N° 01:</h1>
 </p>
+ </p>  
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">"Introducción a los equipos e instrumentos de laboratorio"</h1>
+</p>
+ 
 
 
-# Informe : Introducción a los equipos e instrumentos de laboratorio 
-                
+
+
 *  Materiales
 *  Promedio de errores absolutos y relativos
 *  Valores ajustados de la gráfica
