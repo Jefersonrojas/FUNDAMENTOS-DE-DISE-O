@@ -51,4 +51,4 @@ Para realizar la figura tridimensional del vaso, iniciamos ubicando la vista en 
 ### *Ejercicio 4: Realización de la base de un Arduino UNO*
 
 ## 3. CONCLUSIÓN
- *En el laboratorio de modelado 3D  hicimos uso de la plataforma de Onshape para hacer modelado 3D de un cílindro, un vaso y una plataforma de protección para Arduino, Onshape demostró ser una plataforma poderosa y accesible para el diseño paramétrico en 3D. Esta experiencia nos brindó una comprensión más profunda de la creación de modelos 3D y la importancia de la precisión en el diseño.*
+ En el laboratorio de modelado 3D  hicimos uso de la plataforma de Onshape para hacer modelado 3D de un cílindro, un vaso y una plataforma de protección para Arduino, Onshape demostró ser una plataforma poderosa y accesible para el diseño paramétrico en 3D. Esta experiencia nos brindó una comprensión más profunda de la creación de modelos 3D y la importancia de la precisión en el diseño.
