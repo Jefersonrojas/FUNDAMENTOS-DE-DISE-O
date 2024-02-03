@@ -40,6 +40,7 @@ El Modelado 3D desde un enfoque general en la actualidad cumple un papel fundame
 
 Para realizar la figura tridimensional del vaso, iniciamos ubicando la vista en “top”, en los ejes Y y X. Luego, se creó un Sketh para determinar el plano de trabajo donde creamos líneas para dibujar la parte mitad simétrica del vaso y definimos medidas del mismo. Y posterior a ello, nos dirigimos al icono de revolución para determinar la cara y el borde a girar del boceto. Finalmente, para tener una mejor presentación se procedió a cambiar el color en la opción "Parts".
 
+
 | Imágenes |   | 
 | :------------ |:---------------:|  
 |1 [![Eje-2-1.jpg](https://i.postimg.cc/KYsc4dbK/Eje-2-1.jpg)](https://postimg.cc/WDgcHYhj)| 2 [![Eje-2-2.jpg](https://i.postimg.cc/KzMbjjQV/Eje-2-2.jpg)](https://postimg.cc/R64ybMkQ)|
@@ -50,7 +51,7 @@ Para realizar la figura tridimensional del vaso, iniciamos ubicando la vista en 
 ### *Ejercicio 3: Realización de la base de un Arduino UNO*
 
 
-Para realizar el soporte de la impresión 3D del arduino, se empleó algunas herramientas Para la figura tridimensional de la base, comenzamos ubicando la vista en “top”, en los ejes Y y X. Luego, se creó un Sketh para determinar el plano de trabajo donde creamos líneas para dibujar una imagen similar  con las dimensiones del Arduino. Y posterior a ello, nos dirigimos al icono de revolución para determinar la cara y el borde a girar del boceto. Para el diseño las figuras geometricas que utilizamos fueron el rectángulo y el circulo.
+Para realizar el soporte de la impresión 3D del arduino, empleamos algunas herramientas, comenzando por ubicar la vista en “top”, en los ejes Y y X. Luego, se creó un Sketh para determinar el plano de trabajo donde creamos líneas para dibujar una imagen similar  con las dimensiones del Arduino. Y posterior a ello, nos dirigimos al icono de revolución para determinar la cara y el borde a girar del boceto. Para el diseño las figuras geometricas que utilizamos fueron el rectángulo y el círculo.
 
 | Procedimiento | Diseños   | 
 | :------------ |:---------------:| 
@@ -58,14 +59,18 @@ Para realizar el soporte de la impresión 3D del arduino, se empleó algunas her
 | *3 Presionar en "Shell 2" para realizar el agujero de la figura* [![agujero.jpg](https://i.postimg.cc/gJ1QxJLb/agujero.jpg)](https://postimg.cc/G8JqNbjX) | *4 Medidas*  [![a.jpg](https://i.postimg.cc/g2BfCNc0/a.jpg)](https://postimg.cc/qNybnc3f)
 
 
-*5 *Por último tenemos las observaciones de diferentes angulos y el diseño 3D* 
+5 *Por último tenemos las observaciones de diferentes angulos y el diseño 3D* 
 
 | Procedimiento | 3D   | 
 | :------------ |:---------------:| 
 |  [![front.jpg](https://i.postimg.cc/Mpb8QWtC/front.jpg)](https://postimg.cc/pmT7NMwC) |  [![top.jpg](https://i.postimg.cc/7ZCmFXJm/top.jpg)](https://postimg.cc/dhY2d2By)
 |  [![Right.jpg](https://i.postimg.cc/fLk76fLM/Right.jpg)](https://postimg.cc/Pps8DZY7)|  [![3D.jpg](https://i.postimg.cc/mkYPqPQb/3D.jpg)](https://postimg.cc/8fCkfPK3)
 
+6 *Resultado de la impresión*
 
+| Procedimiento | Resultado   | 
+| :------------ |:---------------:| 
+| [![Noemii.jpg](https://i.postimg.cc/j5W532Md/Noemii.jpg)](https://postimg.cc/XGb4pjMT) |[![mishi.jpg](https://i.postimg.cc/rpwzWQW4/mishi.jpg)](https://postimg.cc/k2LnPNTM) [![mishi-2.jpg](https://i.postimg.cc/Vk1JsYkD/mishi-2.jpg)](https://postimg.cc/RNsSXxfH) |
 ### Explicación de la impresión en 3D
 
 Una vez concluida la actividad del modelado de nuestro soporte del arduino uno, tuvimos una pequeña introducción a la impresión 3D, donde se nos mostró sobre los tipos de impresoras tres de ellas eran de mingda y dos Enders, entre otras. Cada una tiene un sistema de impresión, por ejemplo una de ellas se imprime con un USB, la otra con un programa directamente de la computadora haciendo posible poder controlar la temperatura. Como recomendación se nos dijo que los archivos que se envian deben de estar en formato STL y se debe de tener cuidado con algunos aspectos para la impresión (cuando se imprima las medidas siempre deben de ser un 1 mm más, es decir si son 7cm debe de ser 7,1 cm, debido a que el material al ser plásticos al enfriarse tiende a reducir su tamaño, y más aún si son figuras cerradas), así también, se debe de tener en cuenta con relleno(gestionar bien los materiales, normalmente se imprime en un 20 a 30%). 
