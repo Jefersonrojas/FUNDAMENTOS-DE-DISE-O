@@ -79,16 +79,19 @@ Para realizar el soporte de la impresión 3D del arduino, se empleó algunas her
 |  [![Right.jpg](https://i.postimg.cc/fLk76fLM/Right.jpg)](https://postimg.cc/Pps8DZY7)|  [![3D.jpg](https://i.postimg.cc/mkYPqPQb/3D.jpg)](https://postimg.cc/8fCkfPK3)
 
 
-## 3. Pre-Conclusión (VIDEO EXPLICATIVO) 
-En horario de clases, tuvimos una pequeña introducción a la impresión 3D, donde se nos mostró los tipos de impresoras,donde tres de ellas son modelos de mingda y dos son Enders, entre otras.Cada una tiene un sistema de impresión, por ejemplo una de ellas se imprime con un USB, la otra con un programa directamente de la computadora e inclusive se puede controlar la temperatura. Todos los archivos que se enviaran deben de ser en formato STL y se debe de tener cuidado con algunos aspectos para la impresión (cuando se imprima las medidas siempre deben de ser un 1 mm más, es decir si son 7cm debe de ser 7,1 cm, debido a que el material al ser plásticos al enfriarse tiende a reducir su tamaño, y más aún si son figuras cerradas),así también, se debe de tener en cuenta con relleno(gestionar bien los materiales, normalmente se imprime en un 20 a 30%) 
+### Explicación de la impresión en 3D
+
+Una vez concluida la actividad del modelado de nuestro soporte del arduino uno, tuvimos una pequeña introducción a la impresión 3D, donde se nos mostró sobre los tipos de impresoras tres de ellas eran de mingda y dos Enders, entre otras. Cada una tiene un sistema de impresión, por ejemplo una de ellas se imprime con un USB, la otra con un programa directamente de la computadora haciendo posible poder controlar la temperatura. Como recomendación se nos dijo que los archivos que se envian deben de estar en formato STL y se debe de tener cuidado con algunos aspectos para la impresión (cuando se imprima las medidas siempre deben de ser un 1 mm más, es decir si son 7cm debe de ser 7,1 cm, debido a que el material al ser plásticos al enfriarse tiende a reducir su tamaño, y más aún si son figuras cerradas), así también, se debe de tener en cuenta con relleno(gestionar bien los materiales, normalmente se imprime en un 20 a 30%). 
 
 <p align="center">
   <img src="https://i.postimg.cc/J4xVsTQX/Whats-App-Image-2024-02-03-at-6-18-45-AM.jpg)](https://postimg.cc/6y81Sfg6)" />
 </p>
 Fuente: Anexo grupo 08
 
-## 4. CONCLUSIÓN
-La presente actividad realizada en el laboratorio de modelado 3D donde se hizo uso de la plataforma de Onshape para hacer modelado 3D de un cílindro, un vaso y una plataforma de protección para Arduino. Fue de gran relevancia para Onshape demostró ser una plataforma poderosa y accesible para el diseño paramétrico en 3D. Esta experiencia nos brindó una comprensión más profunda de la creación de modelos 3D y la importancia de la precisión en el diseño.
+## 3. CONCLUSIÓN
+
+La presente actividad realizada en el laboratorio de modelado 3D donde se hizo uso de la plataforma de Onshape para hacer el modelado 3D de un cilindro, un vaso y una plataforma de protección para Arduino. Fue de gran relevancia para poder continuar con la siguiente fase de nuestro proyecto y nos brindó una experiencia muy gratificadora por las múltiples funciones que proporciona. Asimismo, cabe resaltar la precisión en el diseño que ofrece esta plataforma. Por otro lado, nos hizo entender que para realizar el diseño este se debe realizar con todas las especificaciones ya previstas y considerando hasta el más mínimo detalle para evitar obtener algún resultado desfavorable.
+
  
  ### *Bibliografía*
  
