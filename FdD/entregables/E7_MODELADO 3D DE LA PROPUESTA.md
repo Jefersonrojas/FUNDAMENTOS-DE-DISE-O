@@ -6,3 +6,5 @@ El modelado 3D es el proceso de crear representaciones digitales tridimensionale
 * Onshape: es una plataforma de diseño asistido por computadora (CAD) basada en la nube. Permite a los usuarios crear modelos 3D directamente en el navegador web, lo que facilita el acceso y la colaboración desde diferentes ubicaciones.En un curso de fundamentos de diseño, Onshape podría utilizarse para enseñar conceptos y técnicas relacionados con la creación y manipulación de modelos 3D en el ámbito del diseño industrial, la ingeniería y otras disciplinas.
 
 * Sketchfab: Sketchfab, por otro lado, es una plataforma para compartir y visualizar modelos 3D en línea. Los usuarios pueden cargar sus modelos 3D y compartirlos con otros. Es útil para presentar y mostrar modelos 3D de manera interactiva. En el contexto de un curso de fundamentos de diseño, Sketchfab podría utilizarse para exponer y compartir los proyectos creados con Onshape, permitiendo a los estudiantes visualizar y explorar los modelos de forma más dinámica.
+
+# TABLA DE COMPONENTES 
