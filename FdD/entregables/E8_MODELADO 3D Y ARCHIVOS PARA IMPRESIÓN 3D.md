@@ -7,7 +7,10 @@
   <img src="https://i.postimg.cc/pVY2kY0x/Plano-de-la-Cajita.png)](https://postimg.cc/grjF2RFB)" alt="Agua es vida" width="600px" />
 </p>
 
-## PLANO 3D DEL CILINDRO
+## PLANO 3D DEL TANQUE 
+ <p align="center">
+  <img src="https://i.postimg.cc/BQ462QGh/Tanque-de-agua.png)](https://postimg.cc/6TbtXKqR)" alt="Agua es vida" width="600px" />
+</p>
 
 # PLANOS PARA LA IMPRESIÓN 3D
 ## PLANO 3D DE LA CAJA 
