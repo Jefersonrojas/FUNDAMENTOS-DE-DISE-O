@@ -24,8 +24,8 @@ FUENTE: ELABORACIÓN GRUPO 8
 * IMAGEN
 
 # UBICACIÓN
-### Posible punto estrategico donde sera ubicado nuestro sistema, esta pequeña simulación . 
-     * https://skfb.ly/oQHFR
+### Posible punto estratégico donde sera ubicado nuestro sistema, esta pequeña simulación . 
+     * https://skfb.ly/oQHFR´
 * IMAGEN
   
   [![Whats-App-Image-2024-02-07-at-7-49-26-AM.jpg](https://i.postimg.cc/FK7540gf/Whats-App-Image-2024-02-07-at-7-49-26-AM.jpg)](https://postimg.cc/yJ4rhgGB)
