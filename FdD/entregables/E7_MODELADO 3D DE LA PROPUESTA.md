@@ -24,4 +24,4 @@ FUENTE: ELABORACIÓN GRUPO 8
 * IMAGEN
 
 # UBICACIÓN
-### Posible punto estrategico donde sera ubicado nuestro sistema, esta pequeña simulación lo realizamos en la plataforma Tinkercad.
+### Posible punto estrategico donde sera ubicado nuestro sistema, esta pequeña simulación lo realizamos en la plataforma Tinkercad. 
