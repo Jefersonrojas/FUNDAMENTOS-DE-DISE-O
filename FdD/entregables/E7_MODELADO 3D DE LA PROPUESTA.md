@@ -11,3 +11,17 @@ El modelado 3D es el proceso de crear representaciones digitales tridimensionale
 <p align="center">
   <img src="https://i.postimg.cc/3wFNy1CN/Whats-App-Image-2024-02-06-at-10-20-49-PM.jpg)](https://postimg.cc/3yWYVgqQ)" alt="Agua es vida" width="600px" />
 </p>
+FUENTE: ELABORACIÓN GRUPO 8
+
+# MODELO 3D DEL DISPOSITIVO (CAJA) :
+1. SKETCHFAB
+   
+         LINK:
+* IMAGEN
+# PARTES DEL DISPOSITIVO :
+        LINK:
+
+* IMAGEN
+
+# UBICACIÓN
+### Posible punto estrategico donde sera ubicado nuestro sistema, esta pequeña simulación lo realizamos en la plataforma Tinkercad.
