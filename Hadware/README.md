@@ -4,7 +4,7 @@ En esta carpeta la emplearemos para almacenar archivos relacionados con el dise�
 * Anexo_Qallariy
 * Modelo 3D
 * Prototipo 
-# LENGUA DE PROGRAMACIÓN
+# LENGUAJE DE PROGRAMACIÓN
 * Python
 * Markdow 
 
