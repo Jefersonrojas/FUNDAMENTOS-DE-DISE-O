@@ -8,10 +8,6 @@
 </p>
 
 ## PLANO 3D DEL CILINDRO
-## PLANO DEL ARDUINO (ADICIONAL)
- <p align="center">
-  <img src="https://i.postimg.cc/vThTKpsF/Whats-App-Image-2024-02-07-at-8-04-53-AM.jpg)](https://postimg.cc/LgqmYQ5N)" alt="Agua es vida" width="600px" />
-</p>
 
 # PLANOS PARA LA IMPRESIÓN 3D
 ## PLANO 3D DE LA CAJA 
@@ -22,4 +18,9 @@
 ## PLANO 3D DEl SOPORTE (DE LLUVIA)
  <p align="center">
   <img src="https://i.postimg.cc/1t56W5pr/Plano-de-la-Cajita-1.png)](https://postimg.cc/NyS5FtCK)" alt="Agua es vida" width="600px" />
+</p>
+
+## PLANO DEL ARDUINO (ADICIONAL)
+ <p align="center">
+  <img src="https://i.postimg.cc/vThTKpsF/Whats-App-Image-2024-02-07-at-8-04-53-AM.jpg)](https://postimg.cc/LgqmYQ5N)" alt="Agua es vida" width="600px" />
 </p>
