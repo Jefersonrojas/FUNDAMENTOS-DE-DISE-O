@@ -19,7 +19,7 @@ FUENTE: ELABORACIÓN GRUPO 8
          LINK:
 * IMAGEN
 # PARTES DEL DISPOSITIVO :
-        LINK:
+        LINK: https://cad.onshape.com/documents/2fefb02a1bdbe94703e8ff25/w/a40da5cfe0c65cb7f6288238/e/e58df0a1162d103088382841
 
 * IMAGEN
   
