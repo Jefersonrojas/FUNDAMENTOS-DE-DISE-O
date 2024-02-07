@@ -16,7 +16,7 @@
   <img src="https://i.postimg.cc/pVY2kY0x/Plano-de-la-Cajita.png)](https://postimg.cc/grjF2RFB)" alt="Agua es vida" width="600px" />
 </p>
 
-## PLANO 3D DEl SOPORTES (DE LLUVIA)
+## PLANO 3D DEl SOPORTE (DE LLUVIA)
  <p align="center">
   <img src="https://i.postimg.cc/1t56W5pr/Plano-de-la-Cajita-1.png)](https://postimg.cc/NyS5FtCK)" alt="Agua es vida" width="600px" />
 </p>
