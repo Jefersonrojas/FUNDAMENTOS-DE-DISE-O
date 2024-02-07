@@ -9,6 +9,9 @@
 
 ## PLANO 3D DEL CILINDRO
 ## PLANO DEL ARDUINO (ADICIONAL)
+ <p align="center">
+  <img src="https://i.postimg.cc/vThTKpsF/Whats-App-Image-2024-02-07-at-8-04-53-AM.jpg)](https://postimg.cc/LgqmYQ5N)" alt="Agua es vida" width="600px" />
+</p>
 
 # PLANOS PARA LA IMPRESIÓN 3D
 ## PLANO 3D DE LA CAJA 
