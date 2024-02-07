@@ -22,6 +22,7 @@ FUENTE: ELABORACIÓN GRUPO 8
         LINK:
 
 * IMAGEN
+[![Whats-App-Image-2024-02-07-at-8-15-56-AM.jpg](https://i.postimg.cc/rm3bGpbK/Whats-App-Image-2024-02-07-at-8-15-56-AM.jpg)](https://postimg.cc/R61X4vvB)
 
 # UBICACIÓN
 ### Posible punto estratégico donde sera ubicado nuestro sistema, esta pequeña simulación . 
