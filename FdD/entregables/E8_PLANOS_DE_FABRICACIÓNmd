@@ -1,3 +1,3 @@
-# PlANOS DE MODELADO 3D
+# PLANOS DE MODELADO 3D
 Los planos de impresión 3D, contienen toda la información necesaria para imprimir un objeto tridimensional en una impresora 3D. Estos archivos describen la geometría del modelo, así como otros detalles esenciales para la impresión, como la disposición de capas, las configuraciones de soporte y la información sobre materiales.El formato de archivo que emplearemos para los planos de impresión 3D es el formato STL (Standard Triangle Language). Este archivo STL representa la superficie de un objeto mediante una malla de triángulos. Los planos de la impresión 3D pueden ser creados en software de modelado 3D (Onshape), y luego se exportan en formato STL para ser procesados por la impresora 3D. 
 
