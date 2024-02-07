@@ -17,6 +17,10 @@
 </p>
 
 # PLANOS PARA LA IMPRESIÓN 3D
+ <p align="center">
+  <img src="https://i.postimg.cc/3N5wSmbG/MODELADO-3-D-2.jpg)](https://postimg.cc/PpyhNpHf)" alt="Agua es vida" width="600px" />
+</p>
+
 ## PLANO 3D DE LA CAJA 
  <p align="center">
   <img src="https://i.postimg.cc/pVY2kY0x/Plano-de-la-Cajita.png)](https://postimg.cc/grjF2RFB)" alt="Agua es vida" width="600px" />
