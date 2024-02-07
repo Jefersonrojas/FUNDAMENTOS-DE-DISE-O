@@ -1,6 +1,10 @@
 # PLANOS GENERALES 
 ## PLANO DEL MODELO 3D GENERAL
-* En el presente punto se dará a conocer la imagen central del plano, donde se muestra a detalle las medidas específicas de nuestro prototipo, desde todos sus componente 
+* En el presente punto se dará a conocer la imagen central del plano, donde se muestra a detalle las medidas específicas de nuestro prototipo, desde todos sus componente
+   <p align="center">
+  <img src="https://i.postimg.cc/ZqT1JRXd/Plano-General.png)](https://postimg.cc/870yH1pp)" alt="Agua es vida" width="600px" />
+</p>
+
 ## PLANO 3D DE LA CAJA 
 * Medidas y dimensiones de la caja, donde se pondrán todos elementos de conecció´n siento estos, el arduino, relé´, entre otros.
  <p align="center">
