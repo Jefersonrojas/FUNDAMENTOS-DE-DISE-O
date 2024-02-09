@@ -1,47 +1,51 @@
-#  ¿En qué consiste el curso?
-El curso de fundamentos de diseño generalmente se centra en proporcionar a los estudiantes una comprensión sólida de los principios básicos del diseño visual. Estos principios son fundamentales para cualquier disciplina de diseño, ya sean gráficos,etc.
+# PLANOS GENERALES 
+Los planos de impresión 3D son esenciales para el proceso de fabricación aditiva, ya que guían la impresora 3D en la creación del objeto deseado. Pueden ser compartidos en plataformas en línea, permitiendo a otros usuarios descargar e imprimir el mismo modelo en sus propias impresoras 3D.
+## PLANO DEL MODELO 3D GENERAL
+* En el presente punto se dará a conocer la imagen central del plano, donde se muestra a detalle las medidas específicas de nuestro prototipo, desde todos sus componente
+   <p align="center">
+  <img src="https://i.postimg.cc/ZqT1JRXd/Plano-General.png)](https://postimg.cc/870yH1pp)" alt="Agua es vida" width="600px" />
+</p>
+Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
 
-## Coordinadores del Curso  
-###  Mg. Umbert Lewis De la Cruz Rodriguez  
+## PLANO 3D DE LA CAJA 
+* Medidas y dimensiones de la caja, donde se pondrán todos elementos de conecció´n siento estos, el arduino, relé´, entre otros.
+ <p align="center">
+  <img src="https://i.postimg.cc/pVY2kY0x/Plano-de-la-Cajita.png)](https://postimg.cc/grjF2RFB)" alt="Agua es vida" width="600px" />
+</p>
 
+Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
 
-     umbert.de.la.cruz@upch.pe
-     
-Magíster en Informática Biomédica en Salud Global con mención en Informática en Salud de la Universidad Peruana Cayetano Heredia. Apasionado por aprender y enseñar. Es un entusiasta por la investigación y el desarrollo tecnológico. Fue director y fundador del Centro de Capacitación en tecnologías de la industria 4.0 de Data Science Research Perú. Fue coordinador de laboratorios especializados en la UTP Piura. Mentor en programas de Ingeniería Biomédica por la IEEE EMBS UTP Y UNMSM. En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH. 
+## PLANO 3D DEL TANQUE 
+ <p align="center">
+  <img src="https://i.postimg.cc/BQ462QGh/Tanque-de-agua.png)](https://postimg.cc/6TbtXKqR)" alt="Agua es vida" width="600px" />
+</p>
 
-## Mg. Paulo Camilo Vela Antón 
+Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
 
+# PLANOS PARA LA IMPRESIÓN 3D
+ <p align="center">
+  <img src="https://i.postimg.cc/3N5wSmbG/MODELADO-3-D-2.jpg)](https://postimg.cc/PpyhNpHf)" alt="Agua es vida" width="600px" />
+</p>
 
-      paulo.vela@upch.pe 
+Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
 
+## PLANO 3D DE LA CAJA 
+ <p align="center">
+  <img src="https://i.postimg.cc/pVY2kY0x/Plano-de-la-Cajita.png)](https://postimg.cc/grjF2RFB)" alt="Agua es vida" width="600px" />
+</p>
 
-Ingeniero mecatrónico y Magíster en Informática Biomédica en Salud Global de la Universidad Peruana Cayetano Heredia. Cuenta además con estudios en Gestión de la Tecnología y la Innovación y Diplomacia Científica. Miembro de la Royal Academy of Engineering de Reino Unido a través del programa "Leaders in Innovation Fellowships", y participante activo del programa "Engineering for Change" de EEUU, comunidad internacional enfocada en el diseño de soluciones ingenieriles con impacto social en las áreas de salud, energía y medio ambiente. Sus proyectos de investigación se enfocan en temas como Internet de las Cosas, Big Data y Aprendizaje Automático. En la actualidad se desempeña como docente e investigador de la Escuela de Ingeniería de UPCH.
+Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
 
-## Mg. Moises Stevend Meza Rodriguez 
+## PLANO 3D DEl SOPORTE (DE LLUVIA)
+ <p align="center">
+  <img src="https://i.postimg.cc/1t56W5pr/Plano-de-la-Cajita-1.png)](https://postimg.cc/NyS5FtCK)" alt="Agua es vida" width="600px" />
+</p>
 
+Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
 
-       moises.meza@upch.pe
+## PLANO DEL ARDUINO (ADICIONAL)
+ <p align="center">
+  <img src="https://i.postimg.cc/vThTKpsF/Whats-App-Image-2024-02-07-at-8-04-53-AM.jpg)](https://postimg.cc/LgqmYQ5N)" alt="Agua es vida" width="600px" />
+</p>
 
-Profesor de la Universidad Peruana Cayetano Heredia (UPCH) Fundador de TinML-Perú, y Docente e investigador de la UPCH, consultor de tecnología de la salud, tiene intereses por la tecnología para la medicina como el desarrollador de dispositivos médicos, el internet de las cosas medicas, los bio-robots, bioingeniería, etc.
-
-## Dr. Harry Anderson Rivera Tito 
-
-
-       harry.rivera@upch.pe
-       
-Ingeniero Ambiental de la Universidad Nacional Federico Villarreal, con más de nueve años de experiencia en el área de síntesis y caracterización de nanomateriales carbonosos, óxidos metálicos y complejos organometálicos. Asimismo, ha explorado la separación y purificación de colorantes naturales durante sus estudios de maestría y doctorado en la Universidad Nacional de Ingeniería (Perú), participando en pasantías de laboratorios en universidades de Alemania y Reino Unido. Ha laborado en el sector público brindando apoyo técnico e interactuando con la administración pública para implementar proyectos urbanos sostenibles con endeergías renovables, plantas de tratamiento de aguas, plantas de valorización de residuos sólidos e Internet de las Cosas para el monitoreo atmosférico y de la calidad del aire. 
-
-
-##  Ingeniero. Juan Manuel Zúñiga Mamani 
-
-
-       juan.zuniga@upch.pe
-       
-Ingeniero Mecánico por la Universidad Nacional de Ingeniería con estudios de Maestría en Física. Desde el 2014 viene trabajando en proyectos de investigación y desarrollo tecnológico en el área de diseño mecánico y desarrollo de nuevos materiales para el sector industrial y académico a través de las tecnologías 4.0(diseño y simulación mecánica en la nube, manufactura aditiva, manufactura asistida por computadora). Actualmente, realiza actividades de docencia y es coordinador de los Laboratorios de Ingeniería de UPCH desde el año 2019.
-
-##  Ingeniero. Renzo José Chan Ríos 
-
-
-        renzo.chan@upch.pe
-Maestrando en Automática e Instrumentación en la Universidad Nacional de Ingeniería (UNI). Ingeniero Electrónico con especialidad en Control y Automatización por la Universidad Nacional del Callao (UNAC). Especialista en Protección Radiológica y Seguridad de las Fuentes de Radiación por la Universidad de Buenos Aires (UBA). Capacitado en Formulación de Proyectos de Innovación Tecnológica por el Centro de Tecnologías Avanzadas de manufactura (CETAM) de la Pontificia Universidad Católica del Perú. Actualmente se desempeña como Ingeniero Electrónico de Desarrollo y Oficial de Protección Radiológica en Análisis por Activación Neutrónica en la Dirección de Investigación y Desarrollo del Instituto Peruano de Energía Nuclear (IPEN). 
-
+Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0

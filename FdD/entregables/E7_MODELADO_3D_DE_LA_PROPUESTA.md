@@ -16,12 +16,18 @@ FUENTE: ELABORACIÓN GRUPO 8
 # MODELO 3D DEL DISPOSITIVO (CAJA) :
 1. SKETCHFAB
    
-         LINK:
+         LINK: https://skfb.ly/oQIsO
 * IMAGEN
 # PARTES DEL DISPOSITIVO :
-        LINK:
+        LINK: https://cad.onshape.com/documents/2fefb02a1bdbe94703e8ff25/w/a40da5cfe0c65cb7f6288238/e/e58df0a1162d103088382841
 
 * IMAGEN
+  
+[![Whats-App-Image-2024-02-07-at-8-15-56-AM.jpg](https://i.postimg.cc/rm3bGpbK/Whats-App-Image-2024-02-07-at-8-15-56-AM.jpg)](https://postimg.cc/R61X4vvB)
 
 # UBICACIÓN
-### Posible punto estrategico donde sera ubicado nuestro sistema, esta pequeña simulación lo realizamos en la plataforma Tinkercad. 
+### Posible punto estratégico donde sera ubicado nuestro sistema, esta pequeña simulación . 
+     * https://skfb.ly/oQHFR´
+* IMAGEN
+  
+  [![Whats-App-Image-2024-02-07-at-7-49-26-AM.jpg](https://i.postimg.cc/FK7540gf/Whats-App-Image-2024-02-07-at-7-49-26-AM.jpg)](https://postimg.cc/yJ4rhgGB)
