@@ -38,7 +38,7 @@
 
 FUENTE: Elaboración grupo 8,Fundamentos de Diseño, 2024-0
 
-* ## DESCRIPCIÓN
+* #### DESCRIPCIÓN
 En el presente ejercicio con guía del docente Moises, se logró elaborar un circuito empleando una placa Arduino Nano (no empleamos el Arduino Uno, que fue lo recomendable para nuestro ejercicio, ya que será la placa con la que se trabajara en nuestro proyecto general, debido a que esta no se encontraba apta en la plataforma Flux.ia), así también, se hizo uso de un led, botón, resistor y dos tierras, que serán los elementos para la conexión. El resistor será conectado con un PIN libre en nuestro caso empleamos el D9 que a su vez estará conectado con el led y este con la tierra, por consiguiente, se escogió otro PIN libre, en nuestro caso el D10 que se conectó con el botón y este a tierra. Para este ejercicio los dispositivos estaban orientados en la posición botón (cuadro 2) que se caracteriza por estar de color azul, por otro lado, para tener una vista más amplia a la conexión se puso todo el circuito en vista 3D (cuadro 3 y 4).
 
 ### Ejercicio 2: Circuito electrónico "Control de acceso a parking"
