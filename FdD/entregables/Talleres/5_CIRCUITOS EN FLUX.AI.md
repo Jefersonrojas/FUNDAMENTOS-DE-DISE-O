@@ -15,8 +15,10 @@
 
 
 ## 1. INTRODUCCIÓN
-*Los esquemáticos de un circuito electrónico son*
+*Los esquemáticos de un circuito electrónico son una representación gráfica  de un circuito eléctrico que sirve como herramienta visual para el diseño proporcionando una visualización clara y concisa de la estructura y conexiones de los componentes electrónicos en un sistema,asi como la construcción y el mantenimiento de equipos eléctricos y electrónicos utilizando imágenes de los distintos componentes o símbolos estándar.La elaboración de esquemáticos presenta una representación simplificada de los elementos del circuito y sus interconexiones*
+
+
 
 
 # CONCLUSIÓN 
-*En el taller desarrollado experimentamos nuevas habilidades de hacer circuitos en la plataforma de Flix.ai*
+*En el taller desarrollado experimentamos nuevas habilidades de hacer circuitos en la plataforma de Flux.ai*
