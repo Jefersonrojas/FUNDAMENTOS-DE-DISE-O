@@ -15,21 +15,16 @@
 
 
 ## 1. INTRODUCCIÓN
-*Los esquemáticos de un circuito electrónico son una representación gráfica  de un circuito eléctrico que sirve como herramienta visual para el diseño proporcionando una visualización clara y concisa de la estructura y conexiones de los componentes electrónicos en un sistema, asi como la construcción y el mantenimiento de equipos eléctricos y electrónicos utilizando imágenes de los distintos componentes o símbolos estándar. La elaboración de esquemáticos presenta una representación simplificada de los elementos del circuito y sus interconexiones.*
+*Los esquemáticos de un circuito electrónico son una representación gráfica  de un circuito eléctrico que sirve como herramienta visual para el diseño proporcionando una visualización clara y concisa de la estructura y conexiones de los componentes electrónicos en un sistema, asi como la construcción y el mantenimiento de equipos eléctricos y electrónicos utilizando imágenes de los distintos componentes o símbolos estándar. La elaboración de esquemáticos presenta una representación simplificada de los elementos del circuito y sus interconexiones.
 
+## 2. EJERCICIOS REALIZADOS EN CLASE 
 
-# COMPONENTES DEL CIRCUITO 
+#### COMPONENTES DEL CIRCUITO 
 *Dos módulos de infrarrojos*
-
 *un adaptador I2C*
-
 *LCD 1602 pantalla LCD*
-
 *un servomotor*
-
 *Un Arduino nano*
-
-# EJERCICIOS REALIZADO EN CLASE 
 | IMAGEN |   | 
 | :------------ |:---------------:| 
 | 1. [![Whats-App-Image-2024-02-09-at-11-13-21-PM.jpg](https://i.postimg.cc/fbBj1qP1/Whats-App-Image-2024-02-09-at-11-13-21-PM.jpg)](https://postimg.cc/VS0CCgmF)| [2. [![Whats-App-Image-2024-02-09-at-11-14-01-PM.jpg](https://i.postimg.cc/QdDz3P6M/Whats-App-Image-2024-02-09-at-11-14-01-PM.jpg)](https://postimg.cc/Wh98m9cR)|
@@ -39,8 +34,8 @@
 FUENTE: Elaboración grupo 8,Fundamentos de Diseño, 2024-0
 
 * ## DESCRIPCIÓN
-En el presente ejercicio con guia del docente Moises, se logró elaborar un circuito empleando una placa Arduino Nano (no empleamos el Arduino Uno, que fue lo recomendable para nuestro ejercicio, ya que será la placa con la que se trabajara en nuestro proyecto general, debido a que esta no se encontraba apta en la plataforma Flux.ia), así también, se hizo uso de un led, botón, resistor y dos tierras, que serán los elementos para la coneccion.El resistor será conectado con un PIN libre en nuestro caso empleamos el D9 que a su vez estará conectado con el led y este con la tierra, por consiguiente, se escogió otro PIN libre, en nuestro caso el D10 que se conectó con el botón y este a tierra. Para este ejercicio los dispositivos estaban orientado en la posicion bottom (cuadro 2) que se caracteriza por estar de color azul, por otro lado, para tener una vista mas amplia a la coneccion se puso todo el circuito en vista 3D (cuadro 3 y 4).
+En el presente ejercicio con guía del docente Moises, se logró elaborar un circuito empleando una placa Arduino Nano (no empleamos el Arduino Uno, que fue lo recomendable para nuestro ejercicio, ya que será la placa con la que se trabajara en nuestro proyecto general, debido a que esta no se encontraba apta en la plataforma Flux.ia), así también, se hizo uso de un led, botón, resistor y dos tierras, que serán los elementos para la conexión. El resistor será conectado con un PIN libre en nuestro caso empleamos el D9 que a su vez estará conectado con el led y este con la tierra, por consiguiente, se escogió otro PIN libre, en nuestro caso el D10 que se conectó con el botón y este a tierra. Para este ejercicio los dispositivos estaban orientados en la posición botón (cuadro 2) que se caracteriza por estar de color azul, por otro lado, para tener una vista más amplia a la conexión se puso todo el circuito en vista 3D (cuadro 3 y 4).
 
 
-# CONCLUSIÓN 
+## 3. CONCLUSIÓN 
 *En el taller desarrollado experimentamos nuevas habilidades de hacer circuitos en la plataforma de Flux.ai*
