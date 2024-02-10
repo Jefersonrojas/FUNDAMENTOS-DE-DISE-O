@@ -20,9 +20,13 @@
 
 # COMPONENTES DEL CIRCUITO 
 *Dos módulos de infrarrojos*
+
 *un adaptador I2C*
+
 *LCD 1602 pantalla LCD*
+
 *un servomotor*
+
 *Un Arduino nano*
 
 
