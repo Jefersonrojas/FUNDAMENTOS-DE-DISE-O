@@ -1,3 +1,11 @@
-## En esta carpeta, se encuentran todos los documentos relacionados con la parte de hardware del proyecto. Esto puede incluir esquemas eléctricos, diseños de circuitos, listas de materiales, manuales de ensamblaje, y cualquier otro detalle técnico asociado con el componente físico del proyecto.
+# HARWARE 
+En esta carpeta la emplearemos para almacenar archivos relacionados con el diseño de hardware. Esto puede incluir archivos de esquemas eléctricos, diseños de circuitos impresos (PCB), archivos de modelos 3D de componentes, archivos de simulación, asi tambien como los anexosen cada etapa.Esto nos facilitara la organización y la colaboración en el repositorio. A 
+# CONTENIDO 
+* Anexo_Qallariy
+* Modelo 3D
+* Prototipo 
+# LENGUAJE DE PROGRAMACIÓN
+* Python
+* Markdow 
 
 
