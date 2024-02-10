@@ -11,10 +11,10 @@
   <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">"  Esquemático del Circuito Electrónico en Flux.ia"</h1>
 </p>
  
-###### Profesores a cargo de la actividad:
-###### *Mg. Umbert Lewis De la Cruz Rodriguez
-###### *Mg. Moises Stevend Meza Rodriguez
-###### *Dr. Harry Anderson Rivera Tito
+#### Profesores a cargo de la actividad:
+* ###### *Mg. Umbert Lewis De la Cruz Rodriguez*
+* ###### *Mg. Moises Stevend Meza Rodriguez*
+* ###### *Dr. Harry Anderson Rivera Tito*
 
 
 ## 1. INTRODUCCIÓN
@@ -22,7 +22,9 @@
 
 ## 2. EJERCICIOS REALIZADOS EN CLASE 
 
-#### COMPONENTES DEL CIRCUITO 
+### Ejercicio 1: Circuito electrónico: "Encendido de un Led"
+
+##### COMPONENTES DEL CIRCUITO 
 *Dos módulos de infrarrojos*
 *un adaptador I2C*
 *LCD 1602 pantalla LCD*
@@ -38,6 +40,11 @@ FUENTE: Elaboración grupo 8,Fundamentos de Diseño, 2024-0
 
 * ## DESCRIPCIÓN
 En el presente ejercicio con guía del docente Moises, se logró elaborar un circuito empleando una placa Arduino Nano (no empleamos el Arduino Uno, que fue lo recomendable para nuestro ejercicio, ya que será la placa con la que se trabajara en nuestro proyecto general, debido a que esta no se encontraba apta en la plataforma Flux.ia), así también, se hizo uso de un led, botón, resistor y dos tierras, que serán los elementos para la conexión. El resistor será conectado con un PIN libre en nuestro caso empleamos el D9 que a su vez estará conectado con el led y este con la tierra, por consiguiente, se escogió otro PIN libre, en nuestro caso el D10 que se conectó con el botón y este a tierra. Para este ejercicio los dispositivos estaban orientados en la posición botón (cuadro 2) que se caracteriza por estar de color azul, por otro lado, para tener una vista más amplia a la conexión se puso todo el circuito en vista 3D (cuadro 3 y 4).
+
+### Ejercicio 2: Circuito electrónico "Control de acceso a parking"
+El siguiente ejercicio tuvo como finalidad reforzar los conocimientos adquiridos en el primer ejercicio. El cual era realizar el diseño de un circuito electrónico considerando 6 componentes como mínimo.  
+
+
 
 
 ## 3. CONCLUSIÓN 
