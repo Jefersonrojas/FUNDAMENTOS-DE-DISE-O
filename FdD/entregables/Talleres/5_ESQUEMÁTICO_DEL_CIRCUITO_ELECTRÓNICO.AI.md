@@ -44,6 +44,20 @@ En el presente ejercicio con guía del docente Moises, se logró elaborar un cir
 ### Ejercicio 2: Circuito electrónico "Control de acceso a parking"
 El siguiente ejercicio tuvo como finalidad reforzar los conocimientos adquiridos en el primer ejercicio. El cual era realizar el diseño de un circuito electrónico considerando 6 componentes como mínimo.  
 
+| Componentes |  IMAGEN | 
+| :------------ |:---------------:| 
+|  Arduino Nano 
+Microcontrolador con 16 pines digitales, versión reducida de la placa Arduino Uno R3, pero con dos pines analógicos adicionales. Estás son algunas de sus características técnicas: Microcontrolador ATMega328P y Velocidad de reloj de 16 MHz.|[![Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg](https://i.postimg.cc/63zTBK25/Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg)](https://postimg.cc/Fddhx2V2) |
+|Pantalla LCD 16x2
+Permite mostrar texto y números en una disposición de dos líneas de texto de 16 caracteres cada una. Esta conformado por dos partes principalmente: un PCB que aloja el controlador de pantalla LCD y la pantalla de cristal liquido (LCD) propiamente. | [![Pantalla-LCD.jpg](https://i.postimg.cc/fRjV8Yz9/Pantalla-LCD.jpg)](https://postimg.cc/SnRQs2zS) |
+| Servomotor 
+Alimentado por corriente continua que puede controlar de modo muy exacto la posición (de 0º a 180º) o la velocidad (en revoluciones por minuto, rpm, en sentido horario o antihorario). Tienen 3 pines para su conexión: alimentación (5V), tierra (GND) y el pin de la señal|[![Servomotor.jpg](https://i.postimg.cc/Nf86FBp8/Servomotor.jpg)](https://postimg.cc/PPxpFsGN)| 
+| Sensor ultrasónico
+Detecta objetos a distancias que van desde pocos centímetros hasta varios metros y emite un sonido, además mide el tiempo que la señal tarda en regresar. Su funcionamiento solamente es en el aire, y puede detectar objetos con diferentes formas, colores, superficies y de diferentes materiales.| [![sensor-ultrasonico.jpg](https://i.postimg.cc/2jxm1tq7/sensor-ultrasonico.jpg)](https://postimg.cc/grr15NHx)|
+| Potenciómetro 
+Componente electrónico similar a los resistores pero cuyo valor de resistencia en vez de ser fijo es variable, haciendo posible controlar la intensidad de corriente a lo largo de un circuito conectándolo en paralelo ó la caida de tensión al conectarlo en serie.|[![Potenci-metro.jpg](https://i.postimg.cc/Zqx2xGb6/Potenci-metro.jpg)](https://postimg.cc/qtg1kZC7)| 
+|Led rojo y blanco|[![Led.png](https://i.postimg.cc/CxW9kd52/Led.png)](https://postimg.cc/k2vjdJxN) |
+|2 Resistencias de 500 ohmios|[![resistencias.png](https://i.postimg.cc/jqgWkBWQ/resistencias.png)](https://postimg.cc/yWRYDQyk)|
 
 
 
