@@ -48,4 +48,5 @@ El siguiente ejercicio tuvo como finalidad reforzar los conocimientos adquiridos
 
 
 ## 3. CONCLUSIÓN 
-*En el taller desarrollado experimentamos nuevas habilidades de hacer circuitos en la plataforma de Flux.ai*
+Por todo lo hablado, se queda por concluir que los esquemáticos de los circuitos electrónicos, son de suma importancia ya que es la herramienta visual que nos permite comprender y entender el diseño de los circuitos electrónicos, tal fue el caso con el ejercicio número 1 que se realizó en clase, nos permitió interpretar de manera global la conección de cada elemento, así también, entendiendo conceptos como bottom y top y ya a manera de práctica empleando los conceptos proporcionados en clase se realizó un nuevo circuito con seis elementos, donde el objetivo era dar a conocer la disponibilidad de espacio en un estacionamiento de carros,brindando a los usuarios la disponibilidad del espacio en el área de parqueo, con los conceptos más sólidos pudimos comprender el taller en la plataforma Flux.ia.
+
