@@ -11,7 +11,10 @@
   <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">"  Esquemático del Circuito Electrónico en Flux.ia"</h1>
 </p>
  
-
+###### Profesores a cargo de la actividad:
+###### *Mg. Umbert Lewis De la Cruz Rodriguez
+###### *Mg. Moises Stevend Meza Rodriguez
+###### *Dr. Harry Anderson Rivera Tito
 
 
 ## 1. INTRODUCCIÓN
