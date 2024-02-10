@@ -29,7 +29,12 @@
 
 *Un Arduino nano*
 
-# EJERCICIO REALIZADO EN CLASE 
+# EJERCICIOS REALIZADO EN CLASE 
+| IMAGEN |   | 
+| :------------ |:---------------:| 
+| 1. [![Whats-App-Image-2024-02-09-at-11-13-21-PM.jpg](https://i.postimg.cc/fbBj1qP1/Whats-App-Image-2024-02-09-at-11-13-21-PM.jpg)](https://postimg.cc/VS0CCgmF)| [2. [![Whats-App-Image-2024-02-09-at-11-14-01-PM.jpg](https://i.postimg.cc/QdDz3P6M/Whats-App-Image-2024-02-09-at-11-14-01-PM.jpg)](https://postimg.cc/Wh98m9cR)|
+| 3. [![Whats-App-Image-2024-02-09-at-11-16-08-PM.jpg](https://i.postimg.cc/Ls60qPFK/Whats-App-Image-2024-02-09-at-11-16-08-PM.jpg)](https://postimg.cc/3kVZVdwn) | 4.[![Whats-App-Image-2024-02-09-at-11-14-59-PM.jpg](https://i.postimg.cc/cHv9hNJF/Whats-App-Image-2024-02-09-at-11-14-59-PM.jpg)](https://postimg.cc/N9wkGSmX) |
+
 
 
 # CONCLUSIÓN 
