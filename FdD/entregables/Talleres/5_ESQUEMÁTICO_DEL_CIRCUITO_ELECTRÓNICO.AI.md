@@ -34,7 +34,7 @@
 | :------------ |:---------------:| 
 | 1. [![Whats-App-Image-2024-02-09-at-11-13-21-PM.jpg](https://i.postimg.cc/fbBj1qP1/Whats-App-Image-2024-02-09-at-11-13-21-PM.jpg)](https://postimg.cc/VS0CCgmF)| [2. [![Whats-App-Image-2024-02-09-at-11-14-01-PM.jpg](https://i.postimg.cc/QdDz3P6M/Whats-App-Image-2024-02-09-at-11-14-01-PM.jpg)](https://postimg.cc/Wh98m9cR)|
 | 3. [![Whats-App-Image-2024-02-09-at-11-16-08-PM.jpg](https://i.postimg.cc/Ls60qPFK/Whats-App-Image-2024-02-09-at-11-16-08-PM.jpg)](https://postimg.cc/3kVZVdwn) | 4.[![Whats-App-Image-2024-02-09-at-11-14-59-PM.jpg](https://i.postimg.cc/cHv9hNJF/Whats-App-Image-2024-02-09-at-11-14-59-PM.jpg)](https://postimg.cc/N9wkGSmX) |
-
+FUENTE: Elaboración grupo 8,Fundamentos de Diseño, 2024-0
 
 * ## DESCRIPCIÓN
 En el presente ejercicio con guia del docente Moises, se logró elaborar un circuito empleando una placa Arduino Nano (no empleamos el Arduino Uno, que fue lo recomendable para nuestro ejercicio, ya que será la placa con la que se trabajara en nuestro proyecto general, debido a que esta no se encontraba apta en la plataforma Flux.ia), así también, se hizo uso de un led, botón, resistor y dos tierras, que serán los elementos para la coneccion.El resistor será conectado con un PIN libre en nuestro caso empleamos el D9 que a su vez estará conectado con el led y este con la tierra, por consiguiente, se escogió otro PIN libre, en nuestro caso el D10 que se conectó con el botón y este a tierra. Para este ejercicio los dispositivos estaban orientado en la posicion bottom (cuadro 2) que se caracteriza por estar de color azul, por otro lado, para tener una vista mas amplia a la coneccion se puso todo el circuito en vista 3D (cuadro 3 y 4).
