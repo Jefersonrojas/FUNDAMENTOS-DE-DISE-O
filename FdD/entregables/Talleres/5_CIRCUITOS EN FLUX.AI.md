@@ -8,13 +8,14 @@
   <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Taller N° 05:</h1>
 </p>
  </p>  
-  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">"Circuitos en Flex.ia"</h1>
+  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">"  Esquemático del Circuito Electrónico en Flux.ia"</h1>
 </p>
  
 
 
 
 ## 1. INTRODUCCIÓN
+*Los esquemáticos de un circuito electrónico son*
 
 
 # CONCLUSIÓN 
