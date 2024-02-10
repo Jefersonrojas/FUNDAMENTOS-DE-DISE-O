@@ -4,9 +4,7 @@
     <img src="https://i.postimg.cc/pXjm2knB/Grupo-08.jpg)](https://postimg.cc/ZCTbH8H9)" width="1000" alt="logo">
   </p>  
  
-   </p>  
-  <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Taller N° 05:</h1>
-</p>
+   </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Taller N° 05:</h1></p>
  </p>  
   <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">"  Esquemático del Circuito Electrónico en Flux.ia"</h1>
 </p>
@@ -59,8 +57,17 @@ Componente electrónico similar a los resistores pero cuyo valor de resistencia 
 |Led rojo y blanco|[![Led.png](https://i.postimg.cc/CxW9kd52/Led.png)](https://postimg.cc/k2vjdJxN) |
 |2 Resistencias de 500 ohmios|[![resistencias.png](https://i.postimg.cc/jqgWkBWQ/resistencias.png)](https://postimg.cc/yWRYDQyk)|
 
-
+ </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Vista general en 2D</h1></p>
+ <div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://i.postimg.cc/NfCxYwYf/Enfoque-2-D.jpg" width="400px"/>
+  <img src="https://i.postimg.cc/XJR5r2rm/Palno-2-D-1.jpg" width="510px"/>
+</div>
+ </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Vista general en 3D</h1></p>
+ <div align="center"; style="display: flex; justify-content: space-between;">
+  <img src="https://i.postimg.cc/ry7Wq6pq/3D.jpg" width="440px"/>
+  <img src="https://i.postimg.cc/Ghj5DpYL/Plano-3-D-1.jpg" width="520px"/>
+</div>
 
 ## 3. CONCLUSIÓN 
-Por todo lo hablado, se queda por concluir que los esquemáticos de los circuitos electrónicos, son de suma importancia ya que es la herramienta visual que nos permite comprender y entender el diseño de los circuitos electrónicos, tal fue el caso con el ejercicio número 1 que se realizó en clase, nos permitió interpretar de manera global la conección de cada elemento, así también, entendiendo conceptos como bottom y top y ya a manera de práctica empleando los conceptos proporcionados en clase se realizó un nuevo circuito con seis elementos, donde el objetivo era dar a conocer la disponibilidad de espacio en un estacionamiento de carros,brindando a los usuarios la disponibilidad del espacio en el área de parqueo, con los conceptos más sólidos pudimos comprender el taller en la plataforma Flux.ia.
+Por todo lo hablado, se queda por concluir que los esquemáticos de los circuitos electrónicos, son de suma importancia ya que es la herramienta visual que nos permite comprender y entender el diseño de los circuitos electrónicos, tal fue el caso con el ejercicio número 1 que se realizó en clase, nos permitió interpretar de manera global la conección de cada elemento, así también, entendiendo conceptos como bottom y top y ya a manera de práctica empleando los conceptos proporcionados en clase se realizó un nuevo circuito con seis elementos, donde el objetivo era dar a conocer la disponibilidad de espacio en un estacionamiento de carros, brindando a los usuarios la disponibilidad del espacio en el área de parqueo, con los conceptos más sólidos pudimos comprender el taller en la plataforma Flux.ia.
 
