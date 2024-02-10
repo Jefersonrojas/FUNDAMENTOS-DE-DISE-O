@@ -16,7 +16,7 @@
 
 
 ## 1. INTRODUCCIÓN
-*Los esquemáticos de un circuito electrónico son una representación gráfica  de un circuito eléctrico que sirve como herramienta visual para el diseño proporcionando una visualización clara y concisa de la estructura y conexiones de los componentes electrónicos en un sistema, asi como la construcción y el mantenimiento de equipos eléctricos y electrónicos utilizando imágenes de los distintos componentes o símbolos estándar. La elaboración de esquemáticos presenta una representación simplificada de los elementos del circuito y sus interconexiones.
+Los esquemáticos de un circuito electrónico son una representación gráfica  de un circuito eléctrico que sirve como herramienta visual para el diseño proporcionando una visualización clara y concisa de la estructura y conexiones de los componentes electrónicos en un sistema, asi como la construcción y el mantenimiento de equipos eléctricos y electrónicos utilizando imágenes de los distintos componentes o símbolos estándar. La elaboración de esquemáticos presenta una representación simplificada de los elementos del circuito y sus interconexiones.
 
 ## 2. EJERCICIOS REALIZADOS EN CLASE 
 
@@ -45,7 +45,7 @@ El siguiente ejercicio tuvo como finalidad reforzar los conocimientos adquiridos
 | Componentes |  IMAGEN | 
 | :------------ |:---------------:| 
 |  Arduino Nano 
-Microcontrolador con 16 pines digitales, versión reducida de la placa Arduino Uno R3, pero con dos pines analógicos adicionales. Entre sus características técnicas contiene un microcontrolador ATMega328P con velocidad de reloj de 16 MHz.|[![Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg](https://i.postimg.cc/63zTBK25/Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg)](https://postimg.cc/Fddhx2V2) |
+Microcontrolador con 16 pines digitales, versión reducida de la placa Arduino Uno R3, pero con dos pines analógicos adicionales. Entre sus características técnicas contiene un microcontrolador ATMega328P con velocidad de reloj de 16 MHz (Suárez Guedes, 2024).|[![Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg](https://i.postimg.cc/63zTBK25/Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg)](https://postimg.cc/Fddhx2V2) |
 |Pantalla LCD 16x2
 Permite mostrar texto y números en una disposición de dos líneas de texto de 16 caracteres cada una. Esta conformado por dos partes principalmente: un PCB que aloja el controlador de pantalla LCD y la pantalla de cristal liquido (LCD) propiamente. | [![Pantalla-LCD.jpg](https://i.postimg.cc/fRjV8Yz9/Pantalla-LCD.jpg)](https://postimg.cc/SnRQs2zS) |
 | Servomotor 
@@ -70,4 +70,15 @@ Componente electrónico similar a los resistores pero cuyo valor de resistencia 
 
 ## 3. CONCLUSIÓN 
 Por todo lo hablado, se queda por concluir que los esquemáticos de los circuitos electrónicos, son de suma importancia ya que es la herramienta visual que nos permite comprender y entender el diseño de los circuitos electrónicos, tal fue el caso con el ejercicio número 1 que se realizó en clase, nos permitió interpretar de manera global la conección de cada elemento, así también, entendiendo conceptos como bottom y top y ya a manera de práctica empleando los conceptos proporcionados en clase se realizó un nuevo circuito con seis elementos, donde el objetivo era dar a conocer la disponibilidad de espacio en un estacionamiento de carros, brindando a los usuarios la disponibilidad del espacio en el área de parqueo, con los conceptos más sólidos pudimos comprender el taller en la plataforma Flux.ia.
+
+#### Bibliografía
+
+Factory, G. (2023). Display LCD 16x2 alfanumérico (azul o verde). https://www.geekfactory.mx/tienda/pantallas-y-displays/display-lcd-16x2-alfanumerico/#:~:text=El%20display%20LCD%2016%C3%972%20es%20un%20dispositivo%20de,de%2016%20caracteres%20cada%20una.
+
+Industrias, G. (2022). DIAGRAMA DE CIRCUITO ELÉCTRICO. https://industriasgsl.com/blogs/automatizacion/diagrama-electrico
+
+Suárez Guedes, R. (2024). ARDUINO. EduShieldCanarias. https://www3.gobiernodecanarias.org/medusa/ecoblog/rsuagued/arduino/#:~:text=Arduino%20Nano,Velocidad%20de%20reloj%3A%2016%20MHz.
+
+UAEH. (2021). Ultrasónico. http://ceca.uaeh.edu.mx/informatica/oas_final/OA4/ultrasnico.html
+
 
