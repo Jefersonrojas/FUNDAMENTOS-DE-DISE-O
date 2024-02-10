@@ -18,6 +18,13 @@
 *Los esquemáticos de un circuito electrónico son una representación gráfica  de un circuito eléctrico que sirve como herramienta visual para el diseño proporcionando una visualización clara y concisa de la estructura y conexiones de los componentes electrónicos en un sistema, asi como la construcción y el mantenimiento de equipos eléctricos y electrónicos utilizando imágenes de los distintos componentes o símbolos estándar. La elaboración de esquemáticos presenta una representación simplificada de los elementos del circuito y sus interconexiones.*
 
 
+# COMPONENTES DEL CIRCUITO 
+*Dos módulos de infrarrojos*
+*un adaptador I2C*
+*LCD 1602 pantalla LCD*
+*un servomotor*
+*Un Arduino nano*
+
 
 
 # CONCLUSIÓN 
