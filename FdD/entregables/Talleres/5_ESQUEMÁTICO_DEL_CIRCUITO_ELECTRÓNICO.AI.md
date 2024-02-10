@@ -22,12 +22,7 @@ Los esquemáticos de un circuito electrónico son una representación gráfica  
 
 ### Ejercicio 1: Circuito electrónico: "Encendido de un Led"
 
-##### COMPONENTES DEL CIRCUITO 
-*Dos módulos de infrarrojos*
-*un adaptador I2C*
-*LCD 1602 pantalla LCD*
-*un servomotor*
-*Un Arduino nano*
+
 | IMAGEN |   | 
 | :------------ |:---------------:| 
 | 1. [![Whats-App-Image-2024-02-09-at-11-13-21-PM.jpg](https://i.postimg.cc/fbBj1qP1/Whats-App-Image-2024-02-09-at-11-13-21-PM.jpg)](https://postimg.cc/VS0CCgmF)| [2. [![Whats-App-Image-2024-02-09-at-11-14-01-PM.jpg](https://i.postimg.cc/QdDz3P6M/Whats-App-Image-2024-02-09-at-11-14-01-PM.jpg)](https://postimg.cc/Wh98m9cR)|
