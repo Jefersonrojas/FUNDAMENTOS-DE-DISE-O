@@ -47,7 +47,7 @@ El siguiente ejercicio tuvo como finalidad reforzar los conocimientos adquiridos
 | Componentes |  IMAGEN | 
 | :------------ |:---------------:| 
 |  Arduino Nano 
-Microcontrolador con 16 pines digitales, versión reducida de la placa Arduino Uno R3, pero con dos pines analógicos adicionales. Estás son algunas de sus características técnicas: Microcontrolador ATMega328P y Velocidad de reloj de 16 MHz.|[![Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg](https://i.postimg.cc/63zTBK25/Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg)](https://postimg.cc/Fddhx2V2) |
+Microcontrolador con 16 pines digitales, versión reducida de la placa Arduino Uno R3, pero con dos pines analógicos adicionales. Entre sus características técnicas contiene un microcontrolador ATMega328P con velocidad de reloj de 16 MHz.|[![Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg](https://i.postimg.cc/63zTBK25/Arduino-Nano-V3-0-con-FT232-Incluye-cable-USB-Mini-1.jpg)](https://postimg.cc/Fddhx2V2) |
 |Pantalla LCD 16x2
 Permite mostrar texto y números en una disposición de dos líneas de texto de 16 caracteres cada una. Esta conformado por dos partes principalmente: un PCB que aloja el controlador de pantalla LCD y la pantalla de cristal liquido (LCD) propiamente. | [![Pantalla-LCD.jpg](https://i.postimg.cc/fRjV8Yz9/Pantalla-LCD.jpg)](https://postimg.cc/SnRQs2zS) |
 | Servomotor 
