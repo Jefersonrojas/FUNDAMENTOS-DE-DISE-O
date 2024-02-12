@@ -8,6 +8,17 @@
  
 ## *ESQUEMÁTICO Y DIAGRAMA DE FLUJO*
 
+
+      
+  <p align="center">
+    <img src="https://i.postimg.cc/9XtbShP2/ESQUEMA.jpg)](https://postimg.cc/c6CfgP5k)" width="1000" alt="logo">
+  </p>  
+ 
+ 
+
+
+
+
  </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Diagrama de flujo</h1></p>
  <div align="center"; style="display: flex; justify-content: space-between;">
    
