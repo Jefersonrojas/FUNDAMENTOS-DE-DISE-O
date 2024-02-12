@@ -10,6 +10,7 @@
 
  </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Diagrama de flujo</h1></p>
  <div align="center"; style="display: flex; justify-content: space-between;">
+   
  </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Circuitos electrónicos</h1></p>
  <div align="center"; style="display: flex; justify-content: space-between;">
  </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Diagrama de flujo</h1></p>
