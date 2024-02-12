@@ -6,24 +6,27 @@
    </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Avance del prototipo:</h1></p>
  </p> 
  
-## *ESQUEMÁTICO Y DIAGRAMA DE FLUJO*
+## *ESQUEMÁTICO DE LOS CIRCUITOS ELECTRÓNICOS*
 
 
       
   <p align="center">
-    <img src="https://i.postimg.cc/Y03MyzwQ/ESQUEMATICO-QALLARIY-GRUPO-8-2024-02-12.png)](https://postimg.cc/MfvCnRHG)" width="1000" alt="logo">
-  </p>  
- 
- 
-
-   
- </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Circuitos electrónicos</h1></p>
- <div align="center"; style="display: flex; justify-content: space-between;">
- </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;"> Diagrama de flujo</h1></p>
- <div align="center"; style="display: flex; justify-content: space-between;">
-
-   <p align="center">
     <img src="https://i.postimg.cc/2ypkbdGt/Diagrama.jpg" width="1000" alt="logo">
   </p>  
+  
+ #### *Fuente: Equipo 08, Fundamentos de Diseño 2024-0*
+ 
+## *DIAGRAMA DE FLUJO*
+
+
+      
+  <p align="center">
+    <img src="https://i.postimg.cc/2ypkbdGt/Diagrama.jpg" width="1000" alt="logo">
+  </p>  
+  
+ #### *Fuente: Equipo 08, Fundamentos de Diseño 2024-0*
+ 
+   
+
  
 
