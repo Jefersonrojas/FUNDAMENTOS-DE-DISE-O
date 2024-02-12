@@ -11,7 +11,7 @@
 
       
   <p align="center">
-    <img src="https://i.postimg.cc/9XtbShP2/ESQUEMA.jpg)](https://postimg.cc/c6CfgP5k)" width="1000" alt="logo">
+    <img src="https://i.postimg.cc/Y03MyzwQ/ESQUEMATICO-QALLARIY-GRUPO-8-2024-02-12.png)](https://postimg.cc/MfvCnRHG)" width="1000" alt="logo">
   </p>  
  
  
