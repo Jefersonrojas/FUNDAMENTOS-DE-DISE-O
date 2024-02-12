@@ -23,7 +23,9 @@ FUENTE: ELABORACIÓN GRUPO 8
 
 * IMAGEN
   
-[![Whats-App-Image-2024-02-07-at-8-15-56-AM.jpg](https://i.postimg.cc/rm3bGpbK/Whats-App-Image-2024-02-07-at-8-15-56-AM.jpg)](https://postimg.cc/R61X4vvB)
+<p align="center">
+  <img src="https://i.postimg.cc/xjG7C4t3/Modelo-3-D.jpg)](https://postimg.cc/Bt6N7MWj)" alt="Agua es vida" width="600px" />
+</p>
 
 # UBICACIÓN
 ### Posible punto estratégico donde sera ubicado nuestro sistema, esta pequeña simulación . 
