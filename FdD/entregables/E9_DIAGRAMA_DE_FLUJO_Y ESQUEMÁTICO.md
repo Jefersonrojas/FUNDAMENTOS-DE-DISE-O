@@ -9,10 +9,9 @@
 ## *ESQUEMÁTICO DE LOS CIRCUITOS ELECTRÓNICOS*
 
 
-      
   <p align="center">
-    <img src="https://i.postimg.cc/2ypkbdGt/Diagrama.jpg" width="1000" alt="logo">
-  </p>  
+    <img src="https://i.postimg.cc/Y03MyzwQ/ESQUEMATICO-QALLARIY-GRUPO-8-2024-02-12.png)](https://postimg.cc/MfvCnRHG)" width="1000" alt="esquemático">
+  
   
  #### *Fuente: Equipo 08, Fundamentos de Diseño 2024-0*
  
