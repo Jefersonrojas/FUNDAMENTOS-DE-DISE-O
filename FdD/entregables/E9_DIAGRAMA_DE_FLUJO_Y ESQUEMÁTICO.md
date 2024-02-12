@@ -5,6 +5,15 @@
  
    </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Avance del prototipo:</h1></p>
  </p> 
+## *DIAGRAMA DE FLUJO*
+
+
+      
+  <p align="center">
+    <img src="https://i.postimg.cc/2ypkbdGt/Diagrama.jpg" width="1000" alt="logo">
+  </p>  
+  
+ #### *Fuente: Equipo 08, Fundamentos de Diseño 2024-0*
  
 ## *ESQUEMÁTICO DE LOS CIRCUITOS ELECTRÓNICOS*
 
@@ -15,15 +24,7 @@
   
  #### *Fuente: Equipo 08, Fundamentos de Diseño 2024-0*
  
-## *DIAGRAMA DE FLUJO*
 
-
-      
-  <p align="center">
-    <img src="https://i.postimg.cc/2ypkbdGt/Diagrama.jpg" width="1000" alt="logo">
-  </p>  
-  
- #### *Fuente: Equipo 08, Fundamentos de Diseño 2024-0*
  
    
 
