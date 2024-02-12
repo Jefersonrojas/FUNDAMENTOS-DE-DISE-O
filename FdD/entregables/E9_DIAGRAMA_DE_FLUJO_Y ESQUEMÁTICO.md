@@ -1,3 +1,4 @@
-
+# ESQUEMÁTICO 
+# DIAGRAMA DE FLUJO 
 
 
