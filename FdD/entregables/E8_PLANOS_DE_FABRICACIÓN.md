@@ -10,7 +10,7 @@ Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
 ## PLANO 3D DE LA CAJA 
 * Medidas y dimensiones de la caja, donde se pondrán todos elementos de conecció´n siento estos, el arduino, relé´, entre otros.
  <p align="center">
-  <img src="https://i.postimg.cc/pVY2kY0x/Plano-de-la-Cajita.png)](https://postimg.cc/grjF2RFB)" alt="Agua es vida" width="600px" />
+  <img src="https://i.postimg.cc/xCzRWcFP/Grupo-08-Caja-1.png" alt="Agua es vida" width="700px" />
 </p>
 
 Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
@@ -43,9 +43,3 @@ Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
 
 Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
 
-## PLANO DEL ARDUINO (ADICIONAL)
- <p align="center">
-  <img src="https://i.postimg.cc/vThTKpsF/Whats-App-Image-2024-02-07-at-8-04-53-AM.jpg)](https://postimg.cc/LgqmYQ5N)" alt="Agua es vida" width="600px" />
-</p>
-
-Fuente: Elaboración grupo 8, fundamentos de diseño, 2024-0
