@@ -5,6 +5,7 @@
  
    </p> <h1 align="center" style="margin-top: 30px; margin-bottom: 0px;">Avance del prototipo:</h1></p>
  </p> 
+ 
 ## *DIAGRAMA DE FLUJO*
 
 
