@@ -18,7 +18,7 @@
 
 #### *Fuente: Equipo 08, Fundamentos de Diseño 2024-0*
 <p align="center">
-  <img src="https://i.postimg.cc/wMcBFxcN/HITO-1-3.jpg)](https://postimg.cc/YL0kCHP2)" alt="Conclusión" width="600px" />
+  <img src="https://i.postimg.cc/8cDpFQQz/HITO-1-4.jpg)](https://postimg.cc/0MWR34yT)" alt="Conclusión" width="600px" />
 </p>
 
 #### *Fuente: Equipo 08, Fundamentos de Diseño 2024-0*
