@@ -10,11 +10,11 @@
 
 Se realizo la siguiente representación visual con la finalidad de resumir el proceso secuencial de nuestro flujo de trabajo con todas las actividades principales y necesarias para el funcionamiento de nuestro prototipo.
       
-  <p align="center">
-    <img src="https://i.postimg.cc/Hx9QzCs0/Diagrama-de-flujoo-drawio.png" width="1000" alt="Diagrama">
-  </p>  
+[![Whats-App-Image-2024-02-16-at-7-33-52-AM.jpg](https://i.postimg.cc/Z5sZmz2z/Whats-App-Image-2024-02-16-at-7-33-52-AM.jpg)](https://postimg.cc/JsXS3vRp)
 
-         LINK: https://drive.google.com/file/d/1SI8hOo2sBf7RP54I5beUtJNwibWQSPwB/view?usp=sharing 
+[![Whats-App-Image-2024-02-16-at-7-35-36-AM.jpg](https://i.postimg.cc/W3RBpN7C/Whats-App-Image-2024-02-16-at-7-35-36-AM.jpg)](https://postimg.cc/94p8JjKY)
+
+         LINK: https://drive.google.com/file/d/16teP4ByR3I_HQ6NkC0Eaik9UTMBd7pjy/view?usp=sharing
   
  ##### *Fuente: Equipo 08, Fundamentos de Diseño 2024-0*
  
